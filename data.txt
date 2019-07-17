@@ -1,0 +1,54 @@
+﻿{
+    "popular_products": [
+        {
+            "ProductName": "1",
+            "RAM": "1",
+            "HDD": "1",
+            "PriceRange": "1",
+            "Description": "1"
+        }
+    ],
+    "PC": [
+        {
+            "ProductName": "2",
+            "RAM": "2",
+            "HDD": "2",
+            "PriceRange": "2",
+            "Description": "2"
+        }
+    ],
+    "Laptop": [
+        {
+            "ProductName": "3",
+            "RAM": "3",
+            "HDD": "3",
+            "PriceRange": "3",
+            "Description": "3"
+        }
+    ],
+    "Monitor": [
+        {
+            "ProductName": "4",
+            "Description": "4"
+        }
+    ],
+    "Printer": [
+        {
+            "ProductName": "5",
+            "Description": "5"
+        }
+    ],
+    "Accessories": [
+        {
+            "ProductName": "6",
+            "Description": "6"
+        }
+    ],
+    "Services": [
+        {
+            "ServiceName": "7",
+            "Description": "7",
+            "Amount": "7"
+        }
+    ]
+}

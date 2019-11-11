@@ -1,3 +1,28 @@
 {
-
+"banner": [
+        {
+            "url": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/SK/banner1.jpg"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/SK/banner2.jpg"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/SK/banner3.jpg"
+        },
+{
+            "url": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/SK/banner4.jpg"
+        },
+{
+            "url": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/SK/banner5.jpg"
+        },
+{
+            "url": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/SK/banner6.jpg"
+        },
+{
+            "url": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/SK/banner7.jpg"
+        }
+    ],
+"song":{
+ "songURL" : "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Sajiri%20Gojiri%20(%E0%A4%B8%E0%A4%BE%E0%A4%9C%E0%A4%BF%E0%A4%B0%E0%A5%80%20%E0%A4%97%E0%A5%8B%E0%A4%9C%E0%A4%BF%E0%A4%B0%E0%A5%80%20)%20_%20Best%20Wedding%20Song%20_%20TTMM%20(%E0%A4%A4%E0%A5%81%E0%A4%9D%E0%A4%82%20%E0%A4%A4%E0%A5%82%20%E0%A4%AE%E0%A4%BE%E0%A4%9D%E0%A4%82%20%E0%A4%AE%E0%A5%80)%20_%20La.mp3"
+}
 }

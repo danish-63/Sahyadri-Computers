@@ -12,27 +12,27 @@
 
 "popular_products": [
         {
-            "ProductName": "1",
-            "RAM": "1",
-            "HDD": "1",
-            "PriceRange": "1",
-            "Description": "1",
+            "ProductName": "Dell i5",
+            "RAM": "4GB",
+            "HDD": "500GB",
+            "PriceRange": "8000",
+            "Description": "abc",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
 {
-            "ProductName": "1",
-            "RAM": "1",
-            "HDD": "1",
-            "PriceRange": "1",
-            "Description": "1",
+            "ProductName": "HP",
+            "RAM": "4GB",
+            "HDD": "500GB",
+            "PriceRange": "7500",
+            "Description": "xyz",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
 {
-            "ProductName": "1",
-            "RAM": "1",
-            "HDD": "1",
-            "PriceRange": "1",
-            "Description": "1",
+            "ProductName": "Lenovo",
+            "RAM": "8GB",
+            "HDD": "1 TB",
+            "PriceRange": "9000",
+            "Description": "pqr",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],

@@ -9,6 +9,17 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
+
+"popular_products": [
+        {
+            "ProductName": "1",
+            "RAM": "1",
+            "HDD": "1",
+            "PriceRange": "1",
+            "Description": "1"
+        }
+    ],
+
     "CCTV": [
         {
             "Brand": "Hikvision",

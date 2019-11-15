@@ -18,6 +18,22 @@
             "PriceRange": "1",
             "Description": "1",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+{
+            "ProductName": "1",
+            "RAM": "1",
+            "HDD": "1",
+            "PriceRange": "1",
+            "Description": "1",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+{
+            "ProductName": "1",
+            "RAM": "1",
+            "HDD": "1",
+            "PriceRange": "1",
+            "Description": "1",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
 

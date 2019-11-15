@@ -1,54 +1,64 @@
-﻿{
-    "popular_products": [
+{
+    "Categories": [
         {
-            "ProductName": "1",
-            "RAM": "1",
-            "HDD": "1",
-            "PriceRange": "1",
-            "Description": "1"
+            "Name": "CCTV",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Name": "Software",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
-    "PC": [
+    "CCTV": [
         {
-            "ProductName": "2",
-            "RAM": "2",
-            "HDD": "2",
-            "PriceRange": "2",
-            "Description": "2"
+            "Brand": "Hikvision",
+            "Catogory Type": "CCTV Dome Camera",
+            "Model Number": "DS-2CE5AD0T-IRPF(2 Mega Pixel 2.8MM LENS)",
+            "Specification": "Turbo HD 2MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
+            "Price": "1450/-",
+            "Shipin ": "free"
+        },
+        {
+            "Brand": "Hikvision",
+            "Catogory Type": "CCTV Bullet Camera",
+            "Model Number": "DS-2CE1AD0T-IRPF(2 Mega Pixel 3.8 MM  Lens)",
+            "Specification": "Turbo HD 2MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
+            "Price": "1550/-",
+            "Shipin ": "free"
+        },
+        {
+            "Brand": "Hikvision",
+            "Catogory Type": "04 Channel DVR",
+            "Model Number": "DS-7A04HQHI-K1 (Turbo HD DVR)",
+            "Specification": "H.265 Video Compression/HD Input/Mobile Surveillance/Web Access /Mobile Survillance",
+            "Price": "5150/-",
+            "Shipin ": "free"
+        },
+        {
+            "Brand": "Hikvision",
+            "Catogory Type": "08 Channel DVR",
+            "Model Number": "DS-7A08HQHI-K1 (Turbo HD DVR)",
+            "Specification": "H.265 Video Compression/HD Input/Mobile Surveillance/Web Access /Mobile Survillance",
+            "Price": "6890/-",
+            "Shipin ": "free"
         }
     ],
-    "Laptop": [
+    "Software": [
         {
-            "ProductName": "3",
-            "RAM": "3",
-            "HDD": "3",
-            "PriceRange": "3",
-            "Description": "3"
-        }
-    ],
-    "Monitor": [
+            "Brand": "Quick Heal",
+            "Catogory Type": "Antivirus",
+            "Model Number": "Quick heal A/V Pro 1PC/1User",
+            "Specification": "Cloud Protection/Advanced DNA Scan/Browsing Protection/Email Protection/Firewall Monitors Incoming and Outgoing Data Trafik/Track My Laptop ",
+            "Price": "480",
+            "Shipin ": "free"
+        },
         {
-            "ProductName": "4",
-            "Description": "4"
-        }
-    ],
-    "Printer": [
-        {
-            "ProductName": "5",
-            "Description": "5"
-        }
-    ],
-    "Accessories": [
-        {
-            "ProductName": "6",
-            "Description": "6"
-        }
-    ],
-    "Services": [
-        {
-            "ServiceName": "7",
-            "Description": "7",
-            "Amount": "7"
+            "Brand": "Net Prortector",
+            "Catogory Type": "Antivirus",
+            "Model Number": "Net Protector Total Security",
+            "Specification": "Does Not Slow Down Your PC/Ultra Fast Scaning/Simple Easy To Use/Improves Performance of Your PC,LAN Internert",
+            "Price": "440",
+            "Shipin ": "free"
         }
     ]
 }

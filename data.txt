@@ -7,36 +7,16 @@
         {
             "Name": "Software",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
-        }
-    ],
-
-"popular_products": [
+        },
         {
-            "ProductName": "Dell i5",
-            "RAM": "4GB",
-            "HDD": "500GB",
-            "PriceRange": "8000",
-            "Description": "abc",
+            "Name": "Laptop",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
-{
-            "ProductName": "HP",
-            "RAM": "4GB",
-            "HDD": "500GB",
-            "PriceRange": "7500",
-            "Description": "xyz",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
-        },
-{
-            "ProductName": "Lenovo",
-            "RAM": "8GB",
-            "HDD": "1 TB",
-            "PriceRange": "9000",
-            "Description": "pqr",
+        {
+            "Name": "Desktop",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
-
     "CCTV": [
         {
             "Brand": "Hikvision",
@@ -45,6 +25,7 @@
             "Specification": "Turbo HD 2MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
             "Price": "1450/-",
             "Shipin ": "free",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -54,6 +35,7 @@
             "Specification": "Turbo HD 2MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
             "Price": "1550/-",
             "Shipin ": "free",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -63,6 +45,7 @@
             "Specification": "H.265 Video Compression/HD Input/Mobile Surveillance/Web Access /Mobile Survillance",
             "Price": "5150/-",
             "Shipin ": "free",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -72,6 +55,7 @@
             "Specification": "H.265 Video Compression/HD Input/Mobile Surveillance/Web Access /Mobile Survillance",
             "Price": "6890/-",
             "Shipin ": "free",
+            "Availblity": "out of stock",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
@@ -83,6 +67,7 @@
             "Specification": "Cloud Protection/Advanced DNA Scan/Browsing Protection/Email Protection/Firewall Monitors Incoming and Outgoing Data Trafik/Track My Laptop ",
             "Price": "480",
             "Shipin ": "free",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -92,7 +77,178 @@
             "Specification": "Does Not Slow Down Your PC/Ultra Fast Scaning/Simple Easy To Use/Improves Performance of Your PC,LAN Internert",
             "Price": "440",
             "Shipin ": "free",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        }
+    ],
+    "Laptop": [
+        {
+            "Brand": "Dell",
+            "Catogory Type": "Laptop",
+            "Model Number": "Inspiron 3548",
+            "Specification": "Core I3 7th Gen/4 GB DDR4 Ram/2 GB Graphic/No DVD/Win 10+MS Office/15.6\" Screen",
+            "Price": "35700/-",
+            "Shipin ": "free",
+            "Availblity": "available",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Dell",
+            "Catogory Type": "Laptop",
+            "Model Number": "Vostro 3581",
+            "Specification": "Core I3 7th Gen/4 GB DDR4 Ram/2 GB Graphic/Win 10+MS Office/15.6\" Scree",
+            "Price": "34300/-",
+            "Shipin ": "free",
+            "Availblity": "available",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Acer",
+            "Catogory Type": "Laptop",
+            "Model Number": "A315-53(NX.H38SI.014)",
+            "Specification": "Core I5 8tn Gen/4GB DDR4 Ram/1 TB HDD/15.6\" Full HD Screen/Win 10/Black Colour",
+            "Price": "37500/-",
+            "Shipin ": "free",
+            "Availblity": "available",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Acer",
+            "Catogory Type": "Laptop",
+            "Model Number": "A315-53G(NX.H1ASI.003)",
+            "Specification": "Core I5 8tn Gen/8GB DDR4 Ram/1 TB HDD/2 GB MX130 Graphic/15.6\" Full HD Screen/Win 10",
+            "Price": "44510/-",
+            "Shipin ": "free",
+            "Availblity": "available",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Acer",
+            "Catogory Type": "Laptop",
+            "Model Number": "A315-55G(NX.HEDSI.003)",
+            "Specification": "Core I5 8tn Gen/8GB DDR4 Ram/1 TB HDD/2 GB MX230  Graphic/15.6\" Full HD Screen/Win 10/Black Colour",
+            "Price": "47100/-",
+            "Shipin ": "free",
+            "Availblity": "available",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Acer",
+            "Catogory Type": "Laptop",
+            "Model Number": "A515-54G(NX.HN5SI.002)",
+            "Specification": "Core I5 10tn Gen/8GB DDR4 Ram/512 SSD/2 GB MX250  Graphic/15.6\" Full HD Screen/Win 10",
+            "Price": "52210/-",
+            "Shipin ": "free",
+            "Availblity": "available",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Asus",
+            "Catogory Type": "Laptop",
+            "Model Number": "Vivo Book",
+            "Specification": "Core I5 8tn Gen/8GB DDR4 Ram/1 TB HDD/2 GB Graphic/15.6\" Full HD Screen/Win 10/Gold Colour",
+            "Price": "43100/-",
+            "Shipin ": "free",
+            "Availblity": "available",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        }
+    ],
+    "Desktop": [
+        {
+            "Brand": "Lenovo",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "V530 Slim Tower 10TYS00900",
+            "Specification": "Core I3 8th Gen/4 GB DDR 4 2400 Ram / 1 TB HDD/ NO ODD/DOS/19.5\" LED Monitor",
+            "Price": "28900",
+            "Shipin ": "free",
+            "availblity": "available",
+            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Dell",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "Vostro 3670",
+            "Specification": "Pentium Duol Core G5400 8th Genra/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /Ubuntu OS/18.5\"Monitor/3 Years Onsite Warranty",
+            "Shipin ": "free",
+            "availblity": "available",
+            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Dell",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "Vostro 3470(SFF)",
+            "Specification": "Core i3 8100T 8th Gen/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /Ubuntu OS/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
+            "Shipin ": "free",
+            "availblity": "available",
+            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Dell",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "Vostro 3470(SFF)",
+            "Specification": "Core i3 9100 9th Gen/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /Ubuntu OS/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
+            "Shipin ": "free",
+            "availblity": "available",
+            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Dell",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "vostro 3470(SFF)",
+            "Specification": "Core i3 9100 9th Gen/4 GB DDR4 Ram/1 TB HDD/DVD/Wifi /Win 10+MS OFFICE/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
+            "Shipin ": "free",
+            "availblity": "available",
+            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Dell",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "Vostro 3470(SFF)",
+            "Specification": "Core i5 8400 8th Gen/4 GB DDR4 Ram/1 TB HDD/ DVD/Wifi /Ubuntu OS/18.5\"Monitor/3 Years Onsite Warranty",
+            "Shipin ": "free",
+            "availblity": "available",
+            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Dell",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "Vostro 3470(SFF)",
+            "Specification": "Core i5 8400 8th Gen/4 GB DDR4 Ram/1 TB HDD/ DVD/Wifi /Win 10 HOME/18.5\"Monitor/3 Years Onsite Warranty",
+            "Shipin ": "free",
+            "availblity": "available",
+            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        }
+    ],
+    "popular_products": [
+        {
+            "Brand": "Lenovo",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "V530 Slim Tower 10TYS00900",
+            "Specification": "Core I3 8th Gen/4 GB DDR 4 2400 Ram / 1 TB HDD/ NO ODD/DOS/19.5\" LED Monitor",
+            "Price": "28900",
+            "Shipin ": "free",
+            "availblity": "available",
+            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Dell",
+            "Catogory Type": "Laptop",
+            "Model Number": "Inspiron 3548",
+            "Specification": "Core I3 7th Gen/4 GB DDR4 Ram/2 GB Graphic/No DVD/Win 10+MS Office/15.6\" Screen",
+            "Price": "35700/-",
+            "Shipin ": "free",
+            "availblity": "available",
+            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Brand": "Quick Heal",
+            "Catogory Type": "Antivirus",
+            "Model Number": "Quick heal A/V Pro 1PC/1User",
+            "Specification": "Cloud Protection/Advanced DNA Scan/Browsing Protection/Email Protection/Firewall Monitors Incoming and Outgoing Data Trafik/Track My Laptop ",
+            "Price": "480",
+            "Shipin ": "free",
+            "availblity": "available",
+            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ]
 }

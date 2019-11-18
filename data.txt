@@ -161,7 +161,7 @@
             "Specification": "Core I3 8th Gen/4 GB DDR 4 2400 Ram / 1 TB HDD/ NO ODD/DOS/19.5\" LED Monitor",
             "Price": "28900",
             "Shipin ": "free",
-            "availblity": "available",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -170,7 +170,7 @@
             "Model Number": "Vostro 3670",
             "Specification": "Pentium Duol Core G5400 8th Genra/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /Ubuntu OS/18.5\"Monitor/3 Years Onsite Warranty",
             "Shipin ": "free",
-            "availblity": "available",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -179,7 +179,7 @@
             "Model Number": "Vostro 3470(SFF)",
             "Specification": "Core i3 8100T 8th Gen/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /Ubuntu OS/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
             "Shipin ": "free",
-            "availblity": "available",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -188,7 +188,7 @@
             "Model Number": "Vostro 3470(SFF)",
             "Specification": "Core i3 9100 9th Gen/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /Ubuntu OS/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
             "Shipin ": "free",
-            "availblity": "available",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -197,7 +197,7 @@
             "Model Number": "vostro 3470(SFF)",
             "Specification": "Core i3 9100 9th Gen/4 GB DDR4 Ram/1 TB HDD/DVD/Wifi /Win 10+MS OFFICE/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
             "Shipin ": "free",
-            "availblity": "available",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -206,7 +206,7 @@
             "Model Number": "Vostro 3470(SFF)",
             "Specification": "Core i5 8400 8th Gen/4 GB DDR4 Ram/1 TB HDD/ DVD/Wifi /Ubuntu OS/18.5\"Monitor/3 Years Onsite Warranty",
             "Shipin ": "free",
-            "availblity": "available",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -215,7 +215,7 @@
             "Model Number": "Vostro 3470(SFF)",
             "Specification": "Core i5 8400 8th Gen/4 GB DDR4 Ram/1 TB HDD/ DVD/Wifi /Win 10 HOME/18.5\"Monitor/3 Years Onsite Warranty",
             "Shipin ": "free",
-            "availblity": "available",
+            "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
@@ -227,7 +227,7 @@
             "Specification": "Core I3 8th Gen/4 GB DDR 4 2400 Ram / 1 TB HDD/ NO ODD/DOS/19.5\" LED Monitor",
             "Price": "28900",
             "Shipin ": "free",
-            "availblity": "available",
+            "Availblity": "available",
             "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -237,7 +237,7 @@
             "Specification": "Core I3 7th Gen/4 GB DDR4 Ram/2 GB Graphic/No DVD/Win 10+MS Office/15.6\" Screen",
             "Price": "35700/-",
             "Shipin ": "free",
-            "availblity": "available",
+            "Availblity": "available",
             "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -247,7 +247,7 @@
             "Specification": "Cloud Protection/Advanced DNA Scan/Browsing Protection/Email Protection/Firewall Monitors Incoming and Outgoing Data Trafik/Track My Laptop ",
             "Price": "480",
             "Shipin ": "free",
-            "availblity": "available",
+            "Availblity": "available",
             "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ]

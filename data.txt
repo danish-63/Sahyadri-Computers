@@ -228,7 +228,7 @@
             "Price": "28900",
             "Shipin ": "free",
             "Availblity": "available",
-            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
             "Brand": "Dell",
@@ -238,7 +238,7 @@
             "Price": "35700/-",
             "Shipin ": "free",
             "Availblity": "available",
-            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
             "Brand": "Quick Heal",
@@ -248,7 +248,7 @@
             "Price": "480",
             "Shipin ": "free",
             "Availblity": "available",
-            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ]
 }

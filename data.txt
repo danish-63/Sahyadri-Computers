@@ -162,7 +162,7 @@
             "Price": "28900",
             "Shipin ": "free",
             "availblity": "available",
-            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
             "Brand": "Dell",
@@ -171,7 +171,7 @@
             "Specification": "Pentium Duol Core G5400 8th Genra/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /Ubuntu OS/18.5\"Monitor/3 Years Onsite Warranty",
             "Shipin ": "free",
             "availblity": "available",
-            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
             "Brand": "Dell",
@@ -180,7 +180,7 @@
             "Specification": "Core i3 8100T 8th Gen/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /Ubuntu OS/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
             "Shipin ": "free",
             "availblity": "available",
-            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
             "Brand": "Dell",
@@ -189,7 +189,7 @@
             "Specification": "Core i3 9100 9th Gen/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /Ubuntu OS/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
             "Shipin ": "free",
             "availblity": "available",
-            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
             "Brand": "Dell",
@@ -198,7 +198,7 @@
             "Specification": "Core i3 9100 9th Gen/4 GB DDR4 Ram/1 TB HDD/DVD/Wifi /Win 10+MS OFFICE/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
             "Shipin ": "free",
             "availblity": "available",
-            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
             "Brand": "Dell",
@@ -207,7 +207,7 @@
             "Specification": "Core i5 8400 8th Gen/4 GB DDR4 Ram/1 TB HDD/ DVD/Wifi /Ubuntu OS/18.5\"Monitor/3 Years Onsite Warranty",
             "Shipin ": "free",
             "availblity": "available",
-            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
             "Brand": "Dell",
@@ -216,7 +216,7 @@
             "Specification": "Core i5 8400 8th Gen/4 GB DDR4 Ram/1 TB HDD/ DVD/Wifi /Win 10 HOME/18.5\"Monitor/3 Years Onsite Warranty",
             "Shipin ": "free",
             "availblity": "available",
-            "image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
     "popular_products": [

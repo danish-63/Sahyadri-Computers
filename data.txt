@@ -357,11 +357,6 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
-        },
-        {
-            "Id": "Desktop_10",
-            "Brand": "abc",
-            "Catogory Type": "Desktop Machine"
         }
     ],
     "Storage": [

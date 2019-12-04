@@ -21,7 +21,7 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
-            "Name": "AssembleDesktop",
+            "Name": "Assemble-Desktop",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -33,7 +33,7 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
-            "Name": "Motherboard&Processors",
+            "Name": "Motherboard-Processors",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -41,19 +41,19 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
-            "Name": "UPS&SMPS",
+            "Name": "UPS-SMPS",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
-            "Name": "Keyboard&Mouse",
+            "Name": "Keyboard-Mouse",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
-            "Name": "RifurbishDesktops",
+            "Name": "Rifurbish-Desktops",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
-            "Name": "RifurbishLaptops",
+            "Name": "Rifurbish-Laptops",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -357,6 +357,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Id": "Desktop_10",
+            "Brand": "abc",
+            "Catogory Type": "Desktop Machine"
         }
     ],
     "Storage": [
@@ -372,7 +377,7 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
-    "Motherboard&Processors": [
+    "Motherboard-Processors": [
         {
             "Id": "MP_1",
             "Brand": "Asus",
@@ -420,7 +425,7 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
-    "UPS&SMPS": [
+    "UPS-SMPS": [
         {
             "Id": "US_1",
             "Brand": "Intex",
@@ -444,7 +449,7 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
-    "Keyboard&Mouse": [
+    "Keyboard-Mouse": [
         {
             "Id": "KM_1",
             "Brand": "Circle",
@@ -512,7 +517,7 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
-    "RifurbishDesktops": [
+    "Rifurbish-Desktops": [
         {
             "Id": "Rifurbish_Desktops_1",
             "Brand": "Lenovo",
@@ -1196,7 +1201,7 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
-    "RifurbishLaptops": [
+    "Rifurbish-Laptops": [
         {
             "Id": "Rifurbish_Laptops_1",
             "Brand": "Lenovo",

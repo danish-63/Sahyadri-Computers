@@ -154,7 +154,7 @@
             "Price": "480/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61BJdwOjirL._AC_SL1257_.jpg"
         },
         {
             "Id": "Software_2",
@@ -165,7 +165,7 @@
             "Price": "440/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81Yw8D%2BCntL._AC_SL1500_.jpg"
         },
         {
             "Id": "Software_3",
@@ -176,7 +176,7 @@
             "Price": "1110/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/_2019_04_20_09_00_52.jpg"
         }
     ],
     "Laptop": [
@@ -189,7 +189,7 @@
             "Price": "35700/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/OriginalPng.png"
         },
         {
             "Id": "Laptop_2",
@@ -200,7 +200,7 @@
             "Price": "34300/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_1__25"
         },
         {
             "Id": "Laptop_3",
@@ -211,7 +211,7 @@
             "Price": "37500/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53"
         },
         {
             "Id": "Laptop_4",
@@ -222,7 +222,7 @@
             "Price": "44510/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53g (1)"
         },
         {
             "Id": "Laptop_5",
@@ -233,7 +233,7 @@
             "Price": "47100/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-3-a315-55-55k-08"
         },
         {
             "Id": "Laptop_6",
@@ -244,7 +244,7 @@
             "Price": "52210/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-01"
         },
         {
             "Id": "Laptop_7",
@@ -255,7 +255,7 @@
             "Price": "43100/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61JfWTZ8SFL._SL1500_"
         }
     ],
     "Desktop": [

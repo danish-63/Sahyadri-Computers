@@ -75,7 +75,7 @@
             "Price": "1450/-",
             "Shipping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/CCTV_1.jpg"
         },
         {
             "Id": "CCTV_2",

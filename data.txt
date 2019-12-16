@@ -1,11 +1,7 @@
 {
     "Categories": [
         {
-            "Name": "CCTV",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
-        },
-        {
-            "Name": "Software",
+            "Name": "Desktop",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -13,7 +9,7 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
-            "Name": "Desktop",
+            "Name": "CCTV",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -21,7 +17,23 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
-            "Name": "Assemble-Desktop",
+            "Name": "Rifurbish-Desktops",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Name": "Rifurbish-Laptops",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Name": "Software",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Name": "Keyboard-Mouse",
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+        },
+        {
+            "Name": "Monitors-Projector",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
@@ -45,29 +57,17 @@
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
-            "Name": "Keyboard-Mouse",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
-        },
-        {
-            "Name": "Rifurbish-Desktops",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
-        },
-        {
-            "Name": "Rifurbish-Laptops",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
-        },
-        {
             "Name": "Cables",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
-            "Name": "Scanners",
+            "Name": "Peripherals",
             "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         }
     ],
     "CCTV": [
         {
-            "Id": "CCTV_1",
+            "s": "CCTV_1",
             "Brand": "Hikvision",
             "Catogory Type": "CCTV Dome Camera",
             "Model Number": "DS-2CE5AD0T-IRPF(2 Mega Pixel 2.8MM LENS)",
@@ -75,10 +75,10 @@
             "Price": "1450/-",
             "Shipping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/CCTV_1.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/CCTV_1.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/CCTV_1.jpg"]
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/CCTV_1.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
-            "Id": "CCTV_2",
+            "s": "CCTV_2",
             "Brand": "Hikvision",
             "Catogory Type": "CCTV Bullet Camera",
             "Model Number": "DS-2CE1AD0T-IRPF(2 Mega Pixel 3.8 MM  Lens)",
@@ -86,10 +86,10 @@
             "Price": "1550/-",
             "Shipping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41tBxoTJzBL._AC_.jpg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41tBxoTJzBL._AC_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5113KJZA65L._SL1200_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51U-4x7p97L._SL1200_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51ZRHViJLDL._SL1280_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51eXALDtZwL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
-            "Id": "CCTV_3",
+            "s": "CCTV_3",
             "Brand": "Hikvision",
             "Catogory Type": "04 Channel DVR",
             "Model Number": "DS-7A04HQHI-K1 (Turbo HD DVR)",
@@ -97,10 +97,10 @@
             "Price": "5000/-",
             "Shipping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/31xa%2BM3-u-L._AC_.jpg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/31xa+M3-u-L._AC_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
-            "Id": "CCTV_4",
+            "s": "CCTV_4",
             "Brand": "Hikvision",
             "Catogory Type": "08 Channel DVR",
             "Model Number": "DS-7A08HQHI-K1 (Turbo HD DVR)",
@@ -108,260 +108,2053 @@
             "Price": "6890/-",
             "Shipping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41i164CbWBL._AC_.jpg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41i164CbWBL._AC_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61a5mY6WU2L._AC_SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61qQ5-XKVPL._AC_SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
-            "Id": "CCTV_5",
+            "s": "CCTV_5",
             "Brand": "Hikvision",
             "Catogory Type": "08 channel 5MP  DVR",
             "Model Number": "DS-7B08HUHI-K",
             "Specification": "H.265 Video Compression/HD Input/Mobile Surveillance/Web Access /Mobile Survillance/2 Sata Port",
-            "Price": "7960/-",
+            "Price": "9300/-",
             "Shipping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/ds-7b16huhi-k2-hik-vision-original-imaf76ewddv4bkvj.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/ds-7b16huhi-k2-hik-vision-original-imaf76ewddv4bkvj.jpeg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
-            "Id": "CCTV_6",
+            "s": "CCTV_6",
             "Brand": "Hikvision",
             "Catogory Type": "5MP CCTV Dome Camera",
             "Model Number": "DS-2CE5AH0T-ITPF",
             "Specification": "Turbo HD 5MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
-            "Price": "1580/-",
+            "Price": "1680/-",
             "Shipping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51qpfdYnNfL._SL1000_.jpg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51qpfdYnNfL._SL1000_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71FXVQ8sauL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71Ikr43rdkL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71s37U6yeKL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71tZgnVgw4L._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
-            "Id": "CCTV_7",
+            "s": "CCTV_7",
             "Brand": "Hikvision",
             "Catogory Type": "5MP CCTV Bullet Camera",
             "Model Number": "DS-2CE1AH0T-ITPF",
             "Specification": "Turbo HD 5MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
-            "Price": "1690/-",
+            "Price": "1790/-",
             "Shipping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/31sXcb3%2BQlL.jpg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/312r8hJo22L.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/31sXcb3+QlL.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         }
     ],
     "Software": [
         {
             "Id": "Software_1",
-            "Brand": "abc",
+            "Brand": "Quickheal",
             "Catogory Type": "Antivirus",
             "Model Number": "Quick heal A/V Pro 1PC/1User",
             "Specification": "Cloud Protection/Advanced DNA Scan/Browsing Protection/Email Protection/Firewall Monitors Incoming and Outgoing Data Trafik/Track My Laptop ",
             "Price": "480/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61BJdwOjirL._AC_SL1257_.jpg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61BJdwOjirL._AC_SL1257_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/613tb9Va58L._AC_SL1100_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/614NF0dzuoL._AC_SL1257_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Software_2",
-            "Brand": "abc",
+            "Brand": "Netprotector",
             "Catogory Type": "Antivirus",
             "Model Number": "Net Protector Total Security 1U/1Y",
             "Specification": "Does Not Slow Down Your PC/Ultra Fast Scaning/Simple Easy To Use/Improves Performance of Your PC,LAN Internert",
             "Price": "440/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81Yw8D%2BCntL._AC_SL1500_.jpg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81F-my4oX9L._AC_SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81Yw8D+CntL._AC_SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Software_3",
-            "Brand": "abc",
+            "Brand": "Netprotector",
             "Catogory Type": "Antivirus",
             "Model Number": "Net Protector Total Security 1U/3Y",
             "Specification": "Does Not Slow Down Your PC/Ultra Fast Scaning/Simple Easy To Use/Improves Performance of Your PC,LAN Internert",
             "Price": "1110/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/_2019_04_20_09_00_52.jpg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/_2019_04_20_09_00_52.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         }
     ],
     "Laptop": [
         {
             "Id": "Laptop_1",
-            "Brand": "abc",
+            "Brand": "Dell",
             "Catogory Type": "Laptop",
             "Model Number": "Inspiron 3548",
             "Specification": "Core I3 7th Gen/4 GB DDR4 Ram/2 GB Graphic/No DVD/Win 10+MS Office/15.6\" Screen",
             "Price": "35700/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/OriginalPng.png"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/OriginalPng.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Laptop_2",
-            "Brand": "abc",
+            "Brand": "Dell",
             "Catogory Type": "Laptop",
             "Model Number": "Vostro 3581",
             "Specification": "Core I3 7th Gen/4 GB DDR4 Ram/2 GB Graphic/Win 10+MS Office/15.6\" Scree",
             "Price": "34300/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_1__25"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_10__6.jpeg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_1__25.jpeg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_3__24.jpeg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_4__1_4.jpeg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_5__13.jpeg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_6__13.jpeg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_7__1_4.jpeg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_8__1_3.jpeg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_9__1_4.jpeg\"]"
         },
         {
             "Id": "Laptop_3",
-            "Brand": "abc",
+            "Brand": "Acer",
             "Catogory Type": "Laptop",
             "Model Number": "A315-53(NX.H38SI.014)",
             "Specification": "Core I5 8tn Gen/4GB DDR4 Ram/1 TB HDD/15.6\" Full HD Screen/Win 10/Black Colour",
             "Price": "37500/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53.webp\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_01.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_02.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_03.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_04.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_05.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_06.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_07.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Laptop_4",
-            "Brand": "abc",
+            "Brand": "Acer",
             "Catogory Type": "Laptop",
             "Model Number": "A315-53G(NX.H1ASI.003)",
             "Specification": "Core I5 8tn Gen/8GB DDR4 Ram/1 TB HDD/2 GB MX130 Graphic/15.6\" Full HD Screen/Win 10",
             "Price": "44510/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53g (1)"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53g (1).jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53g (2).jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53g (3).jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53g.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Laptop_5",
-            "Brand": "abc",
+            "Brand": "Acer",
             "Catogory Type": "Laptop",
             "Model Number": "A315-55G(NX.HEDSI.003)",
             "Specification": "Core I5 8tn Gen/8GB DDR4 Ram/1 TB HDD/2 GB MX230  Graphic/15.6\" Full HD Screen/Win 10/Black Colour",
             "Price": "47100/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-3-a315-55-55k-08"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-3-a315-55-55k-08.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-3-a315-55-55k-wp-01.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-3-a315-55-55k-wp-03.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-3-a315-55-55k-wp-04.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Laptop_6",
-            "Brand": "abc",
+            "Brand": "Acer",
             "Catogory Type": "Laptop",
             "Model Number": "A515-54G(NX.HN5SI.002)",
             "Specification": "Core I5 10tn Gen/8GB DDR4 Ram/512 SSD/2 GB MX250  Graphic/15.6\" Full HD Screen/Win 10",
             "Price": "52210/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-01"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-01.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-02.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-03.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-04.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-05.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-06.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-07.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-08.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Laptop_7",
-            "Brand": "abc",
+            "Brand": "Asus",
             "Catogory Type": "Laptop",
-            "Model Number": "Vivo Book",
+            "Model Number": "Vivo Book(S510UN-BQ122T)",
             "Specification": "Core I5 8tn Gen/8GB DDR4 Ram/1 TB HDD/2 GB Graphic/15.6\" Full HD Screen/Win 10/Gold Colour",
             "Price": "43100/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61JfWTZ8SFL._SL1500_"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61EWm2ZzckL._SL1070_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61IZDsoZ8BL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61J4kZTEWTL._AC_SL1257_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61JfWTZ8SFL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61Kg78mueBL._SL1200_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61VPWhBnZhL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61Xzjxg7mBL._SL1500_.jpg,\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Laptop_8",
+            "Brand": "HP",
+            "Catogory Type": "Laptop",
+            "Model Number": "HP 15-DA0435Tx",
+            "Specification": "Core i3 -7th Gen/ 8GB DDR4 RAM/  1TB HDD/ 2 GB Graphics/15.6\" Full HD Screen/ Win10 + Ms Office",
+            "Price": "4300/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-1_T1542252036.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-2_T1542252037.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-3_T1542252037.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-4_T1542252038.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-5_T1542252039.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-6_T1542252039.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Laptop_9",
+            "Brand": "HP",
+            "Catogory Type": "Laptop",
+            "Model Number": "HP 15-DA0326Tu",
+            "Specification": "Core i3 -7th Gen/ 4GB DDR4 RAM/  1TB HDD/ DVD Rw/15.6\" Full HD Screen/ Win10 Home",
+            "Price": "31850/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/1.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/2.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5AY34PA-4_T1539242223.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5AY34PA-6_T1539242224.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Laptop_10",
+            "Brand": "Lenovo",
+            "Catogory Type": "Laptop",
+            "Model Number": "V130 81HQ00-ERIH",
+            "Specification": "Core i3 -7th Gen/ 4GB DDR4 RAM/  1TB HDD/ NO DVD Rw/14\" Screen/DOS/ 1 Year Onsite Warranty",
+            "Price": "26300/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/lenovo_v130-14ikb-2_1.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/lenovo_v130-14ikb-3_1.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/lenovo_v130-14ikb-4_1.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/lenovo_v130-14ikb-5_1.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/lenovo_v130-14ikb-6_1.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/lenovo_v130-14ikb_dos_i3_7th.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Laptop_11",
+            "Brand": "Lenovo",
+            "Catogory Type": "Laptop",
+            "Model Number": "V130 81HNA0-1AIH",
+            "Specification": "Core i3 -7th Gen/ 4GB DDR4 RAM/  1TB HDD/ DVD Rw/15.6\" Screen/DOS/ 1 Year Onsite Warranty",
+            "Price": "2700/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-1_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-2_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-3_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-15ikb.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Laptop_12",
+            "Brand": "Lenovo",
+            "Catogory Type": "Laptop",
+            "Model Number": "V130 81HNA0-1HIH",
+            "Specification": "Core i3 -7th Gen/ 4GB DDR4 RAM/  1TB HDD/ DVD Rw/15.6\" Screen/WIN 10 SL/ 1 Year Onsite Warranty",
+            "Price": "28400/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-1_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-2_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-3_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-15ikb.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Laptop_13",
+            "Brand": "Lenovo",
+            "Catogory Type": "Laptop",
+            "Model Number": "V130 81HNA0-2SIH",
+            "Specification": "Core i3 -7th Gen/ 4GB DDR4 RAM/  1TB HDD/ 2GB Graphics/ DVD Rw/15.6\" Screen/DOS/ 1 Year Onsite Warranty",
+            "Price": "31250/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-1_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-2_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-3_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-15ikb.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Laptop_14",
+            "Brand": "Lenovo",
+            "Catogory Type": "Laptop",
+            "Model Number": "V130 81HNA0-0TIH",
+            "Specification": "Core i3 -7th Gen/ 4GB DDR4 RAM/  1TB HDD/ 2GB Graphics/ DVD Rw/15.6\" Screen/WIN 10 / 1 Year Onsite Warranty",
+            "Price": "33200/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-1_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-2_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-3_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-15ikb.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Laptop_15",
+            "Brand": "Lenovo",
+            "Catogory Type": "Laptop",
+            "Model Number": "V130 81HN00-FTIH",
+            "Specification": "Core i5 -7th Gen/ 4GB DDR4 RAM/  1TB HDD/ DVD Rw/15.6\" Screen/DOS/ 1 Year Onsite Warranty",
+            "Price": "35800/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-1_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-2_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-3_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-15ikb.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Laptop_16",
+            "Brand": "Lenovo",
+            "Catogory Type": "Laptop",
+            "Model Number": "V130 81HNA0-19IH",
+            "Specification": "Core i5 -8th Gen/ 4GB DDR4 RAM/  1TB HDD/ DVD Rw/15.6\" Screen/DOS/ 1 Year Onsite Warranty",
+            "Price": "37850/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-1_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-2_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-3_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-15ikb.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Laptop_17",
+            "Brand": "Lenovo",
+            "Catogory Type": "Laptop",
+            "Model Number": "V130 81HNA0-2RIH",
+            "Specification": "Core i5 -8th Gen/ 4GB DDR4 RAM/  1TB HDD/2 GB REDEON 530 GRAPHICS / DVD Rw/15.6\" Screen/DOS/ 1 Year Onsite Warranty",
+            "Price": "41200/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-1_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-2_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb-3_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-14ikb_2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v130-15ikb.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         }
     ],
     "Desktop": [
         {
             "Id": "Desktop_1",
-            "Brand": "abc",
+            "Brand": "Lenovo",
             "Catogory Type": "Desktop Machine",
             "Model Number": "V530 Slim Tower 10TYS00900",
-            "Specification": "Core I3 8th Gen/4 GB DDR 4 2400 Ram / 1 TB HDD/ NO ODD/DOS/19.5\" LED Monitor",
-            "Price": "28900",
+            "Specification": "Core I3 8th Gen/4 GB DDR 4 2400 Ram / 1 TB HDD/ NO ODD/DOS /19.5\" LED Monitor",
+            "Price": "3100/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61557R+qQ5L._SL1493_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Desktop_2",
-            "Brand": "abc",
+            "Brand": "Dell",
             "Catogory Type": "Desktop Machine",
             "Model Number": "Vostro 3670",
             "Specification": "Pentium Duol Core G5400 8th Genra/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /KBD+MOUSE/Ubuntu OS/18.5\"Monitor/3 Years Onsite Warranty",
-            "Price": "28900",
+            "Price": "28900/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/1536141074.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Dell-Vostro-3670_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/desktop-vostro-3670-mt-pdp-hero.webp\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Desktop_3",
-            "Brand": "abc",
+            "Brand": "Dell",
             "Catogory Type": "Desktop Machine",
             "Model Number": "Vostro 3470(SFF)",
             "Specification": "Core i3 8100T 8th Gen/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /KBD+MOUSE/Ubuntu OS/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
-            "Price": "28900",
+            "Price": "31200/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61WULrbZQ5L._SL1280_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71VjLs6obgL._AC_UL115_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81HTMbbK5gL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81TnB4QzBEL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/91ajapzNUnL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/4123Fq71q4L._AC_UL115_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Desktop_4",
-            "Brand": "abc",
+            "Brand": "Dell",
             "Catogory Type": "Desktop Machine",
             "Model Number": "Vostro 3470(SFF)",
             "Specification": "Core i3 9100 9th Gen/4 GB DDR4 Ram/1 TB HDD/NO DVD/Wifi /KBD+MOUSE/Ubuntu OS/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
-            "Price": "28900",
+            "Price": "32750/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61WULrbZQ5L._SL1280_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71VjLs6obgL._AC_UL115_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81HTMbbK5gL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81TnB4QzBEL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/91ajapzNUnL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/4123Fq71q4L._AC_UL115_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Desktop_5",
-            "Brand": "abc",
+            "Brand": "Dell",
             "Catogory Type": "Desktop Machine",
             "Model Number": "vostro 3470(SFF)",
             "Specification": "Core i3 9100 9th Gen/4 GB DDR4 Ram/1 TB HDD/DVD/Wifi /KBD+MOUSE/Win 10+MS OFFICE/18.5\"E1916HVMonitor/3 Years Onsite Warranty",
-            "Price": "28900",
+            "Price": "33900/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61WULrbZQ5L._SL1280_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71VjLs6obgL._AC_UL115_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81HTMbbK5gL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81TnB4QzBEL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/91ajapzNUnL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/4123Fq71q4L._AC_UL115_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Desktop_6",
-            "Brand": "abc",
+            "Brand": "Dell",
             "Catogory Type": "Desktop Machine",
             "Model Number": "Vostro 3470(SFF)",
             "Specification": "Core i5 8400 8th Gen/4 GB DDR4 Ram/1 TB HDD/ DVD/Wifi /KBD+MOUSE/Ubuntu OS/18.5\"Monitor/3 Years Onsite Warranty",
-            "Price": "28900",
+            "Price": "41100/",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61WULrbZQ5L._SL1280_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71VjLs6obgL._AC_UL115_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81HTMbbK5gL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81TnB4QzBEL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/91ajapzNUnL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/4123Fq71q4L._AC_UL115_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Desktop_7",
-            "Brand": "abc",
+            "Brand": "dell",
             "Catogory Type": "Desktop Machine",
             "Model Number": "Vostro 3470(SFF)",
             "Specification": "Core i5 8400 8th Gen/4 GB DDR4 Ram/1 TB HDD/ DVD/Wifi /KBD+MOUSE/Win 10 HOME/18.5\"Monitor/3 Years Onsite Warranty",
-            "Price": "28900",
+            "Price": "46000/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61WULrbZQ5L._SL1280_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71VjLs6obgL._AC_UL115_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81HTMbbK5gL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81TnB4QzBEL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/91ajapzNUnL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/4123Fq71q4L._AC_UL115_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Desktop_8",
-            "Brand": "abc",
-            "Catogory Type": "Comercial Desktop Machine",
-            "Model Number": "V530 Tower  Desktop",
+            "Brand": "Lenovo",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "V530 SFF",
             "Specification": "Intel Core I3 8Th Gen/4GB DDR4 RAM/1TB HDD/KBD+MOUSE/DOS/NO DVD/19.5\" Moniter/NO WIFI+BT /3 YRS Warranty",
-            "Price": "29340",
+            "Price": "29340/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61557R+qQ5L._SL1493_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Desktop_9",
-            "Brand": "abc",
-            "Catogory Type": "Comercial Desktop Machine",
-            "Model Number": "V530 Tower  Desktop",
+            "Brand": "Lenovo",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "V530 SFF",
             "Specification": "Intel Core I5 8Th (8400)Gen/4GB DDR4 2400 RAM/1TB HDD/KBD+MOUSE/DOS/NO DVD/19.5\" Moniter/NO WIFI+BT/3 YRS Warranty",
-            "Price": "39580",
+            "Price": "39580/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61557R+qQ5L._SL1493_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "Desktop_10",
             "Brand": "abc",
-            "Catogory Type": "Desktop Machine"
+            "Catogory Type": "Desktop Machine",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Desktop_11",
+            "Brand": "Lenovo",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "V330T  TSS0-1100",
+            "Specification": "Pentium Quad Core Processor/4 GB DDR4 RAM/1 TB HDD/ No ODD/Without Monitor/1 Year Warranty",
+            "Price": "17300/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/images.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-1_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-2_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-3_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-5_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower_i3_8th_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Desktop_12",
+            "Brand": "Lenovo",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "V530 SFF 10TYS2-5M00",
+            "Specification": "Core i3-9th Gen/4 GB DDR 4 RAM/1 TB HDD/No ODD/No OS/19.5\" Monitor/No Wifi+BT/3 Years Warranty",
+            "Price": "30400/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61557R+qQ5L._SL1493_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-1_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-2_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-3_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-5_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower_i3_8th_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Desktop_13",
+            "Brand": "Lenovo",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "V530 SFF 10TYS2-LS00",
+            "Specification": "Core i3-9th Gen/4 GB DDR 4 RAM/1 TB HDD/No ODD/Win 10 Home/19.5\" Monitor/Wifi+BT/3 Years Warranty",
+            "Price": "31850/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-1_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-2_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-3_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-5_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower_i3_8th_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Desktop_14",
+            "Brand": "Lenovo",
+            "Catogory Type": "Desktop Machine",
+            "Model Number": "V530 T 10TWS1NU00",
+            "Specification": "Core i5-9th Gen/8 GB DDR4 RAM/1 TB HDD/No ODD/No OS/19.5\" monitor/Internal Speaker/3 Years warranty",
+            "Price": "43000/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-1_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-2_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-3_1_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower-5_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v530_tower_i3_8th_3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Desktop_15",
+            "Brand": "Lenovo",
+            "Catogory Type": "All In One Desktop",
+            "Model Number": "V540z 10YS00-0RIH",
+            "Specification": "Core i3-8th Gen(8145U)/1TB HDD/Wifi+BT/DVD/DOS/Wired KB+MS/Internal Speaker/Intel Sytem On Chip(SoC)/23.8: FHD Screen/3 Years Onsite Warranty*",
+            "Price": "39800/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v540_aio-1.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v540_aio-3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v540_aio-4.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v540_aio-6.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v540_aio-7.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v540_aio_dos_i3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Desktop_16",
+            "Brand": "Lenovo",
+            "Catogory Type": "All In One Desktop",
+            "Model Number": "V330z-AIO 10ULS0-1V00",
+            "Specification": "Core i3-8th Gen (8100) 3.9 G Full Powerd  Proc  /4 GB DDR4 2400 RAM/1 TB HDD 7200 RPM/Wifi+BT/No ODD/DOS/Wired KB+MS/720P Cam/19.5\" HD Screen/internal speaker /onsite 3 years warranty ",
+            "Price": "3700/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/lenovo_v330z_all_in_one_i3.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v330z_aio-1.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/v330z_aio-2.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "Desktop_17"
+        },
+        {
+            "Id": "Desktop_18"
+        },
+        {
+            "Id": "Desktop_19"
+        },
+        {
+            "Id": "Desktop_20"
+        },
+        {
+            "Id": "Desktop_21"
+        },
+        {
+            "Id": "Desktop_22"
+        },
+        {
+            "Id": "Desktop_23"
+        },
+        {
+            "Id": "Desktop_24"
+        },
+        {
+            "Id": "Desktop_25"
+        },
+        {
+            "Id": "Desktop_26"
+        },
+        {
+            "Id": "Desktop_27"
+        },
+        {
+            "Id": "Desktop_28"
+        },
+        {
+            "Id": "Desktop_29"
+        },
+        {
+            "Id": "Desktop_30"
+        },
+        {
+            "Id": "Desktop_31"
+        },
+        {
+            "Id": "Desktop_32"
+        },
+        {
+            "Id": "Desktop_33"
+        },
+        {
+            "Id": "Desktop_34"
+        },
+        {
+            "Id": "Desktop_35"
+        },
+        {
+            "Id": "Desktop_36"
+        },
+        {
+            "Id": "Desktop_37"
+        },
+        {
+            "Id": "Desktop_38"
+        },
+        {
+            "Id": "Desktop_39"
+        },
+        {
+            "Id": "Desktop_40"
+        },
+        {
+            "Id": "Desktop_41"
+        },
+        {
+            "Id": "Desktop_42"
+        },
+        {
+            "Id": "Desktop_43"
+        },
+        {
+            "Id": "Desktop_44"
+        },
+        {
+            "Id": "Desktop_45"
+        },
+        {
+            "Id": "Desktop_46"
+        },
+        {
+            "Id": "Desktop_47"
+        },
+        {
+            "Id": "Desktop_48"
+        },
+        {
+            "Id": "Desktop_49"
+        },
+        {
+            "Id": "Desktop_50"
+        },
+        {
+            "Id": "Desktop_51"
+        },
+        {
+            "Id": "Desktop_52"
+        },
+        {
+            "Id": "Desktop_53"
+        },
+        {
+            "Id": "Desktop_54"
+        },
+        {
+            "Id": "Desktop_55"
+        },
+        {
+            "Id": "Desktop_56"
+        },
+        {
+            "Id": "Desktop_57"
+        },
+        {
+            "Id": "Desktop_58"
+        },
+        {
+            "Id": "Desktop_59"
+        },
+        {
+            "Id": "Desktop_60"
+        },
+        {
+            "Id": "Desktop_61"
+        },
+        {
+            "Id": "Desktop_62"
+        },
+        {
+            "Id": "Desktop_63"
+        },
+        {
+            "Id": "Desktop_64"
+        },
+        {
+            "Id": "Desktop_65"
+        },
+        {
+            "Id": "Desktop_66"
+        },
+        {
+            "Id": "Desktop_67"
+        },
+        {
+            "Id": "Desktop_68"
+        },
+        {
+            "Id": "Desktop_69"
+        },
+        {
+            "Id": "Desktop_70"
+        },
+        {
+            "Id": "Desktop_71"
+        },
+        {
+            "Id": "Desktop_72"
+        },
+        {
+            "Id": "Desktop_73"
+        },
+        {
+            "Id": "Desktop_74"
+        },
+        {
+            "Id": "Desktop_75"
+        },
+        {
+            "Id": "Desktop_76"
+        },
+        {
+            "Id": "Desktop_77"
+        },
+        {
+            "Id": "Desktop_78"
+        },
+        {
+            "Id": "Desktop_79"
+        },
+        {
+            "Id": "Desktop_80"
+        },
+        {
+            "Id": "Desktop_81"
+        },
+        {
+            "Id": "Desktop_82"
+        },
+        {
+            "Id": "Desktop_83"
+        },
+        {
+            "Id": "Desktop_84"
+        },
+        {
+            "Id": "Desktop_85"
+        },
+        {
+            "Id": "Desktop_86"
+        },
+        {
+            "Id": "Desktop_87"
+        },
+        {
+            "Id": "Desktop_88"
+        },
+        {
+            "Id": "Desktop_89"
+        },
+        {
+            "Id": "Desktop_90"
+        },
+        {
+            "Id": "Desktop_91"
+        },
+        {
+            "Id": "Desktop_92"
+        },
+        {
+            "Id": "Desktop_93"
+        },
+        {
+            "Id": "Desktop_94"
+        },
+        {
+            "Id": "Desktop_95"
+        },
+        {
+            "Id": "Desktop_96"
+        },
+        {
+            "Id": "Desktop_97"
+        },
+        {
+            "Id": "Desktop_98"
+        },
+        {
+            "Id": "Desktop_99"
+        },
+        {
+            "Id": "Desktop_100"
+        },
+        {
+            "Id": "Desktop_101"
+        },
+        {
+            "Id": "Desktop_102"
+        },
+        {
+            "Id": "Desktop_103"
+        },
+        {
+            "Id": "Desktop_104"
+        },
+        {
+            "Id": "Desktop_105"
+        },
+        {
+            "Id": "Desktop_106"
+        },
+        {
+            "Id": "Desktop_107"
+        },
+        {
+            "Id": "Desktop_108"
+        },
+        {
+            "Id": "Desktop_109"
+        },
+        {
+            "Id": "Desktop_110"
+        },
+        {
+            "Id": "Desktop_111"
+        },
+        {
+            "Id": "Desktop_112"
+        },
+        {
+            "Id": "Desktop_113"
+        },
+        {
+            "Id": "Desktop_114"
+        },
+        {
+            "Id": "Desktop_115"
+        },
+        {
+            "Id": "Desktop_116"
+        },
+        {
+            "Id": "Desktop_117"
+        },
+        {
+            "Id": "Desktop_118"
+        },
+        {
+            "Id": "Desktop_119"
+        },
+        {
+            "Id": "Desktop_120"
+        },
+        {
+            "Id": "Desktop_121"
+        },
+        {
+            "Id": "Desktop_122"
+        },
+        {
+            "Id": "Desktop_123"
+        },
+        {
+            "Id": "Desktop_124"
+        },
+        {
+            "Id": "Desktop_125"
+        },
+        {
+            "Id": "Desktop_126"
+        },
+        {
+            "Id": "Desktop_127"
+        },
+        {
+            "Id": "Desktop_128"
+        },
+        {
+            "Id": "Desktop_129"
+        },
+        {
+            "Id": "Desktop_130"
+        },
+        {
+            "Id": "Desktop_131"
+        },
+        {
+            "Id": "Desktop_132"
+        },
+        {
+            "Id": "Desktop_133"
+        },
+        {
+            "Id": "Desktop_134"
+        },
+        {
+            "Id": "Desktop_135"
+        },
+        {
+            "Id": "Desktop_136"
+        },
+        {
+            "Id": "Desktop_137"
+        },
+        {
+            "Id": "Desktop_138"
+        },
+        {
+            "Id": "Desktop_139"
+        },
+        {
+            "Id": "Desktop_140"
+        },
+        {
+            "Id": "Desktop_141"
+        },
+        {
+            "Id": "Desktop_142"
+        },
+        {
+            "Id": "Desktop_143"
+        },
+        {
+            "Id": "Desktop_144"
+        },
+        {
+            "Id": "Desktop_145"
+        },
+        {
+            "Id": "Desktop_146"
+        },
+        {
+            "Id": "Desktop_147"
+        },
+        {
+            "Id": "Desktop_148"
+        },
+        {
+            "Id": "Desktop_149"
+        },
+        {
+            "Id": "Desktop_150"
+        },
+        {
+            "Id": "Desktop_151"
+        },
+        {
+            "Id": "Desktop_152"
+        },
+        {
+            "Id": "Desktop_153"
+        },
+        {
+            "Id": "Desktop_154"
+        },
+        {
+            "Id": "Desktop_155"
+        },
+        {
+            "Id": "Desktop_156"
+        },
+        {
+            "Id": "Desktop_157"
+        },
+        {
+            "Id": "Desktop_158"
+        },
+        {
+            "Id": "Desktop_159"
+        },
+        {
+            "Id": "Desktop_160"
+        },
+        {
+            "Id": "Desktop_161"
+        },
+        {
+            "Id": "Desktop_162"
+        },
+        {
+            "Id": "Desktop_163"
+        },
+        {
+            "Id": "Desktop_164"
+        },
+        {
+            "Id": "Desktop_165"
+        },
+        {
+            "Id": "Desktop_166"
+        },
+        {
+            "Id": "Desktop_167"
+        },
+        {
+            "Id": "Desktop_168"
+        },
+        {
+            "Id": "Desktop_169"
+        },
+        {
+            "Id": "Desktop_170"
+        },
+        {
+            "Id": "Desktop_171"
+        },
+        {
+            "Id": "Desktop_172"
+        },
+        {
+            "Id": "Desktop_173"
+        },
+        {
+            "Id": "Desktop_174"
+        },
+        {
+            "Id": "Desktop_175"
+        },
+        {
+            "Id": "Desktop_176"
+        },
+        {
+            "Id": "Desktop_177"
+        },
+        {
+            "Id": "Desktop_178"
+        },
+        {
+            "Id": "Desktop_179"
+        },
+        {
+            "Id": "Desktop_180"
+        },
+        {
+            "Id": "Desktop_181"
+        },
+        {
+            "Id": "Desktop_182"
+        },
+        {
+            "Id": "Desktop_183"
+        },
+        {
+            "Id": "Desktop_184"
+        },
+        {
+            "Id": "Desktop_185"
+        },
+        {
+            "Id": "Desktop_186"
+        },
+        {
+            "Id": "Desktop_187"
+        },
+        {
+            "Id": "Desktop_188"
+        },
+        {
+            "Id": "Desktop_189"
+        },
+        {
+            "Id": "Desktop_190"
+        },
+        {
+            "Id": "Desktop_191"
+        },
+        {
+            "Id": "Desktop_192"
+        },
+        {
+            "Id": "Desktop_193"
+        },
+        {
+            "Id": "Desktop_194"
+        },
+        {
+            "Id": "Desktop_195"
+        },
+        {
+            "Id": "Desktop_196"
+        },
+        {
+            "Id": "Desktop_197"
+        },
+        {
+            "Id": "Desktop_198"
+        },
+        {
+            "Id": "Desktop_199"
+        },
+        {
+            "Id": "Desktop_200"
+        },
+        {
+            "Id": "Desktop_201"
+        },
+        {
+            "Id": "Desktop_202"
+        },
+        {
+            "Id": "Desktop_203"
+        },
+        {
+            "Id": "Desktop_204"
+        },
+        {
+            "Id": "Desktop_205"
+        },
+        {
+            "Id": "Desktop_206"
+        },
+        {
+            "Id": "Desktop_207"
+        },
+        {
+            "Id": "Desktop_208"
+        },
+        {
+            "Id": "Desktop_209"
+        },
+        {
+            "Id": "Desktop_210"
+        },
+        {
+            "Id": "Desktop_211"
+        },
+        {
+            "Id": "Desktop_212"
+        },
+        {
+            "Id": "Desktop_213"
+        },
+        {
+            "Id": "Desktop_214"
+        },
+        {
+            "Id": "Desktop_215"
+        },
+        {
+            "Id": "Desktop_216"
+        },
+        {
+            "Id": "Desktop_217"
+        },
+        {
+            "Id": "Desktop_218"
+        },
+        {
+            "Id": "Desktop_219"
+        },
+        {
+            "Id": "Desktop_220"
+        },
+        {
+            "Id": "Desktop_221"
+        },
+        {
+            "Id": "Desktop_222"
+        },
+        {
+            "Id": "Desktop_223"
+        },
+        {
+            "Id": "Desktop_224"
+        },
+        {
+            "Id": "Desktop_225"
+        },
+        {
+            "Id": "Desktop_226"
+        },
+        {
+            "Id": "Desktop_227"
+        },
+        {
+            "Id": "Desktop_228"
+        },
+        {
+            "Id": "Desktop_229"
+        },
+        {
+            "Id": "Desktop_230"
+        },
+        {
+            "Id": "Desktop_231"
+        },
+        {
+            "Id": "Desktop_232"
+        },
+        {
+            "Id": "Desktop_233"
+        },
+        {
+            "Id": "Desktop_234"
+        },
+        {
+            "Id": "Desktop_235"
+        },
+        {
+            "Id": "Desktop_236"
+        },
+        {
+            "Id": "Desktop_237"
+        },
+        {
+            "Id": "Desktop_238"
+        },
+        {
+            "Id": "Desktop_239"
+        },
+        {
+            "Id": "Desktop_240"
+        },
+        {
+            "Id": "Desktop_241"
+        },
+        {
+            "Id": "Desktop_242"
+        },
+        {
+            "Id": "Desktop_243"
+        },
+        {
+            "Id": "Desktop_244"
+        },
+        {
+            "Id": "Desktop_245"
+        },
+        {
+            "Id": "Desktop_246"
+        },
+        {
+            "Id": "Desktop_247"
+        },
+        {
+            "Id": "Desktop_248"
+        },
+        {
+            "Id": "Desktop_249"
+        },
+        {
+            "Id": "Desktop_250"
+        },
+        {
+            "Id": "Desktop_251"
+        },
+        {
+            "Id": "Desktop_252"
+        },
+        {
+            "Id": "Desktop_253"
+        },
+        {
+            "Id": "Desktop_254"
+        },
+        {
+            "Id": "Desktop_255"
+        },
+        {
+            "Id": "Desktop_256"
+        },
+        {
+            "Id": "Desktop_257"
+        },
+        {
+            "Id": "Desktop_258"
+        },
+        {
+            "Id": "Desktop_259"
+        },
+        {
+            "Id": "Desktop_260"
+        },
+        {
+            "Id": "Desktop_261"
+        },
+        {
+            "Id": "Desktop_262"
+        },
+        {
+            "Id": "Desktop_263"
+        },
+        {
+            "Id": "Desktop_264"
+        },
+        {
+            "Id": "Desktop_265"
+        },
+        {
+            "Id": "Desktop_266"
+        },
+        {
+            "Id": "Desktop_267"
+        },
+        {
+            "Id": "Desktop_268"
+        },
+        {
+            "Id": "Desktop_269"
+        },
+        {
+            "Id": "Desktop_270"
+        },
+        {
+            "Id": "Desktop_271"
+        },
+        {
+            "Id": "Desktop_272"
+        },
+        {
+            "Id": "Desktop_273"
+        },
+        {
+            "Id": "Desktop_274"
+        },
+        {
+            "Id": "Desktop_275"
+        },
+        {
+            "Id": "Desktop_276"
+        },
+        {
+            "Id": "Desktop_277"
+        },
+        {
+            "Id": "Desktop_278"
+        },
+        {
+            "Id": "Desktop_279"
+        },
+        {
+            "Id": "Desktop_280"
+        },
+        {
+            "Id": "Desktop_281"
+        },
+        {
+            "Id": "Desktop_282"
+        },
+        {
+            "Id": "Desktop_283"
+        },
+        {
+            "Id": "Desktop_284"
+        },
+        {
+            "Id": "Desktop_285"
+        },
+        {
+            "Id": "Desktop_286"
+        },
+        {
+            "Id": "Desktop_287"
+        },
+        {
+            "Id": "Desktop_288"
+        },
+        {
+            "Id": "Desktop_289"
+        },
+        {
+            "Id": "Desktop_290"
+        },
+        {
+            "Id": "Desktop_291"
+        },
+        {
+            "Id": "Desktop_292"
+        },
+        {
+            "Id": "Desktop_293"
+        },
+        {
+            "Id": "Desktop_294"
+        },
+        {
+            "Id": "Desktop_295"
+        },
+        {
+            "Id": "Desktop_296"
+        },
+        {
+            "Id": "Desktop_297"
+        },
+        {
+            "Id": "Desktop_298"
+        },
+        {
+            "Id": "Desktop_299"
+        },
+        {
+            "Id": "Desktop_300"
+        },
+        {
+            "Id": "Desktop_301"
+        },
+        {
+            "Id": "Desktop_302"
+        },
+        {
+            "Id": "Desktop_303"
+        },
+        {
+            "Id": "Desktop_304"
+        },
+        {
+            "Id": "Desktop_305"
+        },
+        {
+            "Id": "Desktop_306"
+        },
+        {
+            "Id": "Desktop_307"
+        },
+        {
+            "Id": "Desktop_308"
+        },
+        {
+            "Id": "Desktop_309"
+        },
+        {
+            "Id": "Desktop_310"
+        },
+        {
+            "Id": "Desktop_311"
+        },
+        {
+            "Id": "Desktop_312"
+        },
+        {
+            "Id": "Desktop_313"
+        },
+        {
+            "Id": "Desktop_314"
+        },
+        {
+            "Id": "Desktop_315"
+        },
+        {
+            "Id": "Desktop_316"
+        },
+        {
+            "Id": "Desktop_317"
+        },
+        {
+            "Id": "Desktop_318"
+        },
+        {
+            "Id": "Desktop_319"
+        },
+        {
+            "Id": "Desktop_320"
+        },
+        {
+            "Id": "Desktop_321"
+        },
+        {
+            "Id": "Desktop_322"
+        },
+        {
+            "Id": "Desktop_323"
+        },
+        {
+            "Id": "Desktop_324"
+        },
+        {
+            "Id": "Desktop_325"
+        },
+        {
+            "Id": "Desktop_326"
+        },
+        {
+            "Id": "Desktop_327"
+        },
+        {
+            "Id": "Desktop_328"
+        },
+        {
+            "Id": "Desktop_329"
+        },
+        {
+            "Id": "Desktop_330"
+        },
+        {
+            "Id": "Desktop_331"
+        },
+        {
+            "Id": "Desktop_332"
+        },
+        {
+            "Id": "Desktop_333"
+        },
+        {
+            "Id": "Desktop_334"
+        },
+        {
+            "Id": "Desktop_335"
+        },
+        {
+            "Id": "Desktop_336"
+        },
+        {
+            "Id": "Desktop_337"
+        },
+        {
+            "Id": "Desktop_338"
+        },
+        {
+            "Id": "Desktop_339"
+        },
+        {
+            "Id": "Desktop_340"
+        },
+        {
+            "Id": "Desktop_341"
+        },
+        {
+            "Id": "Desktop_342"
+        },
+        {
+            "Id": "Desktop_343"
+        },
+        {
+            "Id": "Desktop_344"
+        },
+        {
+            "Id": "Desktop_345"
+        },
+        {
+            "Id": "Desktop_346"
+        },
+        {
+            "Id": "Desktop_347"
+        },
+        {
+            "Id": "Desktop_348"
+        },
+        {
+            "Id": "Desktop_349"
+        },
+        {
+            "Id": "Desktop_350"
+        },
+        {
+            "Id": "Desktop_351"
+        },
+        {
+            "Id": "Desktop_352"
+        },
+        {
+            "Id": "Desktop_353"
+        },
+        {
+            "Id": "Desktop_354"
+        },
+        {
+            "Id": "Desktop_355"
+        },
+        {
+            "Id": "Desktop_356"
+        },
+        {
+            "Id": "Desktop_357"
+        },
+        {
+            "Id": "Desktop_358"
+        },
+        {
+            "Id": "Desktop_359"
+        },
+        {
+            "Id": "Desktop_360"
+        },
+        {
+            "Id": "Desktop_361"
+        },
+        {
+            "Id": "Desktop_362"
+        },
+        {
+            "Id": "Desktop_363"
+        },
+        {
+            "Id": "Desktop_364"
+        },
+        {
+            "Id": "Desktop_365"
+        },
+        {
+            "Id": "Desktop_366"
+        },
+        {
+            "Id": "Desktop_367"
+        },
+        {
+            "Id": "Desktop_368"
+        },
+        {
+            "Id": "Desktop_369"
+        },
+        {
+            "Id": "Desktop_370"
+        },
+        {
+            "Id": "Desktop_371"
+        },
+        {
+            "Id": "Desktop_372"
+        },
+        {
+            "Id": "Desktop_373"
+        },
+        {
+            "Id": "Desktop_374"
+        },
+        {
+            "Id": "Desktop_375"
+        },
+        {
+            "Id": "Desktop_376"
+        },
+        {
+            "Id": "Desktop_377"
+        },
+        {
+            "Id": "Desktop_378"
+        },
+        {
+            "Id": "Desktop_379"
+        },
+        {
+            "Id": "Desktop_380"
+        },
+        {
+            "Id": "Desktop_381"
+        },
+        {
+            "Id": "Desktop_382"
+        },
+        {
+            "Id": "Desktop_383"
+        },
+        {
+            "Id": "Desktop_384"
+        },
+        {
+            "Id": "Desktop_385"
+        },
+        {
+            "Id": "Desktop_386"
+        },
+        {
+            "Id": "Desktop_387"
+        },
+        {
+            "Id": "Desktop_388"
+        },
+        {
+            "Id": "Desktop_389"
+        },
+        {
+            "Id": "Desktop_390"
+        },
+        {
+            "Id": "Desktop_391"
+        },
+        {
+            "Id": "Desktop_392"
+        },
+        {
+            "Id": "Desktop_393"
+        },
+        {
+            "Id": "Desktop_394"
+        },
+        {
+            "Id": "Desktop_395"
+        },
+        {
+            "Id": "Desktop_396"
+        },
+        {
+            "Id": "Desktop_397"
+        },
+        {
+            "Id": "Desktop_398"
+        },
+        {
+            "Id": "Desktop_399"
+        },
+        {
+            "Id": "Desktop_400"
+        },
+        {
+            "Id": "Desktop_401"
+        },
+        {
+            "Id": "Desktop_402"
+        },
+        {
+            "Id": "Desktop_403"
+        },
+        {
+            "Id": "Desktop_404"
+        },
+        {
+            "Id": "Desktop_405"
+        },
+        {
+            "Id": "Desktop_406"
+        },
+        {
+            "Id": "Desktop_407"
+        },
+        {
+            "Id": "Desktop_408"
+        },
+        {
+            "Id": "Desktop_409"
+        },
+        {
+            "Id": "Desktop_410"
+        },
+        {
+            "Id": "Desktop_411"
+        },
+        {
+            "Id": "Desktop_412"
+        },
+        {
+            "Id": "Desktop_413"
+        },
+        {
+            "Id": "Desktop_414"
+        },
+        {
+            "Id": "Desktop_415"
+        },
+        {
+            "Id": "Desktop_416"
+        },
+        {
+            "Id": "Desktop_417"
+        },
+        {
+            "Id": "Desktop_418"
+        },
+        {
+            "Id": "Desktop_419"
+        },
+        {
+            "Id": "Desktop_420"
+        },
+        {
+            "Id": "Desktop_421"
+        },
+        {
+            "Id": "Desktop_422"
+        },
+        {
+            "Id": "Desktop_423"
+        },
+        {
+            "Id": "Desktop_424"
+        },
+        {
+            "Id": "Desktop_425"
+        },
+        {
+            "Id": "Desktop_426"
+        },
+        {
+            "Id": "Desktop_427"
+        },
+        {
+            "Id": "Desktop_428"
+        },
+        {
+            "Id": "Desktop_429"
+        },
+        {
+            "Id": "Desktop_430"
+        },
+        {
+            "Id": "Desktop_431"
+        },
+        {
+            "Id": "Desktop_432"
+        },
+        {
+            "Id": "Desktop_433"
+        },
+        {
+            "Id": "Desktop_434"
+        },
+        {
+            "Id": "Desktop_435"
+        },
+        {
+            "Id": "Desktop_436"
+        },
+        {
+            "Id": "Desktop_437"
+        },
+        {
+            "Id": "Desktop_438"
+        },
+        {
+            "Id": "Desktop_439"
+        },
+        {
+            "Id": "Desktop_440"
+        },
+        {
+            "Id": "Desktop_441"
+        },
+        {
+            "Id": "Desktop_442"
+        },
+        {
+            "Id": "Desktop_443"
+        },
+        {
+            "Id": "Desktop_444"
+        },
+        {
+            "Id": "Desktop_445"
+        },
+        {
+            "Id": "Desktop_446"
+        },
+        {
+            "Id": "Desktop_447"
+        },
+        {
+            "Id": "Desktop_448"
+        },
+        {
+            "Id": "Desktop_449"
+        },
+        {
+            "Id": "Desktop_450"
+        },
+        {
+            "Id": "Desktop_451"
+        },
+        {
+            "Id": "Desktop_452"
+        },
+        {
+            "Id": "Desktop_453"
+        },
+        {
+            "Id": "Desktop_454"
+        },
+        {
+            "Id": "Desktop_455"
+        },
+        {
+            "Id": "Desktop_456"
+        },
+        {
+            "Id": "Desktop_457"
+        },
+        {
+            "Id": "Desktop_458"
+        },
+        {
+            "Id": "Desktop_459"
+        },
+        {
+            "Id": "Desktop_460"
+        },
+        {
+            "Id": "Desktop_461"
+        },
+        {
+            "Id": "Desktop_462"
+        },
+        {
+            "Id": "Desktop_463"
+        },
+        {
+            "Id": "Desktop_464"
+        },
+        {
+            "Id": "Desktop_465"
+        },
+        {
+            "Id": "Desktop_466"
+        },
+        {
+            "Id": "Desktop_467"
+        },
+        {
+            "Id": "Desktop_468"
+        },
+        {
+            "Id": "Desktop_469"
+        },
+        {
+            "Id": "Desktop_470"
+        },
+        {
+            "Id": "Desktop_471"
+        },
+        {
+            "Id": "Desktop_472"
+        },
+        {
+            "Id": "Desktop_473"
+        },
+        {
+            "Id": "Desktop_474"
+        },
+        {
+            "Id": "Desktop_475"
+        },
+        {
+            "Id": "Desktop_476"
+        },
+        {
+            "Id": "Desktop_477"
+        },
+        {
+            "Id": "Desktop_478"
+        },
+        {
+            "Id": "Desktop_479"
+        },
+        {
+            "Id": "Desktop_480"
+        },
+        {
+            "Id": "Desktop_481"
+        },
+        {
+            "Id": "Desktop_482"
+        },
+        {
+            "Id": "Desktop_483"
+        },
+        {
+            "Id": "Desktop_484"
+        },
+        {
+            "Id": "Desktop_485"
+        },
+        {
+            "Id": "Desktop_486"
+        },
+        {
+            "Id": "Desktop_487"
+        },
+        {
+            "Id": "Desktop_488"
+        },
+        {
+            "Id": "Desktop_489"
+        },
+        {
+            "Id": "Desktop_490"
+        },
+        {
+            "Id": "Desktop_491"
+        }
+    ],
+    "Printers": [
+        {
+            "Id": "PRNT_1",
+            "Brand": "HP",
+            "Catogory Type": "All In One B/W Laserjet printer",
+            "Model Number": "Laser Jet M1005 MFP",
+            "Specification": "Printing TechnologyLaser - monochrome/Fax Type - Plain paper/Standard Memory32 MB Max Supported  Memory32 MB/Consumables Included1 x cartridge(black) - up to 1000 pages First Copy Out Time B/W12 sec/Max Copying Speed Up to 14 ppm/Max Copying ResolutionUp to 600 x 600 dp/Max Copying Speed B/W14 ppm/Interfaces 1 x USB 2.0/Operating System SupportApple Mac OS X 10.3 or later/Output Trays Capacity100 sheets/Printing Output Typemonochrome Printing Technologylaser",
+            "Price": "17300/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/c02212746.webp\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/c03208867.webp\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/download.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "PRNT_2",
+            "Brand": "HP",
+            "Catogory Type": "Laser Jet B/W Printer",
+            "Model Number": "1020 Plus",
+            "Specification": "Printing Type: Black and White/Printing Technology: Laser/Print Resolution: 600x600 DPI/Print Speed Black: 14 PPM/Paper Size: A4, A5, A6, B5, C5, DL, Postcard/Network: LAN/Duty Cycle: 5000 Pages per month",
+            "Price": "11800/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61aWZCGbcUL._AC_SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61-BC0RC5DL._AC_SY355_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/HP-LaserJet-1020-PLUS-(CC418A)-Laser-Printer.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "PRNT_3",
+            "Brand": "HP",
+            "Catogory Type": "Laser Jet B/W Printer",
+            "Model Number": "Neverstop Laser Printer 1000a",
+            "Specification": "Print speed, black 21 - 30 /Color output Black and white/Product type Laser printers, Multifunction printers/Functions Print only/HP 103A Black Original Neverstop Laser Toner Reload Kit (Yield ~2500 pages); HP 103AD Dual pack Black Original Neverstop Laser Toner Reload Kit( Yield ~2x2500 pages) ;HP 104A Black Original Laser Imaging Drum(includes ~5000 pages of inbox toner, useful life of ~20000 pages)/Print speed Print speed up to 21 ppm (black)/Duty cycle (monthly, letter) Up to 20,000 pagesMemory 32 MB Memory, maximum 32 MB/[1] HP Black Original Laser Imaging Drum (introductory ~5,000 page black toner yield provided, with ~20,000 page Imaging Drum useful life). Actual yields vary considerably based on images printed and other factors. For details see http://www.hp.com/go/learnaboutsupplies/HP one year hardware limited warranty. For full terms and conditions, visit: www.hp.com/go/orderdocuments.",
+            "Price": "13890/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/01_hp_laser_ns_mfp_1000a_center_facing.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/guard-pro-logo.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/11_hp_laser_ns_mfp_1000a_with_toner.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/16_hp_laser_ns_mfp_1000a_hero_1_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/04_hp_laser_ns_mfp_1000a_3qr.jpg,\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/,\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "PRNT_4",
+            "Brand": "HP",
+            "Catogory Type": "All In One B/W Laserprinter",
+            "Model Number": " Neverstop Laser MFP 1200a",
+            "Specification": "HP 103A Black Original Neverstop Laser Toner Reload Kit (Yield ~2500 pages); HP 103AD Dual pack Black Original Neverstop Laser Toner Reload Kit( Yield ~2x2500 pages) ;HP 104A Black Original Laser Imaging Drum(includes ~5000 pages of inbox toner, useful life of ~20000 pages)/HP Neverstop Laser Technology/Print speed Print speed up to 20 ppm (black)/Print speed, black 21 - 30 /Color output Black and white/Usage Business personal/Perfect For Home/Duty cycle is defined as the maximum number of pages per month of imaged output. This value provides a comparison of product robustness in relation to other HP LaserJet or HP Color LaserJet devices, and enables appropriate deployment of printers and MFPs to satisfy the demands of connected individuals or groups.HP one year hardware limited warranty. For full terms and conditions, visit: www.hp.com/go/orderdocuments.",
+            "Price": "20100/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/02_hp_ns_laser_mfp_1200a_3ql.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/04_hp_ns_laser_mfp_1200a_3qr.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/10_hp_ns_laser_mfp_1200a_3ql_with_toner.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/17_hp_ns_laser_mfp_1200a_front_facing_1_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "PRNT_5",
+            "Brand": "HP",
+            "Catogory Type": "ink Tank All in one colour Printer",
+            "Model Number": "Hp Ink tank 319",
+            "Specification": "Product type  Inkjet printers, Multifunction printers /Print speed, black <=10  Print speed, color <=10/Usage Home and home office Perfect For Home/Functions Print scan and copy/Print head nozzles 328 (Black), 588 (Tri-color)/A: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages); 1VU29AA HP 30 135-ml Black Original Ink Bottle (~6,000 pages); 1VU26AA HP 31 70-ml Cyan Original Ink Bottle (~8,000 pages); 1VU27AA HP 31 70-ml Magenta Original Ink Bottle (~8,000 pages); 1VU28AA HP 31 70-ml Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. EMEA: M0H57AE HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AE HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AE HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AE HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AE HP GT52 Yellow Original Ink Bottle (~8,000 pages); 1VU29AE HP 30 135-ml Black Original Ink Bottle (~6,000 pages); 1VU26AE HP 31 70-ml Cyan Original Ink Bottle (~8,000 pages); 1VU27AE HP 31 70-ml Magenta Original Ink Bottle; 1VU28AE HP 31 70-ml Yellow Original Ink Bottle (~8,000 pages); X4E40AE HP GT51XL 135-ml Black Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. AP: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. AL: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies.",
+            "Price": "10400/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-1_T1539232253.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-2_T1539232253.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-3_T1539232254.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-4_T1539232255.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-5_T1539232255.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-6_T1539232257.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-7_T1539232257.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-8_T1539232258.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-9_T1539232259.png\"]"
+        },
+        {
+            "Id": "PRNT_6",
+            "Brand": "HP",
+            "Catogory Type": "Ink Tank All in one colour Printer wireless",
+            "Model Number": "Hp Ink tank 419",
+            "Specification": "Print speed, black <=10 Print speed, color <=10/Product type Inkjet printers, Multifunction printers/Usage Home and home office Perfect For Home/Functions Print scan and copy/Number of print cartridges 1 black bottle, set of 3 color bottles/Print heads 2 (1 black, 1 Tri-color [cyan, magenta, yellow])/Print head nozzles 328 (Black), 588 (Tri-color)/A: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages); 1VU29AA HP 30 135-ml Black Original Ink Bottle (~6,000 pages); 1VU26AA HP 31 70-ml Cyan Original Ink Bottle (~8,000 pages); 1VU27AA HP 31 70-ml Magenta Original Ink Bottle (~8,000 pages); 1VU28AA HP 31 70-ml Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. EMEA: M0H57AE HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AE HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AE HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AE HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AE HP GT52 Yellow Original Ink Bottle (~8,000 pages); 1VU29AE HP 30 135-ml Black Original Ink Bottle (~6,000 pages); 1VU26AE HP 31 70-ml Cyan Original Ink Bottle (~8,000 pages); 1VU27AE HP 31 70-ml Magenta Original Ink Bottle; 1VU28AE HP 31 70-ml Yellow Original Ink Bottle (~8,000 pages); X4E40AE HP GT51XL 135-ml Black Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. AP: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. AL: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies./Minimum System Requirements for Macintosh OS X v10.10 Yosemite - 1.5 GB Available Space, Internet Access OS X v10.11 El Capitan - 1.5 GB Available Space, Internet Access macOS Sierra v10.12 (previously OS X) - 1.5 GB Available Space, Internet Access",
+            "Price": "12990/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-1_T1539232227.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-2_T1539232228.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-3_T1539232229.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-4_T1539232229.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-5_T1539232230.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-6_T1539232231.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-7_T1539232232.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "PRNT_7",
+            "Brand": "Canon",
+            "Catogory Type": "Ink Tank All in one Colour Printer",
+            "Model Number": "Pixma G2010 ",
+            "Specification": "Printer Type - Ink Tank; Functionality - All-in-One (Print, Scan, Copy); Printer Output - Colour/Connectivity - USB ; Display - LCD (1.2 inch segment mono) ; Compatibility - Windows 8, Windows 8.1, Windows 10, Windows 7, Windows XP, and Windows Vista/original Ink Bottle - GI-790 (Black), GI-790 (Cyan, Magenta, Yellow); Page Yield - 7000 pages ; Comes with 1 each of all 4 ink bottles (Black, Cyan, Magenta, Yellow) inside the boxIdeal usage - Home and Small office, Regular / Heavy usage (more than 300 pages per month)/Pages per minute - 8.8 pages (Black & White), 5 pages (Colour) ; Cost per page - 8 paise (Black & White), 21 paise (Colour) - As per ISO standard/Page size supported - 4.0\"x6.0\" till A4 / Letter / Legal / A5 / B5 ; Duplex Print - No ; Print resolution - 4800x1200\r\nWarranty - 1 year from the date of purchase",
+            "Price": "9800/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61cZi-Le7XL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61IZDsoZ8BL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61rDSWKasEL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61wG2bgr-7L._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "PRNT_8",
+            "Brand": "Canon",
+            "Catogory Type": "Ink Tank All in one colour Printer wireless",
+            "Model Number": "Pixma G3010",
+            "Specification": "Printer Type - Ink Tank, Functionality - All-in-One (Print, Scan, Copy), Printer Output - Color/onnectivity - Wi-Fi, USB, Canon Selphy App ; Compatibility: Windows 7, 8, 8.1, 10, Windows XP and Windows Vista ; Other Print Features: Refillable Ink Tank All-In-One for High Volume Printing ; Power requirements:200 to 240 V, 50/60 Hz/Pages per minute - 8.8 pages (Black & White), 5 pages (Colour), Cost per page - 8 paise (Black & White), 21 paise (Colour) - As per ISO standards/deal usage - Home and Small office, Regular / Heavy usage (more than 300 pages per month)/Page size supported - 4.0\"x6.0\" till A4 / Letter / Legal / A5 / B5, Duplex Print - No, Print resolution - 4800x1200/Original Ink Bottle - GI-790 (Black), GI-790 (Cyan, Magenta, Yellow). Page yield - 6000 pages (black), 7000 pages (colour)",
+            "Price": "12560/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61gYNt61myL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61xxa-nMTaL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/610aNxZL5IL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "PRNT_9",
+            "Brand": "Canon",
+            "Catogory Type": "Ink Tank All in one colour Printer wireless",
+            "Model Number": "Pixma G4010",
+            "Specification": "Printer Type - Ink Tank, Functionality - All-in-One (Print, Scan, Copy, Fax) with ADF , Printer Output - Color/Connectivity - Wi-Fi, USB, Canon Selphy App (Direct Mobile Printing), Display - 2 Line LCD/Pages per minute - 8.8 pages (Black & White), 5 pages (Colour), Cost per page - 8 paise (Black & White), 21 paise (Colour) - As per ISO standards/Ideal usage - Home and Small office, Regular / Heavy usage (more than 300 pages per month)/Page size supported - 4.0\"x6.0\" till A4 / Letter / Legal / A5 / B5, Duplex Print-No, Print resolution - 4800x1200/Original Ink Bottle - GI-790 (Black), GI-790 (Cyan, Magenta, Yellow), Page Yield - 7000 pages, Comes with 1 each of all 4 ink bottles inside the box/Warranty - 1 year from the date of purchase\r\n",
+            "Price": "15900/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61hn3lffkiL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61rQrnIiUIL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71TwqyKt2OL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "PRNT_10",
+            "Brand": "Canon",
+            "Catogory Type": "All In One B/W Laserjet printer",
+            "Model Number": "Imageclass 3010",
+            "Specification": "Printer type: Laser; Functionality: All-in-One; Scanner type – flatbed; Printer output: Monochrome/Connectivity: USB/Pages per minute: 18 (Black); Cost-per-page: Rs 3 (Black)/Ideal Usage: Enterprise/Business, Frequent users (for fast, high quality printing) – More than 300 pages per month/Original Ink Cartridge - CRG925; Page Yield - CRG925-1600 pages (Black)/Page Size Supported – A4, B5, A5, Legal, Letter, Executive, Envelope C5 / COM10 / DL, Monarch ; Duplex Print – Manual; Print Resolution - 1200 x 600 dpi/Duty Cycle - Up to 8000 pages per month.\r\n",
+            "Price": "12600/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71i-fyf0moL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/718T+rMFvnL._SX450_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        }
+    ],
+    "Monitors-Projector": [
+        {
+            "Id": "MONT_1",
+            "Brand": "AOC",
+            "Catogory Type": "LED Monitro",
+            "Model Number": "Aoc 18.5 Led - (E970swn5/94)",
+            "Specification": "AOC (E970swn5/94) - 18.5\" , TN Panel, VGA , 1366x768 Resolution, 16:9 AR , 90/65 Viewing Angel,  5ms Response Time, Visa Mount ",
+            "Price": "4500/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51hUhDEzQpL._SL1024_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51kgSw1ZrUL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51lxbpRcrDL._SL1000_ (1).jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51lxbpRcrDL._SL1000_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51ocFtAGzYL._SL1200_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "MONT_2",
+            "Brand": "AOC",
+            "Catogory Type": "LED Monitro",
+            "Model Number": "Aoc 20\" Led - (E2070Swhn)",
+            "Specification": " Aoc 20\" Led - (E2070Swhn) - 19.5\" , TN Panel, VGA -1, HDMI , 1600x900 Resolution, 16:9 AR, 90 / 65 Viewing Angel,  5ms Response Time, Visa Mount ",
+            "Price": "4800/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71AZ+q7USRL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71CP50uhcLL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71qZ+sUbASL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "MONT_3",
+            "Brand": "AOC",
+            "Catogory Type": "LED Monitro",
+            "Model Number": "Aoc 22\" LED - ( E2270Swhn) ",
+            "Specification": "Aoc 22\" LED - ( E2270Swhn)  21,5\" , TN Panel, VGA , HDMI , 1920x1080 Resolution, 16:9 AR , 90/65 Viewing Angel,  5ms Response Time, Visa Mount ",
+            "Price": "7850/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71NwAUQuloL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71TaiL2Dq9L._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "MONT_4",
+            "Brand": "AOC",
+            "Catogory Type": "LED IPS Monitor",
+            "Model Number": "Aoc 22\" LED  - (22B1HS)",
+            "Specification": " Aoc 22\" LED - (22B1HS) - 21.5\" , IPS Panel, VGA , HDMI , 1920 x 1080 Resolution, 16:9 AR , 178 / 178 Viewing Angel,  7ms Response Time, Borderless, Visa Mount",
+            "Price": "8450/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/22B1HS (1).jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/8icon.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/13300904221.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/13303408251.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/14004930351.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/low-blue.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/slim.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "MONT_5",
+            "Brand": "AOC",
+            "Catogory Type": "LED Monitro",
+            "Model Number": "Aoc 24\" LED*E2450swh",
+            "Specification": "Aoc 24\" LED*E2450swh 23.6\" TN Panel , VGA , DVI , HDMI , 1920x1080 Resolution, 16:9 AR , 170 /160 Viewing Angel,  2ms Response Time, Wall Mount, TCO.",
+            "Price": "9830/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61gR7OrqycL._SL1200_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61nKAhjiTBL._SL1200_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/710Y1mMo4QL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/713dVX7hQmL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "MONT_6",
+            "Brand": "AOC",
+            "Catogory Type": "LED IPS Monitor",
+            "Model Number": "Aoc 24\" Led - (24B1HXS) - 23.8\"",
+            "Specification": "Aoc 24\" Led - (24B1HXS) - 23.8\" , IPS Panel, VGA , HDMI , 1920 x 1080 Resolution, 16:9 AR , 178 / 178 Viewing Angel,  7ms Response Time, Borderless, Visa Mount",
+            "Price": "9730/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61s1MiuaKsL._SL1000_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61tKLd9nT-L._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81fwdLfupeL._SL1500_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "MONT_7",
+            "Brand": "AOC",
+            "Catogory Type": "LED Curved Monitor",
+            "Model Number": "AOC 24\" C24V1H/WS (Curved) - 23.6\"",
+            "Specification": "AOC 24\" C24V1H/WS (Curved) - 23.6\" , Curved 1500R , VA Panel, VGA / HDMI ; Earphone, 1920x1080 Resolution,16:9 AR, 178/178 Viewing Angel, 4MS Response Time, Visa Mount ; Tilt Option; White Color.",
+            "Price": "10200/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/aoc 24inches curv_25_09_2019-79254.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/C24V1H.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/c24v1h-ws-c24v1h-ws-aoc-original-imafgzendagrycu2.jpeg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         }
     ],
     "Storage": [
@@ -384,10 +2177,10 @@
             "Catogory Type": "Motherboard",
             "Model Number": "Asus H310m-CS R2.0",
             "Specification": "CPU Support For 8th Genration Core™ /Core™ i7/Core™i5/Core™i3/Pentium® /Celeron® Processors/2xDIMM  Max.32GB DDR4 2666/2400/2133 MHz Non-ECC/Un-Buffered Memory/1 x PCI Express  3.0/2.0 Slot(@ x 16 Mode)/1 x PCI Express  2.0 x 1 slot/VGA-D SUB/4 x SATA 6.0Gb/s Connectors/Realtek RTL811H Gigabit Lan Controler/Realtek ALC887 8-Channel High Defination Audio CODEC**/4 x3.1Gen  (2 Ports at midboard 2 ports at back panel) 6 x 2.0/1.1 ports (2 ports at midboard 4 ports at back panel)",
-            "Price": "43100",
+            "Price": "5250/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-01-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-02-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-03-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-main-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
         },
         {
             "Id": "MP_2",
@@ -395,10 +2188,51 @@
             "Catogory Type": "Processor",
             "Model Number": "Core i3 9th Gen.(i3-9100f LGA 1151)",
             "Specification": "Intel® Processor with a Thermal Solution/i3-9100F  3.6 GHZ 6MB Cache LGA1151 Socket",
-            "Price": "43100",
+            "Price": "7150/-",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/i3_9100F_Center_800x800px_tiny-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/i3_9100F_QuarterLeft_800x800px_tiny-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/i3_9100F_QuarterRight_800x800px_tiny-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "MP_3",
+            "Brand": "AMD",
+            "Catogory Type": "Processor",
+            "Model Number": "AMD Ryzen ™5 3600",
+            "Specification": "Ryzen 5  CPU Cores 6  Threads 12(Total L2 Cache 3MB Total L3 Cache 32MB) / SPEED 3.6 GHz  / SPEED (TURBO) 4.2 GHz/CACHE 35 MB /**Features, Price andSpecifications are subject to change without notice.",
+            "Price": "16000/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/3600-(1)-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/3600-(2)-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/3600-(3)-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "MP_4",
+            "Brand": "Asus",
+            "Catogory Type": "Motherboard",
+            "Model Number": " Asus PRIME B450M-A",
+            "Specification": "AMD AM4 mATX motherboard with Aura Sync RGB header, DDR4 3200MHz, M.2, HDMI 2.0b, SATA 6Gbps and USB 3.1 Gen 2FEATURES/Fan Xpert 2+: Flexible controls for ultimate cooling and silence, plus GPU-temperature sensing for cooler gaming/Ultrafast connectivity: Supreme flexibility with USB 3.1 Gen 2 and native M.2/ASUS Aura Sync header: Onboard connector for RGB LED strips, easily synced with an ever-growing portfolio of Aura Sync-capable hardware/5X Protection III: Multiple hardware safeguards for all-around system protection",
+            "Price": "5900/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-2-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-4-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-image_main-600x600 (1).jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-image_main-600x600.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/h310m-pro-vh-plus-audio-hero.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/h310m-pro-vh-plus-hero.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/icon_2015082118023255d6f738c45ec.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "MP_5",
+            "Brand": "MSI",
+            "Catogory Type": "Motherboard",
+            "Model Number": "MSI H310M PRO VH-Plus",
+            "Specification": "Supports 9th / 8th Gen Intel® Core™ / Pentium® Gold / Celeron® processors for LGA 1151 socket/Supports DDR4 Memory, up to 2666MHz/Audio Boost: Reward your ears with studio grade sound quality./EZ Debug LED: Easiest way to troubleshoot./PCI-E Steel Armor: Protecting VGA cards against bending and EMI for better performance,stability and strength.X-Boost: Software that auto-detects and allows you to boost the performance of any storage or USB device./Core Boost: With premium layout and fully digital power design to support more cores and provide better performance.",
+            "Price": "4950/-",
+            "Shiping": "free",
+            "Availblity": "available",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_2_20180402162633_5ac1e9390090d_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_4_20180402162633_5ac1e9398b6c1_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_5_20180402162633_5ac1e9395dbc0_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_9_20181030115909_5bd7d70d730c4.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_10_20180402162632_5ac1e938c687c_.jpg\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/,\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png\"]"
+        },
+        {
+            "Id": "MP_6",
+            "Brand": "MSI",
+            "Catogory Type": "Motherboard",
+            "Model Number": "MSI H110M Pro VH-Plus",
+            "Specification": " Supports 6th Gen Intel® Core™ i3/i5/i7 processors, and Intel® Pentium® and Celeron® processors for Socket LGA1151* Please refer to CPU Support for compatible CPU; the above description is for reference only./ Intel® H110 Chipset/2 x DDR4 memory slots, support up to 32GB/Supports DDR4 2133 MHz Dual channel memory architecture/1 x PCIe 3.0 x16 slot  2 x PCIe 2.0 x1 slots 1 x HDMI™ ports, support a maximum resolution of 4096x2160@24Hz, 2560x1600@60Hz\r\n- Support for HDMI™ 1.4 version.\r\n• 1 x VGA port, supports a maximum resolution of 2048x1536@50Hz, 2048x1280@60Hz, 1920x1200@60Hz/• Intel® H110 Chipset\r\n- 4 x USB 3.1 Gen1 (SuperSpeed USB) ports (2 ports on the back panel, 2 ports available through the internal USB connector)\r\n- 6 x USB 2.0 (High-speed USB) ports (2 ports on the back panel, 4 ports available through the internal USB connectors) Fore more detail click here https://www.msi.com/Motherboard/H110M-PRO-VH-PLUS/Specification\r\n",
+            "Image": "[\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/click-bios-lite-screenshots.gif\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/guard-pro-logo.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/mc4_logo.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_1_20160309172514_56dfebfab2738.png\",\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/,\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/,\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/,\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/,\"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/]"
         }
     ],
     "Cabinets": [

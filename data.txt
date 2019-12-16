@@ -67,7 +67,7 @@
     ],
     "CCTV": [
         {
-            "s": "CCTV_1",
+            "Id": "CCTV_1",
             "Brand": "Hikvision",
             "Catogory Type": "CCTV Dome Camera",
             "Model Number": "DS-2CE5AD0T-IRPF(2 Mega Pixel 2.8MM LENS)",
@@ -78,7 +78,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/CCTV_1.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png"","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png"]
         },
         {
-            "s": "CCTV_2",
+            "Id": "CCTV_2",
             "Brand": "Hikvision",
             "Catogory Type": "CCTV Bullet Camera",
             "Model Number": "DS-2CE1AD0T-IRPF(2 Mega Pixel 3.8 MM  Lens)",
@@ -89,7 +89,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41tBxoTJzBL._AC_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5113KJZA65L._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51U-4x7p97L._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51ZRHViJLDL._SL1280_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51eXALDtZwL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png"]
         },
         {
-            "s": "CCTV_3",
+            "Id": "CCTV_3",
             "Brand": "Hikvision",
             "Catogory Type": "04 Channel DVR",
             "Model Number": "DS-7A04HQHI-K1 (Turbo HD DVR)",
@@ -100,7 +100,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/31xa+M3-u-L._AC_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png"]
         },
         {
-            "s": "CCTV_4",
+            "Id": "CCTV_4",
             "Brand": "Hikvision",
             "Catogory Type": "08 Channel DVR",
             "Model Number": "DS-7A08HQHI-K1 (Turbo HD DVR)",
@@ -111,7 +111,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41i164CbWBL._AC_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61a5mY6WU2L._AC_SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61qQ5-XKVPL._AC_SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png"]
         },
         {
-            "s": "CCTV_5",
+            "Id": "CCTV_5",
             "Brand": "Hikvision",
             "Catogory Type": "08 channel 5MP  DVR",
             "Model Number": "DS-7B08HUHI-K",
@@ -122,7 +122,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/ds-7b16huhi-k2-hik-vision-original-imaf76ewddv4bkvj.jpeg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png"]
         },
         {
-            "s": "CCTV_6",
+            "Id": "CCTV_6",
             "Brand": "Hikvision",
             "Catogory Type": "5MP CCTV Dome Camera",
             "Model Number": "DS-2CE5AH0T-ITPF",
@@ -133,7 +133,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51qpfdYnNfL._SL1000_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71FXVQ8sauL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71Ikr43rdkL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71s37U6yeKL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71tZgnVgw4L._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/noimage.png"]
         },
         {
-            "s": "CCTV_7",
+            "Id": "CCTV_7",
             "Brand": "Hikvision",
             "Catogory Type": "5MP CCTV Bullet Camera",
             "Model Number": "DS-2CE1AH0T-ITPF",

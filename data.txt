@@ -72,7 +72,7 @@
             "Catogory Type": "CCTV Dome Camera",
             "Model Number": "DS-2CE5AD0T-IRPF(2 Mega Pixel 2.8MM LENS)",
             "Specification": "Turbo HD 2MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
-            "Price": "1450",
+            "Price": "5",
             "Shipping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/CCTV_1.jpg"]
@@ -83,7 +83,7 @@
             "Catogory Type": "CCTV Bullet Camera",
             "Model Number": "DS-2CE1AD0T-IRPF(2 Mega Pixel 3.8 MM  Lens)",
             "Specification": "Turbo HD 2MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
-            "Price": "1550",
+            "Price": "5",
             "Shipping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41tBxoTJzBL._AC_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5113KJZA65L._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51U-4x7p97L._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51ZRHViJLDL._SL1280_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51eXALDtZwL._SL1500_.jpg"]
@@ -94,7 +94,7 @@
             "Catogory Type": "04 Channel DVR",
             "Model Number": "DS-7A04HQHI-K1 (Turbo HD DVR)",
             "Specification": "H.265 Video Compression/HD Input/Mobile Surveillance/Web Access /Mobile Survillance",
-            "Price": "5000",
+            "Price": "5",
             "Shipping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/31xa+M3-u-L._AC_.jpg"]
@@ -105,7 +105,7 @@
             "Catogory Type": "08 Channel DVR",
             "Model Number": "DS-7A08HQHI-K1 (Turbo HD DVR)",
             "Specification": "H.265 Video Compression/HD Input/Mobile Surveillance/Web Access /Mobile Survillance",
-            "Price": "6890",
+            "Price": "5",
             "Shipping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41i164CbWBL._AC_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61a5mY6WU2L._AC_SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61qQ5-XKVPL._AC_SL1500_.jpg"]
@@ -116,7 +116,7 @@
             "Catogory Type": "08 channel 5MP  DVR",
             "Model Number": "DS-7B08HUHI-K",
             "Specification": "H.265 Video Compression/HD Input/Mobile Surveillance/Web Access /Mobile Survillance/2 Sata Port",
-            "Price": "9300",
+            "Price": "5",
             "Shipping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/ds-7b16huhi-k2-hik-vision-original-imaf76ewddv4bkvj.jpeg"]
@@ -127,7 +127,7 @@
             "Catogory Type": "5MP CCTV Dome Camera",
             "Model Number": "DS-2CE5AH0T-ITPF",
             "Specification": "Turbo HD 5MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
-            "Price": "1680",
+            "Price": "5",
             "Shipping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51qpfdYnNfL._SL1000_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71FXVQ8sauL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71Ikr43rdkL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71s37U6yeKL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71tZgnVgw4L._SL1500_.jpg"]
@@ -138,7 +138,7 @@
             "Catogory Type": "5MP CCTV Bullet Camera",
             "Model Number": "DS-2CE1AH0T-ITPF",
             "Specification": "Turbo HD 5MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
-            "Price": "1790",
+            "Price": "5",
             "Shipping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/312r8hJo22L.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/31sXcb3+QlL.jpg"]
@@ -151,7 +151,7 @@
             "Catogory Type": "Antivirus",
             "Model Number": "Quick heal A/V Pro 1PC/1User",
             "Specification": "Cloud Protection/Advanced DNA Scan/Browsing Protection/Email Protection/Firewall Monitors Incoming and Outgoing Data Trafik/Track My Laptop ",
-            "Price": "480",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61BJdwOjirL._AC_SL1257_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/613tb9Va58L._AC_SL1100_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/614NF0dzuoL._AC_SL1257_.jpg"]
@@ -162,7 +162,7 @@
             "Catogory Type": "Antivirus",
             "Model Number": "Net Protector Total Security 1U/1Y",
             "Specification": "Does Not Slow Down Your PC/Ultra Fast Scaning/Simple Easy To Use/Improves Performance of Your PC,LAN Internert",
-            "Price": "440",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81F-my4oX9L._AC_SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81Yw8D+CntL._AC_SL1500_.jpg"]
@@ -173,7 +173,7 @@
             "Catogory Type": "Antivirus",
             "Model Number": "Net Protector Total Security 1U/3Y",
             "Specification": "Does Not Slow Down Your PC/Ultra Fast Scaning/Simple Easy To Use/Improves Performance of Your PC,LAN Internert",
-            "Price": "1110",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/_2019_04_20_09_00_52.jpg"]
@@ -186,7 +186,7 @@
             "Catogory Type": "Laptop",
             "Model Number": "Inspiron 3548",
             "Specification": "Core I3 7th Gen/4 GB DDR4 Ram/2 GB Graphic/No DVD/Win 10+MS Office/15.6\" Screen",
-            "Price": "35700",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/OriginalPng.png"]
@@ -197,7 +197,7 @@
             "Catogory Type": "Laptop",
             "Model Number": "Vostro 3581",
             "Specification": "Core I3 7th Gen/4 GB DDR4 Ram/2 GB Graphic/Win 10+MS Office/15.6\" Scree",
-            "Price": "34300",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_10__6.jpeg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_1__25.jpeg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_3__24.jpeg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_4__1_4.jpeg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_5__13.jpeg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_6__13.jpeg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_7__1_4.jpeg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_8__1_3.jpeg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/cq5dam.web.1280.1280_9__1_4.jpeg"]
@@ -208,7 +208,7 @@
             "Catogory Type": "Laptop",
             "Model Number": "A315-53(NX.H38SI.014)",
             "Specification": "Core I5 8tn Gen/4GB DDR4 Ram/1 TB HDD/15.6\" Full HD Screen/Win 10/Black Colour",
-            "Price": "37500",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53.webp","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_01.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_02.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_03.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_04.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_05.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_06.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Aspire-3_black_gallery_07.png"]
@@ -219,7 +219,7 @@
             "Catogory Type": "Laptop",
             "Model Number": "A315-53G(NX.H1ASI.003)",
             "Specification": "Core I5 8tn Gen/8GB DDR4 Ram/1 TB HDD/2 GB MX130 Graphic/15.6\" Full HD Screen/Win 10",
-            "Price": "44510",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53g (1).jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53g (2).jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53g (3).jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-a315-53g.jpg"]
@@ -230,7 +230,7 @@
             "Catogory Type": "Laptop",
             "Model Number": "A315-55G(NX.HEDSI.003)",
             "Specification": "Core I5 8tn Gen/8GB DDR4 Ram/1 TB HDD/2 GB MX230  Graphic/15.6\" Full HD Screen/Win 10/Black Colour",
-            "Price": "47100",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-3-a315-55-55k-08.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-3-a315-55-55k-wp-01.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-3-a315-55-55k-wp-03.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/acer-aspire-3-a315-55-55k-wp-04.jpg"]
@@ -241,7 +241,7 @@
             "Catogory Type": "Laptop",
             "Model Number": "A515-54G(NX.HN5SI.002)",
             "Specification": "Core I5 10tn Gen/8GB DDR4 Ram/512 SSD/2 GB MX250  Graphic/15.6\" Full HD Screen/Win 10",
-            "Price": "52210",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-01.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-02.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-03.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-04.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-05.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-06.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-07.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Acer-Aspire-5-A515-54-photogallery-08.png"]
@@ -252,7 +252,7 @@
             "Catogory Type": "Laptop",
             "Model Number": "Vivo Book(S510UN-BQ122T)",
             "Specification": "Core I5 8tn Gen/8GB DDR4 Ram/1 TB HDD/2 GB Graphic/15.6\" Full HD Screen/Win 10/Gold Colour",
-            "Price": "43100",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61EWm2ZzckL._SL1070_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61IZDsoZ8BL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61J4kZTEWTL._AC_SL1257_2.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61JfWTZ8SFL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61Kg78mueBL._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61VPWhBnZhL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61Xzjxg7mBL._SL1500_.jpg"]
@@ -263,7 +263,7 @@
             "Catogory Type": "Laptop",
             "Model Number": "HP 15-DA0435Tx",
             "Specification": "Core i3 -7th Gen/ 8GB DDR4 RAM/  1TB HDD/ 2 GB Graphics/15.6\" Full HD Screen/ Win10 + Ms Office",
-            "Price": "4300",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-1_T1542252036.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-2_T1542252037.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-3_T1542252037.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-4_T1542252038.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-5_T1542252039.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5CK37PA-6_T1542252039.png"]
@@ -274,7 +274,7 @@
             "Catogory Type": "Laptop",
             "Model Number": "HP 15-DA0326Tu",
             "Specification": "Core i3 -7th Gen/ 4GB DDR4 RAM/  1TB HDD/ DVD Rw/15.6\" Full HD Screen/ Win10 Home",
-            "Price": "31850",
+            "Price": "5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/1.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/2.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5AY34PA-4_T1539242223.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5AY34PA-6_T1539242224.png"]
@@ -542,7 +542,7 @@
             "Catogory Type": "All In One B/W Laserjet printer",
             "Model Number": "Laser Jet M1005 MFP",
             "Specification": "Printing TechnologyLaser - monochrome/Fax Type - Plain paper/Standard Memory32 MB Max Supported  Memory32 MB/Consumables Included1 x cartridge(black) - up to 1000 pages First Copy Out Time B/W12 sec/Max Copying Speed Up to 14 ppm/Max Copying ResolutionUp to 600 x 600 dp/Max Copying Speed B/W14 ppm/Interfaces 1 x USB 2.0/Operating System SupportApple Mac OS X 10.3 or later/Output Trays Capacity100 sheets/Printing Output Typemonochrome Printing Technologylaser",
-            "Price": "17300/-",
+            "Price": "17300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/c02212746.webp","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/c03208867.webp","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/download.jpg"]
@@ -553,7 +553,7 @@
             "Catogory Type": "Laser Jet B/W Printer",
             "Model Number": "1020 Plus",
             "Specification": "Printing Type: Black and White/Printing Technology: Laser/Print Resolution: 600x600 DPI/Print Speed Black: 14 PPM/Paper Size: A4, A5, A6, B5, C5, DL, Postcard/Network: LAN/Duty Cycle: 5000 Pages per month",
-            "Price": "11800/-",
+            "Price": "11800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61aWZCGbcUL._AC_SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61-BC0RC5DL._AC_SY355_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/HP-LaserJet-1020-PLUS-(CC418A)-Laser-Printer.jpg"]
@@ -564,7 +564,7 @@
             "Catogory Type": "Laser Jet B/W Printer",
             "Model Number": "Neverstop Laser Printer 1000a",
             "Specification": "Print speed, black 21 - 30 /Color output Black and white/Product type Laser printers, Multifunction printers/Functions Print only/HP 103A Black Original Neverstop Laser Toner Reload Kit (Yield ~2500 pages); HP 103AD Dual pack Black Original Neverstop Laser Toner Reload Kit( Yield ~2x2500 pages) ;HP 104A Black Original Laser Imaging Drum(includes ~5000 pages of inbox toner, useful life of ~20000 pages)/Print speed Print speed up to 21 ppm (black)/Duty cycle (monthly, letter) Up to 20,000 pagesMemory 32 MB Memory, maximum 32 MB/[1] HP Black Original Laser Imaging Drum (introductory ~5,000 page black toner yield provided, with ~20,000 page Imaging Drum useful life). Actual yields vary considerably based on images printed and other factors. For details see http://www.hp.com/go/learnaboutsupplies/HP one year hardware limited warranty. For full terms and conditions, visit: www.hp.com/go/orderdocuments.",
-            "Price": "13890/-",
+            "Price": "13890",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/01_hp_laser_ns_mfp_1000a_center_facing.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/guard-pro-logo.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/11_hp_laser_ns_mfp_1000a_with_toner.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/16_hp_laser_ns_mfp_1000a_hero_1_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/04_hp_laser_ns_mfp_1000a_3qr.jpg"]
@@ -575,7 +575,7 @@
             "Catogory Type": "All In One B/W Laserprinter",
             "Model Number": " Neverstop Laser MFP 1200a",
             "Specification": "HP 103A Black Original Neverstop Laser Toner Reload Kit (Yield ~2500 pages); HP 103AD Dual pack Black Original Neverstop Laser Toner Reload Kit( Yield ~2x2500 pages) ;HP 104A Black Original Laser Imaging Drum(includes ~5000 pages of inbox toner, useful life of ~20000 pages)/HP Neverstop Laser Technology/Print speed Print speed up to 20 ppm (black)/Print speed, black 21 - 30 /Color output Black and white/Usage Business personal/Perfect For Home/Duty cycle is defined as the maximum number of pages per month of imaged output. This value provides a comparison of product robustness in relation to other HP LaserJet or HP Color LaserJet devices, and enables appropriate deployment of printers and MFPs to satisfy the demands of connected individuals or groups.HP one year hardware limited warranty. For full terms and conditions, visit: www.hp.com/go/orderdocuments.",
-            "Price": "20100/-",
+            "Price": "20100",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/02_hp_ns_laser_mfp_1200a_3ql.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/04_hp_ns_laser_mfp_1200a_3qr.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/10_hp_ns_laser_mfp_1200a_3ql_with_toner.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/17_hp_ns_laser_mfp_1200a_front_facing_1_.jpg"]
@@ -586,7 +586,7 @@
             "Catogory Type": "ink Tank All in one colour Printer",
             "Model Number": "Hp Ink tank 319",
             "Specification": "Product type  Inkjet printers, Multifunction printers /Print speed, black <=10  Print speed, color <=10/Usage Home and home office Perfect For Home/Functions Print scan and copy/Print head nozzles 328 (Black), 588 (Tri-color)/A: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages); 1VU29AA HP 30 135-ml Black Original Ink Bottle (~6,000 pages); 1VU26AA HP 31 70-ml Cyan Original Ink Bottle (~8,000 pages); 1VU27AA HP 31 70-ml Magenta Original Ink Bottle (~8,000 pages); 1VU28AA HP 31 70-ml Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. EMEA: M0H57AE HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AE HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AE HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AE HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AE HP GT52 Yellow Original Ink Bottle (~8,000 pages); 1VU29AE HP 30 135-ml Black Original Ink Bottle (~6,000 pages); 1VU26AE HP 31 70-ml Cyan Original Ink Bottle (~8,000 pages); 1VU27AE HP 31 70-ml Magenta Original Ink Bottle; 1VU28AE HP 31 70-ml Yellow Original Ink Bottle (~8,000 pages); X4E40AE HP GT51XL 135-ml Black Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. AP: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. AL: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies.",
-            "Price": "10400/-",
+            "Price": "10400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-1_T1539232253.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-2_T1539232253.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-3_T1539232254.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-4_T1539232255.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-5_T1539232255.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-6_T1539232257.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-7_T1539232257.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-8_T1539232258.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-9_T1539232259.png"]
@@ -597,7 +597,7 @@
             "Catogory Type": "Ink Tank All in one colour Printer wireless",
             "Model Number": "Hp Ink tank 419",
             "Specification": "Print speed, black <=10 Print speed, color <=10/Product type Inkjet printers, Multifunction printers/Usage Home and home office Perfect For Home/Functions Print scan and copy/Number of print cartridges 1 black bottle, set of 3 color bottles/Print heads 2 (1 black, 1 Tri-color [cyan, magenta, yellow])/Print head nozzles 328 (Black), 588 (Tri-color)/A: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages); 1VU29AA HP 30 135-ml Black Original Ink Bottle (~6,000 pages); 1VU26AA HP 31 70-ml Cyan Original Ink Bottle (~8,000 pages); 1VU27AA HP 31 70-ml Magenta Original Ink Bottle (~8,000 pages); 1VU28AA HP 31 70-ml Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. EMEA: M0H57AE HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AE HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AE HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AE HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AE HP GT52 Yellow Original Ink Bottle (~8,000 pages); 1VU29AE HP 30 135-ml Black Original Ink Bottle (~6,000 pages); 1VU26AE HP 31 70-ml Cyan Original Ink Bottle (~8,000 pages); 1VU27AE HP 31 70-ml Magenta Original Ink Bottle; 1VU28AE HP 31 70-ml Yellow Original Ink Bottle (~8,000 pages); X4E40AE HP GT51XL 135-ml Black Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. AP: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies. AL: M0H57AA HP GT51 Black Original Ink Bottle (~5,000 pages); X4E40AA HP GT51XL 135-ml Black Original Ink Bottle (~6,000 pages); M0H54AA HP GT52 Cyan Original Ink Bottle (~8,000 pages); M0H55AA HP GT52 Magenta Original Ink Bottle (~8,000 pages); M0H56AA HP GT52 Yellow Original Ink Bottle (~8,000 pages). Average based on ISO/IEC 24711 or HP testing methodology and continuous printing. Actual yield varies considerably based on content of printed pages and other factors. For more information about fill and yield, see http://hp.com/go/learnaboutsupplies./Minimum System Requirements for Macintosh OS X v10.10 Yosemite - 1.5 GB Available Space, Internet Access OS X v10.11 El Capitan - 1.5 GB Available Space, Internet Access macOS Sierra v10.12 (previously OS X) - 1.5 GB Available Space, Internet Access",
-            "Price": "12990/-",
+            "Price": "12990",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-1_T1539232227.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-2_T1539232228.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-3_T1539232229.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-4_T1539232229.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-5_T1539232230.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-6_T1539232231.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-7_T1539232232.png"]
@@ -608,7 +608,7 @@
             "Catogory Type": "Ink Tank All in one Colour Printer",
             "Model Number": "Pixma G2010 ",
             "Specification": "Printer Type - Ink Tank; Functionality - All-in-One (Print, Scan, Copy); Printer Output - Colour/Connectivity - USB ; Display - LCD (1.2 inch segment mono) ; Compatibility - Windows 8, Windows 8.1, Windows 10, Windows 7, Windows XP, and Windows Vista/original Ink Bottle - GI-790 (Black), GI-790 (Cyan, Magenta, Yellow); Page Yield - 7000 pages ; Comes with 1 each of all 4 ink bottles (Black, Cyan, Magenta, Yellow) inside the boxIdeal usage - Home and Small office, Regular / Heavy usage (more than 300 pages per month)/Pages per minute - 8.8 pages (Black & White), 5 pages (Colour) ; Cost per page - 8 paise (Black & White), 21 paise (Colour) - As per ISO standard/Page size supported - 4.0\"x6.0\" till A4 / Letter / Legal / A5 / B5 ; Duplex Print - No ; Print resolution - 4800x1200\r\nWarranty - 1 year from the date of purchase",
-            "Price": "9800/-",
+            "Price": "9800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61cZi-Le7XL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61IZDsoZ8BL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61rDSWKasEL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61wG2bgr-7L._SL1500_.jpg"]
@@ -619,7 +619,7 @@
             "Catogory Type": "Ink Tank All in one colour Printer wireless",
             "Model Number": "Pixma G3010",
             "Specification": "Printer Type - Ink Tank, Functionality - All-in-One (Print, Scan, Copy), Printer Output - Color/onnectivity - Wi-Fi, USB, Canon Selphy App ; Compatibility: Windows 7, 8, 8.1, 10, Windows XP and Windows Vista ; Other Print Features: Refillable Ink Tank All-In-One for High Volume Printing ; Power requirements:200 to 240 V, 50/60 Hz/Pages per minute - 8.8 pages (Black & White), 5 pages (Colour), Cost per page - 8 paise (Black & White), 21 paise (Colour) - As per ISO standards/deal usage - Home and Small office, Regular / Heavy usage (more than 300 pages per month)/Page size supported - 4.0\"x6.0\" till A4 / Letter / Legal / A5 / B5, Duplex Print - No, Print resolution - 4800x1200/Original Ink Bottle - GI-790 (Black), GI-790 (Cyan, Magenta, Yellow). Page yield - 6000 pages (black), 7000 pages (colour)",
-            "Price": "12560/-",
+            "Price": "12560",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61gYNt61myL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61xxa-nMTaL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/610aNxZL5IL._SL1500_.jpg"]
@@ -630,7 +630,7 @@
             "Catogory Type": "Ink Tank All in one colour Printer wireless",
             "Model Number": "Pixma G4010",
             "Specification": "Printer Type - Ink Tank, Functionality - All-in-One (Print, Scan, Copy, Fax) with ADF , Printer Output - Color/Connectivity - Wi-Fi, USB, Canon Selphy App (Direct Mobile Printing), Display - 2 Line LCD/Pages per minute - 8.8 pages (Black & White), 5 pages (Colour), Cost per page - 8 paise (Black & White), 21 paise (Colour) - As per ISO standards/Ideal usage - Home and Small office, Regular / Heavy usage (more than 300 pages per month)/Page size supported - 4.0\"x6.0\" till A4 / Letter / Legal / A5 / B5, Duplex Print-No, Print resolution - 4800x1200/Original Ink Bottle - GI-790 (Black), GI-790 (Cyan, Magenta, Yellow), Page Yield - 7000 pages, Comes with 1 each of all 4 ink bottles inside the box/Warranty - 1 year from the date of purchase\r\n",
-            "Price": "15900/-",
+            "Price": "15900",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61hn3lffkiL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61rQrnIiUIL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71TwqyKt2OL._SL1500_.jpg"]
@@ -641,7 +641,7 @@
             "Catogory Type": "All In One B/W Laserjet printer",
             "Model Number": "Imageclass 3010",
             "Specification": "Printer type: Laser; Functionality: All-in-One; Scanner type – flatbed; Printer output: Monochrome/Connectivity: USB/Pages per minute: 18 (Black); Cost-per-page: Rs 3 (Black)/Ideal Usage: Enterprise/Business, Frequent users (for fast, high quality printing) – More than 300 pages per month/Original Ink Cartridge - CRG925; Page Yield - CRG925-1600 pages (Black)/Page Size Supported – A4, B5, A5, Legal, Letter, Executive, Envelope C5 / COM10 / DL, Monarch ; Duplex Print – Manual; Print Resolution - 1200 x 600 dpi/Duty Cycle - Up to 8000 pages per month.\r\n",
-            "Price": "12600/-",
+            "Price": "12600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71i-fyf0moL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/718T+rMFvnL._SX450_.jpg"]
@@ -654,7 +654,7 @@
             "Catogory Type": "LED Monitro",
             "Model Number": "Aoc 18.5 Led - (E970swn5/94)",
             "Specification": "AOC (E970swn5/94) - 18.5\" , TN Panel, VGA , 1366x768 Resolution, 16:9 AR , 90/65 Viewing Angel,  5ms Response Time, Visa Mount ",
-            "Price": "4500/-",
+            "Price": "4500",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51hUhDEzQpL._SL1024_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51kgSw1ZrUL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51lxbpRcrDL._SL1000_ (1).jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51lxbpRcrDL._SL1000_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51ocFtAGzYL._SL1200_.jpg"]
@@ -665,7 +665,7 @@
             "Catogory Type": "LED Monitro",
             "Model Number": "Aoc 20\" Led - (E2070Swhn)",
             "Specification": " Aoc 20\" Led - (E2070Swhn) - 19.5\" , TN Panel, VGA -1, HDMI , 1600x900 Resolution, 16:9 AR, 90 / 65 Viewing Angel,  5ms Response Time, Visa Mount ",
-            "Price": "4800/-",
+            "Price": "4800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71AZ+q7USRL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71CP50uhcLL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71qZ+sUbASL._SL1500_.jpg"]
@@ -676,7 +676,7 @@
             "Catogory Type": "LED Monitro",
             "Model Number": "Aoc 22\" LED - ( E2270Swhn) ",
             "Specification": "Aoc 22\" LED - ( E2270Swhn)  21,5\" , TN Panel, VGA , HDMI , 1920x1080 Resolution, 16:9 AR , 90/65 Viewing Angel,  5ms Response Time, Visa Mount ",
-            "Price": "7850/-",
+            "Price": "7850",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71NwAUQuloL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71TaiL2Dq9L._SL1500_.jpg"]
@@ -687,7 +687,7 @@
             "Catogory Type": "LED IPS Monitor",
             "Model Number": "Aoc 22\" LED  - (22B1HS)",
             "Specification": " Aoc 22\" LED - (22B1HS) - 21.5\" , IPS Panel, VGA , HDMI , 1920 x 1080 Resolution, 16:9 AR , 178 / 178 Viewing Angel,  7ms Response Time, Borderless, Visa Mount",
-            "Price": "8450/-",
+            "Price": "8450",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/22B1HS (1).jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/8icon.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/13300904221.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/13303408251.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/14004930351.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/low-blue.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/slim.jpg"]
@@ -698,7 +698,7 @@
             "Catogory Type": "LED Monitro",
             "Model Number": "Aoc 24\" LED*E2450swh",
             "Specification": "Aoc 24\" LED*E2450swh 23.6\" TN Panel , VGA , DVI , HDMI , 1920x1080 Resolution, 16:9 AR , 170 /160 Viewing Angel,  2ms Response Time, Wall Mount, TCO.",
-            "Price": "9830/-",
+            "Price": "9830",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61gR7OrqycL._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61nKAhjiTBL._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/710Y1mMo4QL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/713dVX7hQmL._SL1500_.jpg"]
@@ -709,7 +709,7 @@
             "Catogory Type": "LED IPS Monitor",
             "Model Number": "Aoc 24\" Led - (24B1HXS) - 23.8\"",
             "Specification": "Aoc 24\" Led - (24B1HXS) - 23.8\" , IPS Panel, VGA , HDMI , 1920 x 1080 Resolution, 16:9 AR , 178 / 178 Viewing Angel,  7ms Response Time, Borderless, Visa Mount",
-            "Price": "9730/-",
+            "Price": "9730",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61s1MiuaKsL._SL1000_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61tKLd9nT-L._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81fwdLfupeL._SL1500_.jpg"]
@@ -720,7 +720,7 @@
             "Catogory Type": "LED Curved Monitor",
             "Model Number": "AOC 24 C24V1H/WS (Curved) - 23.6",
             "Specification": "AOC 24 C24V1H/WS (Curved) - 23.6 , Curved 1500R , VA Panel, VGA / HDMI ; Earphone, 1920x1080 Resolution,16:9 AR, 178/178 Viewing Angel, 4MS Response Time, Visa Mount ; Tilt Option; White Color.",
-            "Price": "10200/-",
+            "Price": "10200",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/aoc 24inches curv_25_09_2019-79254.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/C24V1H.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/c24v1h-ws-c24v1h-ws-aoc-original-imafgzendagrycu2.jpeg"]
@@ -733,7 +733,7 @@
             "Catogory Type": "Storage",
             "Model Number": "WDS240G2G0A",
             "Specification": "Series Green SATA 2.5/7mm disque/Device Type 2.5 Inch SSD/Drive Capacity 240 GB/equential Read Up: 545 MB/s, Maximum Read Operating: 2800 mW, Slumber: 25 mW, Reliability MTTF: Up to 1.0M hours, Non Operating Vibrations: 4.9 gRMS, 7 - 800 Hz, Certification: FCC, UL, TUV, KC, BSMI, VCCI, Weight: 32.2 g, +/- 0.5 g",
-            "Price": "2590/-",
+            "Price": "2590",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -746,7 +746,7 @@
             "Catogory Type": "Motherboard",
             "Model Number": "Asus H310m-CS R2.0",
             "Specification": "CPU Support For 8th Genration Core™ /Core™ i7/Core™i5/Core™i3/Pentium® /Celeron® Processors/2xDIMM  Max.32GB DDR4 2666/2400/2133 MHz Non-ECC/Un-Buffered Memory/1 x PCI Express  3.0/2.0 Slot(@ x 16 Mode)/1 x PCI Express  2.0 x 1 slot/VGA-D SUB/4 x SATA 6.0Gb/s Connectors/Realtek RTL811H Gigabit Lan Controler/Realtek ALC887 8-Channel High Defination Audio CODEC**/4 x3.1Gen  (2 Ports at midboard 2 ports at back panel) 6 x 2.0/1.1 ports (2 ports at midboard 4 ports at back panel)",
-            "Price": "5250/-",
+            "Price": "5250",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-01-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-02-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-03-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-main-600x600.jpg"]
@@ -757,7 +757,7 @@
             "Catogory Type": "Processor",
             "Model Number": "Core i3 9th Gen.(i3-9100f LGA 1151)",
             "Specification": "Intel® Processor with a Thermal Solution/i3-9100F  3.6 GHZ 6MB Cache LGA1151 Socket",
-            "Price": "7150/-",
+            "Price": "7150",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/i3_9100F_Center_800x800px_tiny-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/i3_9100F_QuarterLeft_800x800px_tiny-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/i3_9100F_QuarterRight_800x800px_tiny-600x600.jpg"]
@@ -768,7 +768,7 @@
             "Catogory Type": "Processor",
             "Model Number": "AMD Ryzen ™5 3600",
             "Specification": "Ryzen 5  CPU Cores 6  Threads 12(Total L2 Cache 3MB Total L3 Cache 32MB) / SPEED 3.6 GHz  / SPEED (TURBO) 4.2 GHz/CACHE 35 MB /**Features, Price andSpecifications are subject to change without notice.",
-            "Price": "16000/-",
+            "Price": "16000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/3600-(1)-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/3600-(2)-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/3600-(3)-600x600.jpg"]
@@ -779,7 +779,7 @@
             "Catogory Type": "Motherboard",
             "Model Number": " Asus PRIME B450M-A",
             "Specification": "AMD AM4 mATX motherboard with Aura Sync RGB header, DDR4 3200MHz, M.2, HDMI 2.0b, SATA 6Gbps and USB 3.1 Gen 2FEATURES/Fan Xpert 2+: Flexible controls for ultimate cooling and silence, plus GPU-temperature sensing for cooler gaming/Ultrafast connectivity: Supreme flexibility with USB 3.1 Gen 2 and native M.2/ASUS Aura Sync header: Onboard connector for RGB LED strips, easily synced with an ever-growing portfolio of Aura Sync-capable hardware/5X Protection III: Multiple hardware safeguards for all-around system protection",
-            "Price": "5900/-",
+            "Price": "5900",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-2-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-4-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-image_main-600x600 (1).jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-image_main-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/h310m-pro-vh-plus-audio-hero.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/h310m-pro-vh-plus-hero.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/icon_2015082118023255d6f738c45ec.png"]
@@ -790,19 +790,11 @@
             "Catogory Type": "Motherboard",
             "Model Number": "MSI H310M PRO VH-Plus",
             "Specification": "Supports 9th / 8th Gen Intel® Core™ / Pentium® Gold / Celeron® processors for LGA 1151 socket/Supports DDR4 Memory, up to 2666MHz/Audio Boost: Reward your ears with studio grade sound quality./EZ Debug LED: Easiest way to troubleshoot./PCI-E Steel Armor: Protecting VGA cards against bending and EMI for better performance,stability and strength.X-Boost: Software that auto-detects and allows you to boost the performance of any storage or USB device./Core Boost: With premium layout and fully digital power design to support more cores and provide better performance.",
-            "Price": "4950/-",
+            "Price": "4950",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_2_20180402162633_5ac1e9390090d_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_4_20180402162633_5ac1e9398b6c1_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_5_20180402162633_5ac1e9395dbc0_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_9_20181030115909_5bd7d70d730c4.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_10_20180402162632_5ac1e938c687c_.jpg"]
         },
-        {
-            "Id": "MP_6",
-            "Brand": "MSI",
-            "Catogory Type": "Motherboard",
-            "Model Number": "MSI H110M Pro VH-Plus",
-            "Specification": " Supports 6th Gen Intel® Core™ i3/i5/i7 processors, and Intel® Pentium® and Celeron® processors for Socket LGA1151* Please refer to CPU Support for compatible CPU; the above description is for reference only./ Intel® H110 Chipset/2 x DDR4 memory slots, support up to 32GB/Supports DDR4 2133 MHz Dual channel memory architecture/1 x PCIe 3.0 x16 slot  2 x PCIe 2.0 x1 slots 1 x HDMI™ ports, support a maximum resolution of 4096x2160@24Hz, 2560x1600@60Hz\r\n- Support for HDMI™ 1.4 version.\r\n• 1 x VGA port, supports a maximum resolution of 2048x1536@50Hz, 2048x1280@60Hz, 1920x1200@60Hz/• Intel® H110 Chipset\r\n- 4 x USB 3.1 Gen1 (SuperSpeed USB) ports (2 ports on the back panel, 2 ports available through the internal USB connector)\r\n- 6 x USB 2.0 (High-speed USB) ports (2 ports on the back panel, 4 ports available through the internal USB connectors) Fore more detail click here https://www.msi.com/Motherboard/H110M-PRO-VH-PLUS/Specification\r\n",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/click-bios-lite-screenshots.gif","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/guard-pro-logo.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/mc4_logo.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_1_20160309172514_56dfebfab2738.png"]
-        }
     ],
     "Cabinets": [
         {
@@ -811,7 +803,7 @@
             "Catogory Type": "Cabinets",
             "Model Number": "IT-226",
             "Specification": "Cabint+SMPS/Key Feature Heavy Duty System/Available Colors Black./Cabinet Type ATX/External Drive Bays 1 x 13.36cm (5.25) Bays./nternal Drive Bays 3 x 8.89cm (3.5) drive bays, 1 x 6.35cm (2.5) drive bays.ront USB Port Available/Front Head Phone/ Mic Ports Available/size (LxWxH)cm. 35.8 x 20.6 x 43.0 cm/Power Supply SATA, 20+4 PIN SMPS/With Handle Yes",
-            "Price": "1450/-",
+            "Price": "1450",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -822,7 +814,7 @@
             "Catogory Type": "Cabinets",
             "Model Number": "VIP3051",
             "Specification": "Cabinet+SMPS/Motherboard Form Factor: Micro ATX/USB Ports : 2 x USB 2.0./High Quality non-recycled sheet metal/1 Years Warranty",
-            "Price": "1750/-",
+            "Price": "1750",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -835,7 +827,7 @@
             "Catogory Type": "UPS",
             "Model Number": "Protector 725 600va 3Plug",
             "Specification": "Output Voltage 230 V/Output Frequency 50 to 60 Hz +/- 3 Hz/Number of Outlet Plugs 3/1 Year Warranty on Battery ,2 Years Warranty on UPS/Warranty of the product is limited to manufacturing defects only.",
-            "Price": "1750/-",
+            "Price": "1750",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -846,7 +838,7 @@
             "Catogory Type": "UPS",
             "Model Number": "Powersafe 600VA",
             "Specification": "Output Power Wattage: 420 W/Output Voltage 230 V Output Frequency 50hHZ/-1Hz/Wide input range 140-300VAC., Heavy Duty Battery for Longer Life and Higher Reliability, Microcontroller insures high reliability., Simulated Sine wave Output., Auto Restart while AC Mains recovery /2 Years Warranty on UPS/Warranty of the product is limited to manufacturing defects only",
-            "Price": "1850/-",
+            "Price": "1850",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -859,7 +851,7 @@
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "C 49 Slim Multimedia",
             "Specification": "OS Supported Windows and Mac OS/ Internet Keys Yes/ 3 Years Manufacturer Warranty/Switch Life 20,00,000 Cycles/Important Note The Product Comes with a Common USB Receiver for the Keyboard &Mouse",
-            "Price": "1000/-",
+            "Price": "1000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -870,7 +862,7 @@
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "c 43 slim keyboard mouse combo",
             "Specification": "OS Supported Windows and Mac OS/ Internet Keys Yes/ 3 Years Manufacturer Warranty/Important Note The Product Comes with a Common USB Receiver for the Keyboard &Mouse",
-            "Price": "880/-",
+            "Price": "880",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -881,7 +873,7 @@
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "Companion 101",
             "Specification": "Companion 101 is a wireless keyboard and mouse combo. The keyboard has 104 keys with integrated multimedia keys. It also has sleep mode for power saving and low battery LED indicator. The mouse comes with rubber finish and a compact and ergonomic design with solid structure and high quality buttons. It is a high precision mouse with 1200 DPI. It comes with a nano receiver and has an easy instal plug and play feature.",
-            "Price": "1000/-",
+            "Price": "1000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -892,7 +884,7 @@
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "KW300",
             "Specification": "Ergonomically built 2.4Ghz wireless keyboard and mouse combo with retro, round keycaps that are both comfortable and trendy. Enjoy more comfort and style on your workspace/Frequency 2.4Ghz/Working range360 degrees up to 10 meters/Package Contents Wireless Keyboard & Mouse I Nano Receiver I Battery",
-            "Price": "1850/-",
+            "Price": "1850",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -903,7 +895,7 @@
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "L999",
             "Specification": "Lapcare L999 is made with high quality materials which enables it to be light yet be rugged. The keyboard is easily portable and comes with a full size layout.L999 operates on 2.4Ghz technology which enables loss less connection over descent distances. It can operate at 8-10m from the tower. The 1200 DPI mouse will aide with smooth and accurate operations and can be used for casual gaming.Built to be operational for a longtime where we have added extra rigidity to 'Enter' and 'Shift' keys. The keys are tested for upto 10 million clicks for accurate typing and keys have UV coating to them which ensures that they don't fade and each keys are easily identifiable even after years of use.The Auto Sleep function ensures that the keyboard and mouse are operational only when needed hence saving energy.Supports Windows operating systemversion: 95, 98, 2000, XP, Vista, Win 7, Win 8, Win10.\r\n",
-            "Price": "1050/-",
+            "Price": "1050",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -914,7 +906,7 @@
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "Alfa+",
             "Specification": "Warranty Summary 1Year Warranty By Service Center/Comfort type key structure Ergonomically designed keyboard with 105 (US KO BI UK)/106 (JA) soft keys Silent membrane key switches for quiet and easy operation Elegant matt finish body Automatic installation",
-            "Price": "320/-",
+            "Price": "320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -927,7 +919,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Thinkcenter M58 SFF(QCDTAG00024)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M58 SFF (CORE 2 DUO Processor/2GB DDR3 Ram/250GB HDD/DOS) 1Year Warranty",
-            "Price": "6150/-",
+            "Price": "6150",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -938,7 +930,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Thinkcenter M58 SFF(QCDTAG00025)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M58 SFF (CORE 2 DUO Processor/2GB DDR3 Ram/320GB HDD/DOS) 1Year Warranty",
-            "Price": "6350/-",
+            "Price": "6350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -949,7 +941,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Dell OPTIPLEX 330 SFF(QCDTAG00101)",
             "Specification": "REFURBISHED DELL OPTIPLEX 330 SFF (CORE 2 DUO Processor /2GB DDR3Or 2 /320GB HDD/DOS) 1Year Warranty",
-            "Price": "6350/-",
+            "Price": "6350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -960,7 +952,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Dell OPTIPLEX 755 SFF(QCDTAG00107)",
             "Specification": "REFURBISHED DELL OPTIPLEX 755 SFF (CORE 2 DUO/2GB/320GB/DOS) 1Year Warranty",
-            "Price": "6400/-",
+            "Price": "6400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -971,7 +963,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Lenovo LENOVO THINKCENTRE M70E MT(QCDTAG00246)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M70E MT (CORE 2 DUO/2GB/320GB/DOS) 1 Year  Warranty",
-            "Price": "6400/-",
+            "Price": "6400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -982,7 +974,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 380 SFF(QCDTAG00270)",
             "Specification": "REFURBISHED DELL OPTIPLEX 380 SFF (CORE 2 DUO/2GB/320GB/DOS) 1 Year  Warranty",
-            "Price": "6400/-",
+            "Price": "6400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -993,7 +985,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HCL INFINITI A380 PRO MT(QCDTAG00380)",
             "Specification": "REFURBISHED HCL INFINITI A380 PRO MT (CORE 2 DUO/2GB/250GB/DOS) 1 Year  Warranty",
-            "Price": "6400/-",
+            "Price": "6400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1004,7 +996,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M90P MT(QCDTAG00301)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M90P MT (CORE I3 1ST GEN/4GB/320GB/DOS) 1 Year  Warranty",
-            "Price": "7580/-",
+            "Price": "7580",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1015,7 +1007,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M80 SFF(QCDTAG00314)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M80 SFF (CORE I3 1ST GEN/4GB/320GB/DOS)",
-            "Price": "7570/-",
+            "Price": "7570",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1026,7 +1018,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 MT(QCDTAG00018)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8100 MT (CORE I5 1ST GEN/4GB/320GB/DOS)",
-            "Price": "8320/-",
+            "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1037,7 +1029,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 SFF(QCDTAG00159)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8100 SFF (CORE I5 1ST GEN/4GB/250GB/DOS)",
-            "Price": "8320/-",
+            "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1048,7 +1040,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M81 SFF(QCDTAG00164)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M81 SFF (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "Price": "8320/-",
+            "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1059,7 +1051,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M91P SFF(QCDTAG00165)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M91P SFF (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "Price": "8320/-",
+            "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1070,7 +1062,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M71E MT(QCDTAG001650)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M71E MT (CORE I2ND GEN/4GB/320GB/DOS)",
-            "Price": "8320/-",
+            "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1081,7 +1073,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E MT(QCDTAG00168)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E MT (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "Price": "8320/-",
+            "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1092,7 +1084,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ PRO 6200 SFF(QCDTAG00170)",
             "Specification": "REFURBISHED HP COMPAQ PRO 6200 SFF (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "Price": "8320/-",
+            "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1103,7 +1095,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M71E SFF(QCDTAG00205)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M71E SFF (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "Price": "8320/-",
+            "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1114,7 +1106,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00211)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E SFF (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "Price": "8320/-",
+            "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1125,7 +1117,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 SFF(QCDTAG00294)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8100 SFF (CORE I5 1ST GEN/4GB/320GB/DOS)",
-            "Price": "8320/-",
+            "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1136,7 +1128,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 SFF(QCDTAG00269)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8100 SFF (CORE I5 1ST GEN/4GB/500GB/DOS)",
-            "Price": "8950/-",
+            "Price": "8950",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1147,7 +1139,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M81 SFF(QCDTAG00032)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M81 SFF (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "Price": "9350/-",
+            "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1158,7 +1150,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8200 MT(QCDTAG00160)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8200 MT (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "Price": "9350/-",
+            "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1169,7 +1161,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 990 SFF(QCDTAG00191)",
             "Specification": "REFURBISHED DELL OPTIPLEX 990 SFF (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "Price": "9350/-",
+            "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1180,7 +1172,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "THINKCENTRE M92P SFF(QCDTAG00197)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M92P SFF (CORE I3 3RD GEN/4GB/320GB/DOS)",
-            "Price": "9350/-",
+            "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1191,7 +1183,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00206)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E SFF (CORE I3 3RD GEN/4GB/320GB/DOS)",
-            "Price": "9350/-",
+            "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1202,7 +1194,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ PRO 6200 SFF(QCDTAG00281)",
             "Specification": "REFURBISHED HP COMPAQ PRO 6200 SFF (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "Price": "9350/-",
+            "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1213,7 +1205,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8200 SFF(QCDTAG00282)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8200 SFF (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "Price": "9350/-",
+            "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1224,7 +1216,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E MT(QCDTAG00289)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E MT (CORE I3 3RD GEN/4GB/320GB/DOS)",
-            "Price": "9350/-",
+            "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1235,7 +1227,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3010 MT(QCDTAG00290)",
             "Specification": "REFURBISHED DELL OPTIPLEX 3010 MT (CORE I3 3RD GEN/4GB/320GB/DOS)",
-            "Price": "9300/-",
+            "Price": "9300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1246,7 +1238,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E MT(QCDTAG00304)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E MT (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "Price": "9350/-",
+            "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1257,7 +1249,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M81 SFF(QCDTAG00052)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M81 SFF (CORE I5 2ND GEN/4GB/500GB/DOS)",
-            "Price": "9620/-",
+            "Price": "9620",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1268,7 +1260,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PROLIANT SERVER DL385 G6(QCDTAG00156)",
             "Specification": "REFURBISHED HP PROLIANT SERVER DL385 G6 (AMD OPTERON/4GB/NO HDD/NO RISER CARD/DOS)",
-            "Price": "9600/-",
+            "Price": "9600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1279,7 +1271,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE EDGE 72 SFF(QCDTAG00224)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE EDGE 72 SFF (CORE I3 3RD GEN/4GB/500GB/DOS)",
-            "Price": "9590/-",
+            "Price": "9590",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1290,7 +1282,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00228)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E SFF (CORE I3 3RD GEN/4GB/500GB/DOS)",
-            "Price": "9600/-",
+            "Price": "9600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1301,7 +1293,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M92P SFF(QCDTAG00233)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M92P SFF (CORE I3 3RD GEN/4GB/500GB/DOS)",
-            "Price": "9600/-",
+            "Price": "9600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1312,7 +1304,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M82 SFF(QCDTAG00375)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M82 SFF (CORE I3 3RD GEN/4GB/500GB/DOS)",
-            "Price": "9600/-",
+            "Price": "9600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1323,7 +1315,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 9010 SFF(QCDTAG00188)",
             "Specification": "REFURBISHED DELL OPTIPLEX 9010 SFF (CORE I5 3RD GEN/4GB/320GB/DOS)",
-            "Price": "10300/-",
+            "Price": "10300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1334,7 +1326,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00235)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E SFF (CORE I5 3RD GEN/4GB/320GB/DOS)",
-            "Price": "10100/-",
+            "Price": "10100",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1345,7 +1337,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8300 SFF(QCDTAG00283)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8300 SFF (CORE I5 3RD GEN/4GB/320GB/DOS)",
-            "Price": "10200/-",
+            "Price": "10200",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1356,7 +1348,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ PRO 6300 SFF(QCDTAG00284)",
             "Specification": "REFURBISHED HP COMPAQ PRO 6300 SFF (CORE I5 3RD GEN/4GB/320GB/DOS)",
-            "Price": "10300/-",
+            "Price": "10300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1367,7 +1359,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "WIPRO WSG68K55W8-0001 MT(QCDTAG00328)",
             "Specification": "REFURBISHED WIPRO WSG68K55W8-0001 MT (CORE I5 3RD GEN/4GB/320GB/DOS)",
-            "Price": "10200/-",
+            "Price": "10200",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1378,7 +1370,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M92P MT(QCDTAG00127)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M92P MT (CORE I5 3RD GEN/4GB/500GB/DOS)",
-            "Price": "10750/-",
+            "Price": "10750",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1389,7 +1381,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 7020 SFF(QCDTAG00388)",
             "Specification": "REFURBISHED DELL OPTIPLEX 7020 SFF (CORE I3 4TH GEN/4GB/500GB/DOS)",
-            "Price": "10800/-",
+            "Price": "10800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1400,7 +1392,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M93P USFF(QCDTAG00158)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M93P USFF (CORE I5 4TH GEN/4GB/320GB/DOS)",
-            "Price": "11890/-",
+            "Price": "11890",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1411,7 +1403,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M83 SFF(QCDTAG00034)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M83 SFF (CORE I5 4TH GEN/4GB/500GB/DOS)",
-            "Price": "11800/-",
+            "Price": "11800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1422,7 +1414,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3010 MT(QCDTAG00298)",
             "Specification": "REFURBISHED DELL OPTIPLEX 3010 MT (CORE I3 3RD GEN/4GB/1TB/WIN-10 HOME)",
-            "Price": "12800/-",
+            "Price": "12800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1433,7 +1425,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PRODESK 600 G1 SFF(QCDTAG00305)",
             "Specification": "REFURBISHED HP PRODESK 600 G1 SFF (CORE I5 4TH GEN/4GB/500GB/DVD/DOS)",
-            "Price": "12500/-",
+            "Price": "12500",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1444,7 +1436,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PRODESK 600 G1 SFF(QCDTAG00317)",
             "Specification": "REFURBISHED HP PRODESK 600 G1 SFF (CORE I5 4TH GEN/4GB/500GB/NO DVD/DOS)",
-            "Price": "12400/-",
+            "Price": "12400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1455,7 +1447,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PRODESK 400 G1 SFF(QCDTAG00357)",
             "Specification": "REFURBISHED HP PRODESK 400 G1 SFF (CORE I5 4TH GEN/4GB/500GB/DVD/DOS)",
-            "Price": "12300/-",
+            "Price": "12300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1466,7 +1458,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3020 SFF(QCDTAG00365)",
             "Specification": "REFURBISHED DELL OPTIPLEX 3020 SFF (CORE I5 4TH GEN/4GB/500GB/DOS)",
-            "Price": "12250/-",
+            "Price": "12250",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1477,7 +1469,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 9020 SFF(QCDTAG00194)",
             "Specification": "REFURBISHED DELL OPTIPLEX 9020 SFF (CORE I5 4TH GEN/4GB/320GB/DOS)",
-            "Price": "12350/-",
+            "Price": "12350",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1488,7 +1480,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP ELITEDESK 800 G1 SFF(QCDTAG00341)",
             "Specification": "REFURBISHED HP ELITEDESK 800 G1 SFF (CORE I5 4TH GEN/4GB/500GB/DVD/DOS)",
-            "Price": "12850/-",
+            "Price": "12850",
             "Shiping": "free",
             "Availblity": "available",
             "Image":["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1499,7 +1491,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP ELITEDESK 800 G1 SFF(QCDTAG00342)",
             "Specification": "REFURBISHED HP ELITEDESK 800 G1 SFF (CORE I5 4TH GEN/4GB/500GB/NO DVD/DOS)",
-            "Price": "12550/-",
+            "Price": "12550",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1510,7 +1502,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3020 SFF(QCDTAG00360)",
             "Specification": "REFURBISHED DELL OPTIPLEX 3020 SFF (CORE I5 4TH GEN/8GB/500GB/DOS)",
-            "Price": "13800/-",
+            "Price": "13800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1521,7 +1513,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M92P MT(QCDTAG00193)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M92P MT (CORE I5 3RD GEN/8GB/1TB/DOS)",
-            "Price": "14200/-",
+            "Price": "14200",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1532,7 +1524,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "APPLE IMAC A1224",
             "Specification": "REFURBISHED APPLE IMAC A1224 (CORE 2 DUO/4GB/320GB/WEBCAM/20''/MAC OS LION)",
-            "Price": "15300/-",
+            "Price": "15300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1543,7 +1535,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3500 WORKSTATION",
             "Specification": "REFURBISHED DELL PRECISION T3500 WORKSTATION (INTEL XEON W3505/8GB/500GB/1GB GRAPHICS/DOS)",
-            "Price": "19600/-",
+            "Price": "19600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1554,7 +1546,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3600 WORKSTATION",
             "Specification": "REFURBISHED DELL PRECISION T3600 WORKSTATION (INTEL XEON E5-1603/8GB/500GB/512MB GRAPHICS/DOS)",
-            "Price": "19100/-",
+            "Price": "19100",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1565,7 +1557,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3610 WORKSTATION",
             "Specification": "REFURBISHED DELL PRECISION T3610 WORKSTATION (INTEL XEON E5-1603/8GB/500GB/512MB GRAPHICS/DOS)",
-            "Price": "21800/-",
+            "Price": "21800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1576,7 +1568,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3600 WORKSTATION",
             "Specification": "REFURBISHED DELL PRECISION T3600 WORKSTATION (INTEL XEON E5-1603/8GB/500GB/1GB GRAPHICS/DOS)",
-            "Price": "22700/-",
+            "Price": "22700",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1587,7 +1579,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3610 WORKSTATION",
             "Specification": "REFURBISHED DELL PRECISION T3610 WORKSTATION (INTEL XEON E5-1603/8GB/500GB/1GB GRAPHICS/DOS)",
-            "Price": "22700/-",
+            "Price": "22700",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1598,7 +1590,7 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "APPLE IMAC A1311",
             "Specification": "REFURBISHED APPLE IMAC A1311 (CORE I5 2ND GEN/8GB/500GB/WEBCAM/21.5''/MAC OS LION)",
-            "Price": "41000/-",
+            "Price": "41000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1611,7 +1603,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO X140E(QCNBAG00987)",
             "Specification": "REFURBISHED LENOVO X140E (AMD A4/4GB/500GB/WEBCAM/11.6''/DOS)",
-            "Price": "10200/-",
+            "Price": "10200",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1622,7 +1614,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E4310(QCNBAG00830)",
             "Specification": "REFURBISHED DELL LATITUDE E4310 (CORE I5 1ST GEN/4GB/320GB/NO WEBCAM/13.3''/DOS)",
-            "Price": "10400/-",
+            "Price": "10400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1633,7 +1625,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD T410(QCNBAG00547)",
             "Specification": "REFURBISHED LENOVO THINKPAD T410 (CORE I5 1ST GEN/4GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "11850/-",
+            "Price": "11850",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1644,7 +1636,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "TOSHIBA PORTEGE R700(QCNBAG00994)",
             "Specification": "REFURBISHED TOSHIBA PORTEGE R700 (CORE I5 1ST GEN/4GB/320GB/WEBCAM/13.3''/DOS)",
-            "Price": "11800/-",
+            "Price": "11800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1655,7 +1647,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X220(QCNBAG00872)",
             "Specification": "REFURBISHED LENOVO THINKPAD X220 (CORE I5 2ND GEN/4GB/320GB/WEBCAM/12.5''/DOS)",
-            "Price": "12400/-",
+            "Price": "12400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1666,7 +1658,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6220(QCNBAG00894)",
             "Specification": "REFURBISHED DELL LATITUDE E6220 (CORE I5 2ND GEN/4GB/320GB/WEBCAM/12.5''/DOS)",
-            "Price": "12300/-",
+            "Price": "12300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1677,7 +1669,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO X131E(QCNBAG00064)",
             "Specification": "REFURBISHED LENOVO X131E (INTEL CELERON/4GB/320GB/WEBCAM/11.6''/CHROME OS)",
-            "Price": "12300/-",
+            "Price": "12300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1688,7 +1680,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X230(QCNBAG00873)",
             "Specification": "REFURBISHED LENOVO THINKPAD X230 (CORE I5 3RD GEN/4GB/320GB/WEBCAM/12.5''/DOS)",
-            "Price": "12600/-",
+            "Price": "12600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1699,7 +1691,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L430(QCNBAG00858)",
             "Specification": "REFURBISHED LENOVO THINKPAD L430 (CORE I5 3RD GEN/4GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "13400/-",
+            "Price": "13400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1710,7 +1702,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E5410(QCNBAG00882)",
             "Specification": "REFURBISHED DELL LATITUDE E5410 (CORE I5 1ST GEN/4GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "13600/-",
+            "Price": "13600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1721,7 +1713,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6410(QCNBAG00449)",
             "Specification": "REFURBISHED DELL LATITUDE E6410 (CORE I5 1ST GEN/4GB/320GB/NO WEBCAM/14\"/WIN-10 HOME)",
-            "Price": "14300/-",
+            "Price": "14300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1732,7 +1724,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6410(QCNBAG00449)",
             "Specification": "REFURBISHED DELL LATITUDE E6410 (CORE I5 1ST GEN/4GB/320GB/WEBCAM/14''/WIN-10 HOME)",
-            "Price": "14600/-",
+            "Price": "14600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1743,7 +1735,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "THINKPAD T420(QCNBAG00685)",
             "Specification": "REFURBISHED LENOVO THINKPAD T420 (CORE I5 2ND GEN/4GB/320GB/NO WEBCAM/14''/DOS)",
-            "Price": "13500/-",
+            "Price": "13500",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1754,7 +1746,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L420(QCNBAG00688)",
             "Specification": "REFURBISHED LENOVO THINKPAD L420 (CORE I5 2ND GEN/4GB/320GB/NO WEBCAM/14''/DOS)",
-            "Price": "13500/-",
+            "Price": "13500",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1765,7 +1757,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L412(QCNBAG00313)",
             "Specification": "REFURBISHED LENOVO THINKPAD L412 (CORE I5 1ST GEN/4GB/500GB/WEBCAM/14''/WIN-10 HOME)",
-            "Price": "13900/-",
+            "Price": "13900",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1776,7 +1768,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L440(QCNBAG00364)",
             "Specification": "REFURBISHED LENOVO THINKPAD L440 (CORE I3 4TH GEN/4GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "14300/-",
+            "Price": "14300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1787,7 +1779,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L430(QCNBAG00656)",
             "Specification": "REFURBISHED LENOVO THINKPAD L430 (CORE I5 3RD GEN/8GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "14400/-",
+            "Price": "14400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1798,7 +1790,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD E40-70(QCNBAG00141)",
             "Specification": "REFURBISHED LENOVO THINKPAD E40-70 (CORE I3 4TH GEN/4GB/320GB/NO WEBCAM/14''/DOS)",
-            "Price": "14650/-",
+            "Price": "14650",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1809,7 +1801,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO B40-80(QCNBAG00327)",
             "Specification": "REFURBISHED LENOVO B40-80 (CORE I3 4TH GEN/4GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "14650/-",
+            "Price": "14650",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1820,7 +1812,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL INSPIRON N4110(QCNBAG00350)",
             "Specification": "REFURBISHED DELL INSPIRON N4110 (CORE I5 2ND GEN/4GB/500GB/NO WEBCAM/14\"/WIN-10 HOME)",
-            "Price": "14650/-",
+            "Price": "14650",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1831,7 +1823,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6320(QCNBAG00730)",
             "Specification": "REFURBISHED DELL LATITUDE E6320 (CORE I5 2ND GEN/4GB/250GB/WEBCAM/13.3''/WIN-10 HOME)",
-            "Price": "14650/-",
+            "Price": "14650",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1842,7 +1834,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X230(QCNBAG00873)",
             "Specification": "REFURBISHED LENOVO THINKPAD X230 (CORE I5 3RD GEN/4GB/320GB/WEBCAM/12.5''/WIN-10 HOME)",
-            "Price": "15200/-",
+            "Price": "15200",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1853,7 +1845,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L412(QCNBAG00937)",
             "Specification": "REFURBISHED LENOVO THINKPAD L412 (CORE I5 1ST GEN/4GB/250GB/NO WEBCAM/14''/WIN-10 HOME)",
-            "Price": "1300/-",
+            "Price": "1300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1864,7 +1856,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6230(QCNBAG00765)",
             "Specification": "REFURBISHED DELL LATITUDE E6230 (CORE I5 3RD GEN/4GB/320GB/NO WEBCAM/12.5''/DOS)",
-            "Price": "15300/-",
+            "Price": "15300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1875,7 +1867,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "FUJITSU LIFEBOOK T901(QCNBAG00949)",
             "Specification": "REFURBISHED FUJITSU LIFEBOOK T901 (CORE I5 2ND GEN/4GB/320GB/WEBCAM/13.3'' TOUCH/DOS)",
-            "Price": "13900/-",
+            "Price": "13900",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1886,7 +1878,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X230(QCNBAG00309)",
             "Specification": "REFURBISHED LENOVO THINKPAD X230 (CORE I5 3RD GEN/8GB/500GB/WEBCAM/12.5''/DOS)",
-            "Price": "15200/-",
+            "Price": "15200",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1897,7 +1889,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 6470B(QCNBAG00160)",
             "Specification": "REFURBISHED HP PROBOOK 6470B (CORE I5 3RD GEN/4GB/320GB/NO WEBCAM/14''/DOS)",
-            "Price": "15000/-",
+            "Price": "15000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1908,7 +1900,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X230(QCNBAG00380)",
             "Specification": "REFURBISHED LENOVO THINKPAD X230 (CORE I5 3RD GEN/4GB/256GB SSD/WEBCAM/12.5''/DOS)",
-            "Price": "15000/-",
+            "Price": "15000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1919,7 +1911,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 8470P(QCNBAG00587)",
             "Specification": "REFURBISHED HP ELITEBOOK 8470P (CORE I5 3RD GEN/4GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "15000/-",
+            "Price": "15000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1930,7 +1922,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 6470B(QCNBAG00841)",
             "Specification": "REFURBISHED HP PROBOOK 6470B (CORE I5 3RD GEN/4GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "15000/-",
+            "Price": "15000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1941,7 +1933,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6330(QCNBAG00099)",
             "Specification": "REFURBISHED DELL LATITUDE E6330 (CORE I5 3RD GEN/4GB/320GB/NO WEBCAM/13.3\"/DOS)",
-            "Price": "15000/-",
+            "Price": "15000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1952,7 +1944,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 4720S(QCNBAG00337)",
             "Specification": "REFURBISHED HP PROBOOK 4720S (CORE I5 1ST GEN/4GB/320GB/WEBCAM/17.3\"/DOS)",
-            "Price": "13900/-",
+            "Price": "13900",
             "Shiping": "free",
             "Availblity": "available",
             "Image":["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1963,7 +1955,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6430S(QCNBAG00695)",
             "Specification": "REFURBISHED DELL LATITUDE E6430S (CORE I5 3RD GEN/4GB/320GB/NO WEBCAM/14''/DOS)",
-            "Price": "14100/-",
+            "Price": "14100",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1974,7 +1966,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6430(QCNBAG00538)",
             "Specification": "REFURBISHED DELL LATITUDE E6430 (CORE I5 3RD GEN/4GB/320GB/NO WEBCAM/14''/DOS)",
-            "Price": "14000/-",
+            "Price": "14000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1985,7 +1977,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6430S(QCNBAG00590)",
             "Specification": "REFURBISHED DELL LATITUDE E6430S (CORE I5 3RD GEN/4GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "14080/-",
+            "Price": "14080",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -1996,7 +1988,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E5430(QCNBAG00603)",
             "Specification": "REFURBISHED DELL LATITUDE E5430 (CORE I5 3RD GEN/4GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "14000/-",
+            "Price": "14000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2007,7 +1999,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6420(QCNBAG00731)",
             "Specification": "REFURBISHED DELL LATITUDE E6420 (CORE I5 2ND GEN/4GB/320GB/WEBCAM/14''/WIN-10 HOME)",
-            "Price": "14010/-",
+            "Price": "14010",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2018,7 +2010,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L420(QCNBAG00747)",
             "Specification": "REFURBISHED LENOVO THINKPAD L420 (CORE I5 2ND GEN/4GB/320GB/WEBCAM/14''/WIN-10 HOME)",
-            "Price": "13900/-",
+            "Price": "13900",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2029,7 +2021,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6420(QCNBAG00784)",
             "Specification": "REFURBISHED DELL LATITUDE E6420 (CORE I5 2ND GEN/4GB/320GB/NO WEBCAM/14''/WIN-10 HOME)",
-            "Price": "13800/-",
+            "Price": "13800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2040,7 +2032,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE 6430U(QCNBAG01019)",
             "Specification": "REFURBISHED DELL LATITUDE 6430U (CORE I5 3RD GEN/4GB/128GB SSD/WEBCAM/14''/DOS)",
-            "Price": "14600/-",
+            "Price": "14600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2051,7 +2043,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6410(QCNBAG00897)",
             "Specification": "REFURBISHED DELL LATITUDE E6410 (CORE I7 1ST GEN/4GB/500GB/WEBCAM/14''/DOS)",
-            "Price": "14500/-",
+            "Price": "14500",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2062,7 +2054,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL PRECISION M4500(QCNBAG01069)",
             "Specification": "REFURBISHED DELL PRECISION M4500 (CORE I7 1ST GEN/4GB/500GB/1GB GRAPHICS/NO WEBCAM/15.6''/DOS)",
-            "Price": "14500/-",
+            "Price": "14500",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2073,7 +2065,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L450(QCNBAG00045)",
             "Specification": "REFURBISHED LENOVO THINKPAD L450 (CORE I5 4TH GEN/4GB/500GB/WEBCAM/14''/DOS)",
-            "Price": "15300/-",
+            "Price": "15300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2084,7 +2076,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X250(QCNBAG00095)",
             "Specification": "REFURBISHED LENOVO THINKPAD X250 (CORE I5 5TH GEN/4GB/750GB/WEBCAM/12.5''/DOS)",
-            "Price": "16400/-",
+            "Price": "16400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2095,7 +2087,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 640 G1(QCNBAG00500)",
             "Specification": "REFURBISHED HP PROBOOK 640 G1 (CORE I5 4TH GEN/4GB/320GB/WEBCAM/14''/DOS)",
-            "Price": "16100/-",
+            "Price": "16100",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2106,7 +2098,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6420(QCNBAG00108)",
             "Specification": "REFURBISHED DELL LATITUDE E6420 (CORE I7 2ND GEN/4GB/500GB/NO WEBCAM/14''/WIN-10 HOME)",
-            "Price": "16800/-",
+            "Price": "16800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2117,7 +2109,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 820 G2(QCNBAG00286)",
             "Specification": "REFURBISHED HP ELITEBOOK 820 G2 (CORE I5 5TH GEN/4GB/500GB/WEBCAM/12.5''/DOS)",
-            "Price": "16900/-",
+            "Price": "16900",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2128,7 +2120,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E5450(QCNBAG00054)",
             "Specification": "REFURBISHED DELL LATITUDE E5450 (CORE I3 5TH GEN/4GB/500GB/WEBCAM/14'' NO TOUCH/DOS)",
-            "Price": "16900/-",
+            "Price": "16900",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2139,7 +2131,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 430 G2(QCNBAG00302)",
             "Specification": "REFURBISHED HP PROBOOK 430 G2 (CORE I5 4TH GEN/4GB/500GB/WEBCAM/13.3''/WIN-10 HOME)",
-            "Price": "17300/-",
+            "Price": "17300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2150,7 +2142,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD T440(QCNBAG00540)",
             "Specification": "REFURBISHED LENOVO THINKPAD T440 (CORE I5 4TH GEN/8GB/500GB/WEBCAM/14'' TOUCH/DOS)",
-            "Price": "17800/-",
+            "Price": "17800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2161,7 +2153,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E5250(QCNBAG00211)",
             "Specification": "REFURBISHED DELL LATITUDE E5250 (CORE I5 5TH GEN/8GB/128GB SSD/WEBCAM/12.5''/DOS)",
-            "Price": "18200/-",
+            "Price": "18200",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2172,7 +2164,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD T440(QCNBAG00598)",
             "Specification": "REFURBISHED LENOVO THINKPAD T440 (CORE I5 4TH GEN/8GB/500GB/WEBCAM/14'' TOUCH/WIN-10 HOME)",
-            "Price": "19100/-",
+            "Price": "19100",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2183,7 +2175,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 640 G1(QCNBAG000510",
             "Specification": "REFURBISHED HP PROBOOK 640 G1 (CORE I7 4TH GEN/4GB/500GB/NO WEBCAM/14''/DOS)",
-            "Price": "19300/-",
+            "Price": "19300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2194,7 +2186,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6440(QCNBAG00534)",
             "Specification": "REFURBISHED DELL LATITUDE E6440 (CORE I7 4TH GEN/8GB/500GB/WEBCAM/14''/DOS)",
-            "Price": "19450/-",
+            "Price": "19450",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2205,7 +2197,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E7450(QCNBAG00085)",
             "Specification": "REFURBISHED DELL LATITUDE E7450 (CORE I5 5TH GEN/4GB/500GB/WEBCAM/14''/DOS)",
-            "Price": "19400/-",
+            "Price": "19400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2216,7 +2208,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP SPECTRE PRO X360 G1(QCNBAG00713)",
             "Specification": "REFURBISHED HP SPECTRE PRO X360 G1 (CORE I7 5TH GEN/8GB/512GB SSD/WEBCAM/13.3'' TOUCH/WIN-10 HOME)",
-            "Price": "44800/-",
+            "Price": "44800",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2227,7 +2219,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 840 G1(QCNBAG00713)",
             "Specification": "REFURBISHED HP ELITEBOOK 840 G1 (CORE I7 4TH GEN/8GB/500GB/WEBCAM/14'' TOUCH/WIN-10 HOME)",
-            "Price": "23850/-",
+            "Price": "23850",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2238,7 +2230,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ZBOOK 14(QCNBAG00022)",
             "Specification": "REFURBISHED HP ZBOOK 14 (CORE I5 4TH GEN/4GB/500GB/1GB GRAPHICS/WEBCAM/14''/DOS)",
-            "Price": "24000/-",
+            "Price": "24000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2249,7 +2241,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 840 G2(QCNBAG00711)",
             "Specification": "REFURBISHED HP ELITEBOOK 840 G2 (CORE I7 5TH GEN/8GB/500GB/WEBCAM/14'' TOUCH/WIN-10 HOME)",
-            "Price": "24300/-",
+            "Price": "24300",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2260,7 +2252,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 840 G1(QCNBAG00289)",
             "Specification": "REFURBISHED HP ELITEBOOK 840 G1 (CORE I7 4TH GEN/8GB/500GB/WEBCAM/14'' TOUCH/DOS)",
-            "Price": "23600/-",
+            "Price": "23600",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2271,7 +2263,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE 7350(QCNBAG00011)",
             "Specification": "REFURBISHED DELL LATITUDE 7350 (CORE M 5TH GEN/4GB/128GB SSD/WEBCAM/13.3'' TOUCH/DOS)(2-IN-1 CONVERTIBLE)",
-            "Price": "24500/-",
+            "Price": "24500",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2282,7 +2274,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 840 G2(QCNBAG00082)",
             "Specification": "REFURBISHED HP ELITEBOOK 840 G2 (CORE I7 5TH GEN/8GB/500GB/WEBCAM/14'' NO TOUCH/DOS)",
-            "Price": "24000/-",
+            "Price": "24000",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2293,7 +2285,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 840 G2(QCNBAG00972)",
             "Specification": "REFURBISHED HP ELITEBOOK 840 G2 (CORE I7 5TH GEN/4GB/500GB/WEBCAM/14'' NO TOUCH/DOS)",
-            "Price": "22300/-",
+            "Price": "22300",
             "Shiping": "free",
             "Availblity": "available",
             "Image":[ "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
@@ -2304,7 +2296,7 @@
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6440(QCNBAG00653)",
             "Specification": "REFURBISHED DELL LATITUDE E6440 (CORE I7 4TH GEN/8GB/256GB SSD/WEBCAM/14''/DOS)",
-            "Price": "23400/-",
+            "Price": "23400",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]

@@ -794,7 +794,7 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_2_20180402162633_5ac1e9390090d_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_4_20180402162633_5ac1e9398b6c1_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_5_20180402162633_5ac1e9395dbc0_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_9_20181030115909_5bd7d70d730c4.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/product_10_20180402162632_5ac1e938c687c_.jpg"]
-        },
+        }
     ],
     "Cabinets": [
         {

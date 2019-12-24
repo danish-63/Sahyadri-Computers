@@ -10,7 +10,7 @@
         },
         {
             "Name": "CCTV",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/printerIcon1-1.png"
+            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
         },
         {
             "Name": "Printers",
@@ -18,15 +18,15 @@
         },
         {
             "Name": "Rifurbish-Desktops",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://github.com/danish-p/Sahyadri-Computers/blob/master/rDesktop.jpeg"
         },
         {
             "Name": "Rifurbish-Laptops",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://github.com/danish-p/Sahyadri-Computers/blob/master/rlaptop.jpeg"
         },
         {
             "Name": "Software",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://github.com/danish-p/Sahyadri-Computers/blob/master/software.jpeg"
         },
         {
             "Name": "Keyboard-Mouse",

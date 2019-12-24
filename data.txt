@@ -22,7 +22,7 @@
         },
         {
             "Name": "Rifurbish-Laptops",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/rlaptop.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/rlaptop.jpg"
         },
         {
             "Name": "Software",

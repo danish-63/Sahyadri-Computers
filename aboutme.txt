@@ -7,6 +7,7 @@
             "tipstricks": "https://youtu.be/wpIV8Reks7w",
             "email": "salesahyadricomputersol@gmail.com",
             "tokenfcm": "9404861939@05051992",
+            "devEmail": "danishaleem63@outlook.com",
             "contact": "+919404861939",
             "upi": "danishaleem63@okicici"
        }

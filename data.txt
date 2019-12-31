@@ -537,7 +537,7 @@
     ],
     "Printers": [
         {
-            "Id": "PRNT_1",
+            "Id": "Printer_1",
             "Brand": "HP",
             "Catogory Type": "All In One B/W Laserjet printer",
             "Model Number": "Laser Jet M1005 MFP",
@@ -548,7 +548,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/c02212746.webp","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/c03208867.webp","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/download.jpg"]
         },
         {
-            "Id": "PRNT_2",
+            "Id": "Printer_2",
             "Brand": "HP",
             "Catogory Type": "Laser Jet B/W Printer",
             "Model Number": "1020 Plus",
@@ -559,7 +559,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61aWZCGbcUL._AC_SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61-BC0RC5DL._AC_SY355_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/HP-LaserJet-1020-PLUS-(CC418A)-Laser-Printer.jpg"]
         },
         {
-            "Id": "PRNT_3",
+            "Id": "Printer_3",
             "Brand": "HP",
             "Catogory Type": "Laser Jet B/W Printer",
             "Model Number": "Neverstop Laser Printer 1000a",
@@ -570,7 +570,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/01_hp_laser_ns_mfp_1000a_center_facing.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/guard-pro-logo.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/11_hp_laser_ns_mfp_1000a_with_toner.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/16_hp_laser_ns_mfp_1000a_hero_1_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/04_hp_laser_ns_mfp_1000a_3qr.jpg"]
         },
         {
-            "Id": "PRNT_4",
+            "Id": "Printer_4",
             "Brand": "HP",
             "Catogory Type": "All In One B/W Laserprinter",
             "Model Number": " Neverstop Laser MFP 1200a",
@@ -581,7 +581,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/02_hp_ns_laser_mfp_1200a_3ql.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/04_hp_ns_laser_mfp_1200a_3qr.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/10_hp_ns_laser_mfp_1200a_3ql_with_toner.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/17_hp_ns_laser_mfp_1200a_front_facing_1_.jpg"]
         },
         {
-            "Id": "PRNT_5",
+            "Id": "Printer_5",
             "Brand": "HP",
             "Catogory Type": "ink Tank All in one colour Printer",
             "Model Number": "Hp Ink tank 319",
@@ -592,7 +592,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-1_T1539232253.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-2_T1539232253.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-3_T1539232254.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-4_T1539232255.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-5_T1539232255.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-6_T1539232257.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-7_T1539232257.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-8_T1539232258.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-9_T1539232259.png"]
         },
         {
-            "Id": "PRNT_6",
+            "Id": "Printer_6",
             "Brand": "HP",
             "Catogory Type": "Ink Tank All in one colour Printer wireless",
             "Model Number": "Hp Ink tank 419",
@@ -603,7 +603,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-1_T1539232227.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-2_T1539232228.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-3_T1539232229.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-4_T1539232229.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-5_T1539232230.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-6_T1539232231.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-7_T1539232232.png"]
         },
         {
-            "Id": "PRNT_7",
+            "Id": "Printer_7",
             "Brand": "Canon",
             "Catogory Type": "Ink Tank All in one Colour Printer",
             "Model Number": "Pixma G2010 ",
@@ -614,7 +614,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61cZi-Le7XL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61IZDsoZ8BL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61rDSWKasEL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61wG2bgr-7L._SL1500_.jpg"]
         },
         {
-            "Id": "PRNT_8",
+            "Id": "Printer_8",
             "Brand": "Canon",
             "Catogory Type": "Ink Tank All in one colour Printer wireless",
             "Model Number": "Pixma G3010",
@@ -625,7 +625,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61gYNt61myL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61xxa-nMTaL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/610aNxZL5IL._SL1500_.jpg"]
         },
         {
-            "Id": "PRNT_9",
+            "Id": "Printer_9",
             "Brand": "Canon",
             "Catogory Type": "Ink Tank All in one colour Printer wireless",
             "Model Number": "Pixma G4010",
@@ -636,7 +636,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61hn3lffkiL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61rQrnIiUIL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71TwqyKt2OL._SL1500_.jpg"]
         },
         {
-            "Id": "PRNT_10",
+            "Id": "Printer_10",
             "Brand": "Canon",
             "Catogory Type": "All In One B/W Laserjet printer",
             "Model Number": "Imageclass 3010",
@@ -649,7 +649,7 @@
     ],
     "Monitors-Projector": [
         {
-            "Id": "MONT_1",
+            "Id": "Monitors-Projector_1",
             "Brand": "AOC",
             "Catogory Type": "LED Monitro",
             "Model Number": "Aoc 18.5 Led - (E970swn5/94)",
@@ -660,7 +660,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51hUhDEzQpL._SL1024_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51kgSw1ZrUL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51lxbpRcrDL._SL1000_ (1).jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51lxbpRcrDL._SL1000_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51ocFtAGzYL._SL1200_.jpg"]
         },
         {
-            "Id": "MONT_2",
+            "Id": "Monitors-Projector_2",
             "Brand": "AOC",
             "Catogory Type": "LED Monitro",
             "Model Number": "Aoc 20\" Led - (E2070Swhn)",
@@ -671,7 +671,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71AZ+q7USRL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71CP50uhcLL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71qZ+sUbASL._SL1500_.jpg"]
         },
         {
-            "Id": "MONT_3",
+            "Id": "Monitors-Projector_3",
             "Brand": "AOC",
             "Catogory Type": "LED Monitro",
             "Model Number": "Aoc 22\" LED - ( E2270Swhn) ",
@@ -682,7 +682,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71NwAUQuloL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71TaiL2Dq9L._SL1500_.jpg"]
         },
         {
-            "Id": "MONT_4",
+            "Id": "Monitors-Projector_4",
             "Brand": "AOC",
             "Catogory Type": "LED IPS Monitor",
             "Model Number": "Aoc 22\" LED  - (22B1HS)",
@@ -693,7 +693,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/22B1HS (1).jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/8icon.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/13300904221.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/13303408251.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/14004930351.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/low-blue.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/slim.jpg"]
         },
         {
-            "Id": "MONT_5",
+            "Id": "Monitors-Projector_5",
             "Brand": "AOC",
             "Catogory Type": "LED Monitro",
             "Model Number": "Aoc 24\" LED*E2450swh",
@@ -704,7 +704,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61gR7OrqycL._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61nKAhjiTBL._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/710Y1mMo4QL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/713dVX7hQmL._SL1500_.jpg"]
         },
         {
-            "Id": "MONT_6",
+            "Id": "Monitors-Projector_6",
             "Brand": "AOC",
             "Catogory Type": "LED IPS Monitor",
             "Model Number": "Aoc 24\" Led - (24B1HXS) - 23.8\"",
@@ -715,7 +715,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61s1MiuaKsL._SL1000_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61tKLd9nT-L._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/81fwdLfupeL._SL1500_.jpg"]
         },
         {
-            "Id": "MONT_7",
+            "Id": "Monitors-Projector_7",
             "Brand": "AOC",
             "Catogory Type": "LED Curved Monitor",
             "Model Number": "AOC 24 C24V1H/WS (Curved) - 23.6",
@@ -741,7 +741,7 @@
     ],
     "Motherboard-Processors": [
         {
-            "Id": "MP_1",
+            "Id": "Motherboard-Processors_1",
             "Brand": "Asus",
             "Catogory Type": "Motherboard",
             "Model Number": "Asus H310m-CS R2.0",
@@ -752,7 +752,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-01-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-02-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-03-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-h310m-cs-r2.0-image-main-600x600.jpg"]
         },
         {
-            "Id": "MP_2",
+            "Id": "Motherboard-Processors_2",
             "Brand": "Intel",
             "Catogory Type": "Processor",
             "Model Number": "Core i3 9th Gen.(i3-9100f LGA 1151)",
@@ -763,7 +763,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/i3_9100F_Center_800x800px_tiny-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/i3_9100F_QuarterLeft_800x800px_tiny-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/i3_9100F_QuarterRight_800x800px_tiny-600x600.jpg"]
         },
         {
-            "Id": "MP_3",
+            "Id": "Motherboard-Processors_3",
             "Brand": "AMD",
             "Catogory Type": "Processor",
             "Model Number": "AMD Ryzen ™5 3600",
@@ -774,7 +774,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/3600-(1)-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/3600-(2)-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/3600-(3)-600x600.jpg"]
         },
         {
-            "Id": "MP_4",
+            "Id": "Motherboard-Processors_4",
             "Brand": "Asus",
             "Catogory Type": "Motherboard",
             "Model Number": " Asus PRIME B450M-A",
@@ -785,7 +785,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-2-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-4-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-image_main-600x600 (1).jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/prime-b450m-a-image_main-600x600.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/h310m-pro-vh-plus-audio-hero.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/h310m-pro-vh-plus-hero.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/icon_2015082118023255d6f738c45ec.png"]
         },
         {
-            "Id": "MP_5",
+            "Id": "Motherboard-Processors_5",
             "Brand": "MSI",
             "Catogory Type": "Motherboard",
             "Model Number": "MSI H310M PRO VH-Plus",
@@ -822,7 +822,7 @@
     ],
     "UPS-SMPS": [
         {
-            "Id": "US_1",
+            "Id": "UPS-SMPS_1",
             "Brand": "Intex",
             "Catogory Type": "UPS",
             "Model Number": "Protector 725 600va 3Plug",
@@ -833,7 +833,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "US_2",
+            "Id": "UPS-SMPS_2",
             "Brand": "artis",
             "Catogory Type": "UPS",
             "Model Number": "Powersafe 600VA",
@@ -846,7 +846,7 @@
     ],
     "Keyboard-Mouse": [
         {
-            "Id": "KM_1",
+            "Id": "Keyboard-Mouse_1",
             "Brand": "Circle",
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "C 49 Slim Multimedia",
@@ -857,7 +857,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "KM_2",
+            "Id": "Keyboard-Mouse_2",
             "Brand": "Circle",
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "c 43 slim keyboard mouse combo",
@@ -868,7 +868,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "KM_3",
+            "Id": "Keyboard-Mouse_3",
             "Brand": "Zebronics",
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "Companion 101",
@@ -879,7 +879,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "KM_4",
+            "Id": "Keyboard-Mouse_4",
             "Brand": "Astrum",
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "KW300",
@@ -890,7 +890,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "KM_5",
+            "Id": "Keyboard-Mouse_5",
             "Brand": "Lapcare",
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "L999",
@@ -901,7 +901,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "KM_6",
+            "Id": "Keyboard-Mouse_6",
             "Brand": "Lapcare",
             "Catogory Type": "Keyboard & Mouse",
             "Model Number": "Alfa+",
@@ -914,7 +914,7 @@
     ],
     "Rifurbish-Desktops": [
         {
-            "Id": "Rifurbish_Desktops_1",
+            "Id": "Rifurbish-Desktops_1",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Thinkcenter M58 SFF(QCDTAG00024)",
@@ -925,7 +925,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_2",
+            "Id": "Rifurbish-Desktops_2",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Thinkcenter M58 SFF(QCDTAG00025)",
@@ -936,7 +936,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_3",
+            "Id": "Rifurbish-Desktops_3",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Dell OPTIPLEX 330 SFF(QCDTAG00101)",
@@ -947,7 +947,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_4",
+            "Id": "Rifurbish-Desktops_4",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Dell OPTIPLEX 755 SFF(QCDTAG00107)",
@@ -958,7 +958,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_5",
+            "Id": "Rifurbish-Desktops_5",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Lenovo LENOVO THINKCENTRE M70E MT(QCDTAG00246)",
@@ -969,7 +969,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_6",
+            "Id": "Rifurbish-Desktops_6",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 380 SFF(QCDTAG00270)",
@@ -980,7 +980,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_7",
+            "Id": "Rifurbish-Desktops_7",
             "Brand": "HCL",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HCL INFINITI A380 PRO MT(QCDTAG00380)",
@@ -991,7 +991,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_8",
+            "Id": "Rifurbish-Desktops_8",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M90P MT(QCDTAG00301)",
@@ -1002,7 +1002,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_9",
+            "Id": "Rifurbish-Desktops_9",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M80 SFF(QCDTAG00314)",
@@ -1013,7 +1013,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_10",
+            "Id": "Rifurbish-Desktops_10",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 MT(QCDTAG00018)",
@@ -1024,7 +1024,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_11",
+            "Id": "Rifurbish-Desktops_11",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 SFF(QCDTAG00159)",
@@ -1035,7 +1035,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_12",
+            "Id": "Rifurbish-Desktops_12",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M81 SFF(QCDTAG00164)",
@@ -1046,7 +1046,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_13",
+            "Id": "Rifurbish-Desktops_13",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M91P SFF(QCDTAG00165)",
@@ -1057,7 +1057,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_14",
+            "Id": "Rifurbish-Desktops_14",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M71E MT(QCDTAG001650)",
@@ -1068,7 +1068,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_15",
+            "Id": "Rifurbish-Desktops_15",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E MT(QCDTAG00168)",
@@ -1079,7 +1079,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_16",
+            "Id": "Rifurbish-Desktops_16",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ PRO 6200 SFF(QCDTAG00170)",
@@ -1090,7 +1090,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_17",
+            "Id": "Rifurbish-Desktops_17",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M71E SFF(QCDTAG00205)",
@@ -1101,7 +1101,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_18",
+            "Id": "Rifurbish-Desktops_18",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00211)",
@@ -1112,7 +1112,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_19",
+            "Id": "Rifurbish-Desktops_19",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 SFF(QCDTAG00294)",
@@ -1123,7 +1123,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_20",
+            "Id": "Rifurbish-Desktops_20",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 SFF(QCDTAG00269)",
@@ -1134,7 +1134,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_21",
+            "Id": "Rifurbish-Desktops_21",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M81 SFF(QCDTAG00032)",
@@ -1145,7 +1145,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_22",
+            "Id": "Rifurbish-Desktops_22",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8200 MT(QCDTAG00160)",
@@ -1156,7 +1156,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_23",
+            "Id": "Rifurbish-Desktops_23",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 990 SFF(QCDTAG00191)",
@@ -1167,7 +1167,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_24",
+            "Id": "Rifurbish-Desktops_24",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "THINKCENTRE M92P SFF(QCDTAG00197)",
@@ -1178,7 +1178,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_25",
+            "Id": "Rifurbish-Desktops_25",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00206)",
@@ -1189,7 +1189,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_26",
+            "Id": "Rifurbish-Desktops_26",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ PRO 6200 SFF(QCDTAG00281)",
@@ -1200,7 +1200,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_27",
+            "Id": "Rifurbish-Desktops_27",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8200 SFF(QCDTAG00282)",
@@ -1211,7 +1211,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_28",
+            "Id": "Rifurbish-Desktops_28",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E MT(QCDTAG00289)",
@@ -1222,7 +1222,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_29",
+            "Id": "Rifurbish-Desktops_29",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3010 MT(QCDTAG00290)",
@@ -1233,7 +1233,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_30",
+            "Id": "Rifurbish-Desktops_30",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E MT(QCDTAG00304)",
@@ -1244,7 +1244,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_31",
+            "Id": "Rifurbish-Desktops_31",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M81 SFF(QCDTAG00052)",
@@ -1255,7 +1255,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_32",
+            "Id": "Rifurbish-Desktops_32",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PROLIANT SERVER DL385 G6(QCDTAG00156)",
@@ -1266,7 +1266,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_33",
+            "Id": "Rifurbish-Desktops_33",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE EDGE 72 SFF(QCDTAG00224)",
@@ -1277,7 +1277,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_34",
+            "Id": "Rifurbish-Desktops_34",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00228)",
@@ -1288,7 +1288,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_35",
+            "Id": "Rifurbish-Desktops_35",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M92P SFF(QCDTAG00233)",
@@ -1299,7 +1299,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_36",
+            "Id": "Rifurbish-Desktops_36",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M82 SFF(QCDTAG00375)",
@@ -1310,7 +1310,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_37",
+            "Id": "Rifurbish-Desktops_37",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 9010 SFF(QCDTAG00188)",
@@ -1321,7 +1321,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_38",
+            "Id": "Rifurbish-Desktops_38",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00235)",
@@ -1332,7 +1332,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_39",
+            "Id": "Rifurbish-Desktops_39",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8300 SFF(QCDTAG00283)",
@@ -1343,7 +1343,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_40",
+            "Id": "Rifurbish-Desktops_40",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ PRO 6300 SFF(QCDTAG00284)",
@@ -1354,7 +1354,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_41",
+            "Id": "Rifurbish-Desktops_41",
             "Brand": "Wipro",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "WIPRO WSG68K55W8-0001 MT(QCDTAG00328)",
@@ -1365,7 +1365,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_42",
+            "Id": "Rifurbish-Desktops_42",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M92P MT(QCDTAG00127)",
@@ -1376,7 +1376,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_43",
+            "Id": "Rifurbish-Desktops_43",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 7020 SFF(QCDTAG00388)",
@@ -1387,7 +1387,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_44",
+            "Id": "Rifurbish-Desktops_44",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M93P USFF(QCDTAG00158)",
@@ -1398,7 +1398,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_45",
+            "Id": "Rifurbish-Desktops_45",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M83 SFF(QCDTAG00034)",
@@ -1409,7 +1409,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_46",
+            "Id": "Rifurbish-Desktops_46",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3010 MT(QCDTAG00298)",
@@ -1420,7 +1420,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_47",
+            "Id": "Rifurbish-Desktops_47",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PRODESK 600 G1 SFF(QCDTAG00305)",
@@ -1431,7 +1431,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_48",
+            "Id": "Rifurbish-Desktops_48",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PRODESK 600 G1 SFF(QCDTAG00317)",
@@ -1442,7 +1442,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_49",
+            "Id": "Rifurbish-Desktops_49",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PRODESK 400 G1 SFF(QCDTAG00357)",
@@ -1453,7 +1453,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_50",
+            "Id": "Rifurbish-Desktops_50",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3020 SFF(QCDTAG00365)",
@@ -1464,7 +1464,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_51",
+            "Id": "Rifurbish-Desktops_51",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 9020 SFF(QCDTAG00194)",
@@ -1475,7 +1475,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_52",
+            "Id": "Rifurbish-Desktops_52",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP ELITEDESK 800 G1 SFF(QCDTAG00341)",
@@ -1486,7 +1486,7 @@
             "Image":["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_53",
+            "Id": "Rifurbish-Desktops_53",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP ELITEDESK 800 G1 SFF(QCDTAG00342)",
@@ -1497,7 +1497,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_54",
+            "Id": "Rifurbish-Desktops_54",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3020 SFF(QCDTAG00360)",
@@ -1508,7 +1508,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_55",
+            "Id": "Rifurbish-Desktops_55",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M92P MT(QCDTAG00193)",
@@ -1519,7 +1519,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_56",
+            "Id": "Rifurbish-Desktops_56",
             "Brand": "APPLE",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "APPLE IMAC A1224",
@@ -1530,7 +1530,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_57",
+            "Id": "Rifurbish-Desktops_57",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3500 WORKSTATION",
@@ -1541,7 +1541,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_58",
+            "Id": "Rifurbish-Desktops_58",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3600 WORKSTATION",
@@ -1552,7 +1552,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_59",
+            "Id": "Rifurbish-Desktops_59",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3610 WORKSTATION",
@@ -1563,7 +1563,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_60",
+            "Id": "Rifurbish-Desktops_60",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3600 WORKSTATION",
@@ -1574,7 +1574,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_61",
+            "Id": "Rifurbish-Desktops_61",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3610 WORKSTATION",
@@ -1585,7 +1585,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Desktops_62",
+            "Id": "Rifurbish-Desktops_62",
             "Brand": "APPLE",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "APPLE IMAC A1311",
@@ -1598,7 +1598,7 @@
     ],
     "Rifurbish-Laptops": [
         {
-            "Id": "Rifurbish_Laptops_1",
+            "Id": "Rifurbish-Laptops_1",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO X140E(QCNBAG00987)",
@@ -1609,7 +1609,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_2",
+            "Id": "Rifurbish-Laptops_2",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E4310(QCNBAG00830)",
@@ -1620,7 +1620,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_3",
+            "Id": "Rifurbish-Laptops_3",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD T410(QCNBAG00547)",
@@ -1631,7 +1631,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_4",
+            "Id": "Rifurbish-Laptops_4",
             "Brand": "Toshiba",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "TOSHIBA PORTEGE R700(QCNBAG00994)",
@@ -1642,7 +1642,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_5",
+            "Id": "Rifurbish-Laptops_5",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X220(QCNBAG00872)",
@@ -1653,7 +1653,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_6",
+            "Id": "Rifurbish-Laptops_6",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6220(QCNBAG00894)",
@@ -1664,7 +1664,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_7",
+            "Id": "Rifurbish-Laptops_7",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO X131E(QCNBAG00064)",
@@ -1675,7 +1675,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_8",
+            "Id": "Rifurbish-Laptops_8",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X230(QCNBAG00873)",
@@ -1686,7 +1686,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_9",
+            "Id": "Rifurbish-Laptops_9",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L430(QCNBAG00858)",
@@ -1697,7 +1697,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_10",
+            "Id": "Rifurbish-Laptops_10",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E5410(QCNBAG00882)",
@@ -1708,7 +1708,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_11",
+            "Id": "Rifurbish-Laptops_11",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6410(QCNBAG00449)",
@@ -1719,7 +1719,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_12",
+            "Id": "Rifurbish-Laptops_12",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6410(QCNBAG00449)",
@@ -1730,7 +1730,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_13",
+            "Id": "Rifurbish-Laptops_13",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "THINKPAD T420(QCNBAG00685)",
@@ -1741,7 +1741,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_14",
+            "Id": "Rifurbish-Laptops_14",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L420(QCNBAG00688)",
@@ -1752,7 +1752,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_15",
+            "Id": "Rifurbish-Laptops_15",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L412(QCNBAG00313)",
@@ -1763,7 +1763,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_16",
+            "Id": "Rifurbish-Laptops_16",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L440(QCNBAG00364)",
@@ -1774,7 +1774,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_17",
+            "Id": "Rifurbish-Laptops_17",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L430(QCNBAG00656)",
@@ -1785,7 +1785,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_18",
+            "Id": "Rifurbish-Laptops_18",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD E40-70(QCNBAG00141)",
@@ -1796,7 +1796,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_19",
+            "Id": "Rifurbish-Laptops_19",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO B40-80(QCNBAG00327)",
@@ -1807,7 +1807,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_20",
+            "Id": "Rifurbish-Laptops_20",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL INSPIRON N4110(QCNBAG00350)",
@@ -1818,7 +1818,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_21",
+            "Id": "Rifurbish-Laptops_21",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6320(QCNBAG00730)",
@@ -1829,7 +1829,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_22",
+            "Id": "Rifurbish-Laptops_22",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X230(QCNBAG00873)",
@@ -1840,7 +1840,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_23",
+            "Id": "Rifurbish-Laptops_23",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L412(QCNBAG00937)",
@@ -1851,7 +1851,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_24",
+            "Id": "Rifurbish-Laptops_24",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6230(QCNBAG00765)",
@@ -1862,7 +1862,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_25",
+            "Id": "Rifurbish-Laptops_25",
             "Brand": "Fujitso",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "FUJITSU LIFEBOOK T901(QCNBAG00949)",
@@ -1873,7 +1873,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_26",
+            "Id": "Rifurbish-Laptops_26",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X230(QCNBAG00309)",
@@ -1884,7 +1884,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_27",
+            "Id": "Rifurbish-Laptops_27",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 6470B(QCNBAG00160)",
@@ -1895,7 +1895,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_28",
+            "Id": "Rifurbish-Laptops_28",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X230(QCNBAG00380)",
@@ -1906,7 +1906,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_29",
+            "Id": "Rifurbish-Laptops_29",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 8470P(QCNBAG00587)",
@@ -1917,7 +1917,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_30",
+            "Id": "Rifurbish-Laptops_30",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 6470B(QCNBAG00841)",
@@ -1928,7 +1928,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_31",
+            "Id": "Rifurbish-Laptops_31",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6330(QCNBAG00099)",
@@ -1939,7 +1939,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_32",
+            "Id": "Rifurbish-Laptops_32",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 4720S(QCNBAG00337)",
@@ -1950,7 +1950,7 @@
             "Image":["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_33",
+            "Id": "Rifurbish-Laptops_33",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6430S(QCNBAG00695)",
@@ -1961,7 +1961,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_34",
+            "Id": "Rifurbish-Laptops_34",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6430(QCNBAG00538)",
@@ -1972,7 +1972,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_35",
+            "Id": "Rifurbish-Laptops_35",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6430S(QCNBAG00590)",
@@ -1983,7 +1983,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_36",
+            "Id": "Rifurbish-Laptops_36",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E5430(QCNBAG00603)",
@@ -1994,7 +1994,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_37",
+            "Id": "Rifurbish-Laptops_37",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6420(QCNBAG00731)",
@@ -2005,7 +2005,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_38",
+            "Id": "Rifurbish-Laptops_38",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L420(QCNBAG00747)",
@@ -2016,7 +2016,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_39",
+            "Id": "Rifurbish-Laptops_39",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6420(QCNBAG00784)",
@@ -2027,7 +2027,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_40",
+            "Id": "Rifurbish-Laptops_40",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE 6430U(QCNBAG01019)",
@@ -2038,7 +2038,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_41",
+            "Id": "Rifurbish-Laptops_41",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6410(QCNBAG00897)",
@@ -2049,7 +2049,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_42",
+            "Id": "Rifurbish-Laptops_42",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL PRECISION M4500(QCNBAG01069)",
@@ -2060,7 +2060,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_43",
+            "Id": "Rifurbish-Laptops_43",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD L450(QCNBAG00045)",
@@ -2071,7 +2071,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_44",
+            "Id": "Rifurbish-Laptops_44",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD X250(QCNBAG00095)",
@@ -2082,7 +2082,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_45",
+            "Id": "Rifurbish-Laptops_45",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 640 G1(QCNBAG00500)",
@@ -2093,7 +2093,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_46",
+            "Id": "Rifurbish-Laptops_46",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6420(QCNBAG00108)",
@@ -2104,7 +2104,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_47",
+            "Id": "Rifurbish-Laptops_47",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 820 G2(QCNBAG00286)",
@@ -2115,7 +2115,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_48",
+            "Id": "Rifurbish-Laptops_48",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E5450(QCNBAG00054)",
@@ -2126,7 +2126,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_49",
+            "Id": "Rifurbish-Laptops_49",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 430 G2(QCNBAG00302)",
@@ -2137,7 +2137,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_50",
+            "Id": "Rifurbish-Laptops_50",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD T440(QCNBAG00540)",
@@ -2148,7 +2148,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_51",
+            "Id": "Rifurbish-Laptops_51",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E5250(QCNBAG00211)",
@@ -2159,7 +2159,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_52",
+            "Id": "Rifurbish-Laptops_52",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "LENOVO THINKPAD T440(QCNBAG00598)",
@@ -2170,7 +2170,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_53",
+            "Id": "Rifurbish-Laptops_53",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP PROBOOK 640 G1(QCNBAG000510",
@@ -2181,7 +2181,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_54",
+            "Id": "Rifurbish-Laptops_54",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6440(QCNBAG00534)",
@@ -2192,7 +2192,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_55",
+            "Id": "Rifurbish-Laptops_55",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E7450(QCNBAG00085)",
@@ -2203,7 +2203,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_56",
+            "Id": "Rifurbish-Laptops_56",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP SPECTRE PRO X360 G1(QCNBAG00713)",
@@ -2214,7 +2214,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_57",
+            "Id": "Rifurbish-Laptops_57",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 840 G1(QCNBAG00713)",
@@ -2225,7 +2225,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_58",
+            "Id": "Rifurbish-Laptops_58",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ZBOOK 14(QCNBAG00022)",
@@ -2236,7 +2236,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_59",
+            "Id": "Rifurbish-Laptops_59",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 840 G2(QCNBAG00711)",
@@ -2247,7 +2247,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_60",
+            "Id": "Rifurbish-Laptops_60",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 840 G1(QCNBAG00289)",
@@ -2258,7 +2258,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_61",
+            "Id": "Rifurbish-Laptops_61",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE 7350(QCNBAG00011)",
@@ -2269,7 +2269,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_62",
+            "Id": "Rifurbish-Laptops_62",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 840 G2(QCNBAG00082)",
@@ -2280,7 +2280,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_63",
+            "Id": "Rifurbish-Laptops_63",
             "Brand": "HP",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "HP ELITEBOOK 840 G2(QCNBAG00972)",
@@ -2291,7 +2291,7 @@
             "Image":[ "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "Rifurbish_Laptops_64",
+            "Id": "Rifurbish-Laptops_64",
             "Brand": "Dell",
             "Catogory Type": "Rifurbish Laptops",
             "Model Number": "DELL LATITUDE E6440(QCNBAG00653)",
@@ -2304,7 +2304,7 @@
     ],
     "popular_products": [
         {
-            "Id": "popular_products-1",
+            "Id": "popular-products-1",
             "Brand": "Lenovo",
             "Catogory Type": "Desktop Machine",
             "Model Number": "V530 Slim Tower 10TYS00900",
@@ -2315,7 +2315,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "popular_products-2",
+            "Id": "popular-products-2",
             "Brand": "Dell",
             "Catogory Type": "Laptop",
             "Model Number": "Inspiron 3548",
@@ -2326,7 +2326,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
         },
         {
-            "Id": "popular_products-3",
+            "Id": "popular-products-3",
             "Brand": "Quick Heal",
             "Catogory Type": "Antivirus",
             "Model Number": "Quick heal A/V Pro 1PC/1User",

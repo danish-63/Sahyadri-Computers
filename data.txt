@@ -537,7 +537,7 @@
     ],
     "Printers": [
         {
-            "Id": "Printer_1",
+            "Id": "Printers_1",
             "Brand": "HP",
             "Catogory Type": "All In One B/W Laserjet printer",
             "Model Number": "Laser Jet M1005 MFP",
@@ -548,7 +548,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/c02212746.webp","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/c03208867.webp","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/download.jpg"]
         },
         {
-            "Id": "Printer_2",
+            "Id": "Printers_2",
             "Brand": "HP",
             "Catogory Type": "Laser Jet B/W Printer",
             "Model Number": "1020 Plus",
@@ -559,7 +559,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61aWZCGbcUL._AC_SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61-BC0RC5DL._AC_SY355_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/HP-LaserJet-1020-PLUS-(CC418A)-Laser-Printer.jpg"]
         },
         {
-            "Id": "Printer_3",
+            "Id": "Printers_3",
             "Brand": "HP",
             "Catogory Type": "Laser Jet B/W Printer",
             "Model Number": "Neverstop Laser Printer 1000a",
@@ -570,7 +570,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/01_hp_laser_ns_mfp_1000a_center_facing.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/guard-pro-logo.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/11_hp_laser_ns_mfp_1000a_with_toner.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/16_hp_laser_ns_mfp_1000a_hero_1_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/04_hp_laser_ns_mfp_1000a_3qr.jpg"]
         },
         {
-            "Id": "Printer_4",
+            "Id": "Printers_4",
             "Brand": "HP",
             "Catogory Type": "All In One B/W Laserprinter",
             "Model Number": " Neverstop Laser MFP 1200a",
@@ -581,7 +581,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/02_hp_ns_laser_mfp_1200a_3ql.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/04_hp_ns_laser_mfp_1200a_3qr.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/10_hp_ns_laser_mfp_1200a_3ql_with_toner.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/17_hp_ns_laser_mfp_1200a_front_facing_1_.jpg"]
         },
         {
-            "Id": "Printer_5",
+            "Id": "Printers_5",
             "Brand": "HP",
             "Catogory Type": "ink Tank All in one colour Printer",
             "Model Number": "Hp Ink tank 319",
@@ -592,7 +592,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-1_T1539232253.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-2_T1539232253.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-3_T1539232254.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-4_T1539232255.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-5_T1539232255.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-6_T1539232257.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-7_T1539232257.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-8_T1539232258.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z6Z13A-9_T1539232259.png"]
         },
         {
-            "Id": "Printer_6",
+            "Id": "Printers_6",
             "Brand": "HP",
             "Catogory Type": "Ink Tank All in one colour Printer wireless",
             "Model Number": "Hp Ink tank 419",
@@ -603,7 +603,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-1_T1539232227.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-2_T1539232228.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-3_T1539232229.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-4_T1539232229.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-5_T1539232230.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-6_T1539232231.png","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/Z4B53A-7_T1539232232.png"]
         },
         {
-            "Id": "Printer_7",
+            "Id": "Printers_7",
             "Brand": "Canon",
             "Catogory Type": "Ink Tank All in one Colour Printer",
             "Model Number": "Pixma G2010 ",
@@ -614,7 +614,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61cZi-Le7XL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61IZDsoZ8BL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61rDSWKasEL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61wG2bgr-7L._SL1500_.jpg"]
         },
         {
-            "Id": "Printer_8",
+            "Id": "Printers_8",
             "Brand": "Canon",
             "Catogory Type": "Ink Tank All in one colour Printer wireless",
             "Model Number": "Pixma G3010",
@@ -625,7 +625,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61gYNt61myL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61xxa-nMTaL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/610aNxZL5IL._SL1500_.jpg"]
         },
         {
-            "Id": "Printer_9",
+            "Id": "Printers_9",
             "Brand": "Canon",
             "Catogory Type": "Ink Tank All in one colour Printer wireless",
             "Model Number": "Pixma G4010",
@@ -636,7 +636,7 @@
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61hn3lffkiL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61rQrnIiUIL._SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/71TwqyKt2OL._SL1500_.jpg"]
         },
         {
-            "Id": "Printer_10",
+            "Id": "Printers_10",
             "Brand": "Canon",
             "Catogory Type": "All In One B/W Laserjet printer",
             "Model Number": "Imageclass 3010",

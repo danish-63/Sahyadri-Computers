@@ -10,6 +10,6 @@
             "devEmail": "danishaleem63@outlook.com",
             "contact": "+919404861939",
             "upi": "danishaleem63@okicici",
-            "termsConditions": "https://github.com/danish-p/Sahyadri-Computers/blob/master/icons/termsconditions.pdf"
+            "termsConditions": "https://github.com/danish-p/Sahyadri-Computers/raw/master/icons/termsconditions.pdf"
        }
 }

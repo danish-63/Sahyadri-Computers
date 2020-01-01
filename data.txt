@@ -977,7 +977,7 @@
             "Price": "6400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_7",
@@ -988,7 +988,7 @@
             "Price": "6400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_8",
@@ -999,7 +999,7 @@
             "Price": "7580",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_9",
@@ -1010,7 +1010,7 @@
             "Price": "7570",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_10",
@@ -1021,7 +1021,7 @@
             "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_11",
@@ -1032,7 +1032,7 @@
             "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_12",
@@ -1043,7 +1043,7 @@
             "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_13",
@@ -1054,7 +1054,7 @@
             "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_14",
@@ -1065,7 +1065,7 @@
             "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_15",
@@ -1076,7 +1076,7 @@
             "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_16",
@@ -1087,7 +1087,7 @@
             "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_17",
@@ -1098,7 +1098,7 @@
             "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_18",
@@ -1109,7 +1109,7 @@
             "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_19",
@@ -1120,7 +1120,7 @@
             "Price": "8320",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_20",
@@ -1131,7 +1131,7 @@
             "Price": "8950",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_21",
@@ -1142,7 +1142,7 @@
             "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_22",
@@ -1153,7 +1153,7 @@
             "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_23",
@@ -1164,7 +1164,7 @@
             "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_24",
@@ -1175,7 +1175,7 @@
             "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_25",
@@ -1186,7 +1186,7 @@
             "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_26",
@@ -1197,7 +1197,7 @@
             "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_27",
@@ -1208,7 +1208,7 @@
             "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_28",
@@ -1219,7 +1219,7 @@
             "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_29",
@@ -1230,7 +1230,7 @@
             "Price": "9300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_30",
@@ -1241,7 +1241,7 @@
             "Price": "9350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_31",
@@ -1252,7 +1252,7 @@
             "Price": "9620",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_32",
@@ -1263,7 +1263,7 @@
             "Price": "9600",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_33",
@@ -1274,7 +1274,7 @@
             "Price": "9590",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_34",
@@ -1285,7 +1285,7 @@
             "Price": "9600",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_35",
@@ -1296,7 +1296,7 @@
             "Price": "9600",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_36",
@@ -1307,7 +1307,7 @@
             "Price": "9600",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_37",
@@ -1318,7 +1318,7 @@
             "Price": "10300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_38",
@@ -1329,7 +1329,7 @@
             "Price": "10100",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_39",
@@ -1340,7 +1340,7 @@
             "Price": "10200",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_40",
@@ -1351,7 +1351,7 @@
             "Price": "10300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_41",
@@ -1362,7 +1362,7 @@
             "Price": "10200",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_42",
@@ -1373,7 +1373,7 @@
             "Price": "10750",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_43",
@@ -1384,7 +1384,7 @@
             "Price": "10800",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_44",
@@ -1395,7 +1395,7 @@
             "Price": "11890",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_45",
@@ -1406,7 +1406,7 @@
             "Price": "11800",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_46",
@@ -1417,7 +1417,7 @@
             "Price": "12800",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_47",
@@ -1428,7 +1428,7 @@
             "Price": "12500",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_48",
@@ -1439,7 +1439,7 @@
             "Price": "12400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_49",
@@ -1450,7 +1450,7 @@
             "Price": "12300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_50",
@@ -1461,7 +1461,7 @@
             "Price": "12250",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_51",
@@ -1472,7 +1472,7 @@
             "Price": "12350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_52",
@@ -1483,7 +1483,7 @@
             "Price": "12850",
             "Shiping": "free",
             "Availblity": "available",
-            "Image":["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_53",
@@ -1494,7 +1494,7 @@
             "Price": "12550",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_54",
@@ -1505,7 +1505,7 @@
             "Price": "13800",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_55",
@@ -1516,7 +1516,7 @@
             "Price": "14200",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_56",
@@ -1527,7 +1527,7 @@
             "Price": "15300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_57",
@@ -1538,7 +1538,7 @@
             "Price": "19600",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_58",
@@ -1549,7 +1549,7 @@
             "Price": "19100",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_59",
@@ -1560,7 +1560,7 @@
             "Price": "21800",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_60",
@@ -1571,7 +1571,7 @@
             "Price": "22700",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_61",
@@ -1582,7 +1582,7 @@
             "Price": "22700",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_62",
@@ -1593,7 +1593,7 @@
             "Price": "41000",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         }
     ],
     "Rifurbish-Laptops": [
@@ -1606,7 +1606,7 @@
             "Price": "10200",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_2",
@@ -1617,7 +1617,7 @@
             "Price": "10400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_3",
@@ -1628,7 +1628,7 @@
             "Price": "11850",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_4",
@@ -1639,7 +1639,7 @@
             "Price": "11800",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_5",
@@ -1650,7 +1650,7 @@
             "Price": "12400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_6",
@@ -1661,7 +1661,7 @@
             "Price": "12300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_7",
@@ -1672,7 +1672,7 @@
             "Price": "12300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_8",
@@ -1683,7 +1683,7 @@
             "Price": "12600",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_9",
@@ -1694,7 +1694,7 @@
             "Price": "13400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_10",
@@ -1705,7 +1705,7 @@
             "Price": "13600",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_11",
@@ -1716,7 +1716,7 @@
             "Price": "14300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_12",
@@ -1727,7 +1727,7 @@
             "Price": "14600",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_13",
@@ -1738,7 +1738,7 @@
             "Price": "13500",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_14",
@@ -1749,7 +1749,7 @@
             "Price": "13500",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_15",
@@ -1760,7 +1760,7 @@
             "Price": "13900",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_16",
@@ -1771,7 +1771,7 @@
             "Price": "14300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_17",
@@ -1782,7 +1782,7 @@
             "Price": "14400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_18",
@@ -1793,7 +1793,7 @@
             "Price": "14650",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_19",
@@ -1804,7 +1804,7 @@
             "Price": "14650",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_20",
@@ -1815,7 +1815,7 @@
             "Price": "14650",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_21",
@@ -1826,7 +1826,7 @@
             "Price": "14650",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_22",
@@ -1837,7 +1837,7 @@
             "Price": "15200",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_23",
@@ -1848,7 +1848,7 @@
             "Price": "1300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_24",
@@ -1859,7 +1859,7 @@
             "Price": "15300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_25",
@@ -1870,7 +1870,7 @@
             "Price": "13900",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_26",
@@ -1881,7 +1881,7 @@
             "Price": "15200",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_27",
@@ -1892,7 +1892,7 @@
             "Price": "15000",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_28",
@@ -1903,7 +1903,7 @@
             "Price": "15000",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_29",
@@ -1914,7 +1914,7 @@
             "Price": "15000",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_30",
@@ -1925,7 +1925,7 @@
             "Price": "15000",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_31",
@@ -1936,7 +1936,7 @@
             "Price": "15000",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_32",
@@ -1947,7 +1947,7 @@
             "Price": "13900",
             "Shiping": "free",
             "Availblity": "available",
-            "Image":["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_33",
@@ -1958,7 +1958,7 @@
             "Price": "14100",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_34",
@@ -1969,7 +1969,7 @@
             "Price": "14000",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_35",
@@ -1980,7 +1980,7 @@
             "Price": "14080",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_36",
@@ -1991,7 +1991,7 @@
             "Price": "14000",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_37",
@@ -2002,7 +2002,7 @@
             "Price": "14010",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_38",
@@ -2013,7 +2013,7 @@
             "Price": "13900",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_39",
@@ -2024,7 +2024,7 @@
             "Price": "13800",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_40",
@@ -2035,7 +2035,7 @@
             "Price": "14600",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_41",
@@ -2046,7 +2046,7 @@
             "Price": "14500",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_42",
@@ -2057,7 +2057,7 @@
             "Price": "14500",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_43",
@@ -2068,7 +2068,7 @@
             "Price": "15300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_44",
@@ -2079,7 +2079,7 @@
             "Price": "16400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_45",
@@ -2090,7 +2090,7 @@
             "Price": "16100",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_46",
@@ -2101,7 +2101,7 @@
             "Price": "16800",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_47",
@@ -2112,7 +2112,7 @@
             "Price": "16900",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_48",
@@ -2123,7 +2123,7 @@
             "Price": "16900",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_49",
@@ -2134,7 +2134,7 @@
             "Price": "17300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_50",
@@ -2145,7 +2145,7 @@
             "Price": "17800",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_51",
@@ -2156,7 +2156,7 @@
             "Price": "18200",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_52",
@@ -2167,7 +2167,7 @@
             "Price": "19100",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_53",
@@ -2178,7 +2178,7 @@
             "Price": "19300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_54",
@@ -2189,7 +2189,7 @@
             "Price": "19450",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_55",
@@ -2200,7 +2200,7 @@
             "Price": "19400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_56",
@@ -2211,7 +2211,7 @@
             "Price": "44800",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_57",
@@ -2222,7 +2222,7 @@
             "Price": "23850",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_58",
@@ -2233,7 +2233,7 @@
             "Price": "24000",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_59",
@@ -2244,7 +2244,7 @@
             "Price": "24300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_60",
@@ -2255,7 +2255,7 @@
             "Price": "23600",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_61",
@@ -2266,7 +2266,7 @@
             "Price": "24500",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_62",
@@ -2277,7 +2277,7 @@
             "Price": "24000",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_63",
@@ -2288,7 +2288,7 @@
             "Price": "22300",
             "Shiping": "free",
             "Availblity": "available",
-            "Image":[ "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Laptops_64",
@@ -2299,7 +2299,7 @@
             "Price": "23400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         }
     ],
     "popular_products": [
@@ -2312,8 +2312,8 @@
             "Price": "28900",
             "Shipin ": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
-        },
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61557R+qQ5L._SL1493_.jpg"]
+},
         {
             "Id": "popular-products-2",
             "Brand": "Dell",
@@ -2323,7 +2323,7 @@
             "Price": "35700",
             "Shipin ": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/OriginalPng.png"]
         },
         {
             "Id": "popular-products-3",
@@ -2334,7 +2334,7 @@
             "Price": "480",
             "Shipin ": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61BJdwOjirL._AC_SL1257_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/613tb9Va58L._AC_SL1100_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/614NF0dzuoL._AC_SL1257_.jpg"]
         }
     ]
 }

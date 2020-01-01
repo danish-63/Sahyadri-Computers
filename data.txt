@@ -2,67 +2,67 @@
     "Categories": [
         {
             "Name": "Desktop",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/desktopIcon1-1.png"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/desktop.jpg"
         },
         {
             "Name": "Laptop",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/laptopIcon1-1.png"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/laptop.jpg"
         },
         {
             "Name": "CCTV",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/cctc.jpg"
         },
         {
             "Name": "Printers",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/printerIcon1.png"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/printers.jpg"
         },
         {
             "Name": "Rifurbish-Desktops",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/rDesktop.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbishDesktop.png"
         },
         {
             "Name": "Rifurbish-Laptops",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/rlaptop.jpg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbishLaptop.jpg"
         },
         {
             "Name": "Software",
-            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/software.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/software.png"
         },
         {
             "Name": "Keyboard-Mouse",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/keyboardMouse.png"
         },
         {
             "Name": "Monitors-Projector",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/projector.jpg"
         },
         {
             "Name": "Networking",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/networking.png"
         },
         {
             "Name": "Storage",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/hardisk.jpg"
         },
         {
             "Name": "Motherboard-Processors",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/motherboard.webp"
         },
         {
             "Name": "Cabinets",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/cabinets.jpg"
         },
         {
             "Name": "UPS-SMPS",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/ups.jpg"
         },
         {
             "Name": "Cables",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/cables.png"
         },
         {
             "Name": "Peripherals",
-            "Image": "https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"
+            "Image": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/peripherals.jpg"
         }
     ],
     "CCTV": [
@@ -922,7 +922,7 @@
             "Price": "6150",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_2",
@@ -933,7 +933,7 @@
             "Price": "6350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_3",
@@ -944,7 +944,7 @@
             "Price": "6350",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_4",
@@ -955,7 +955,7 @@
             "Price": "6400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_5",
@@ -966,7 +966,7 @@
             "Price": "6400",
             "Shiping": "free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-63/Sahyadri-Computers/master/cpu.jpeg"]
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_6",

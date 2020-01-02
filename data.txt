@@ -67,7 +67,7 @@
     ],
     "CCTV": [
         {
-            "id": "CCTV_1",
+            "Id": "CCTV_1",
             "Brand": "Hikvision",
             "Catogory Type": "CCTV Dome Camera",
             "Model Number": "DS-2CE5AD0T-IRPF(2 Mega Pixel 2.8MM LENS)",

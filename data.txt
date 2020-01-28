@@ -106,7 +106,7 @@
             "Model Number": "DS-7A08HQHI-K1 (Turbo HD DVR)",
             "Specification": "H.265 Video Compression/HD Input/Mobile Surveillance/Web Access /Mobile Survillance",
             "Price": "5",
-            "Shipping": "free",
+            "Shipping": "100",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41i164CbWBL._AC_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61a5mY6WU2L._AC_SL1500_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/61qQ5-XKVPL._AC_SL1500_.jpg"]
         },

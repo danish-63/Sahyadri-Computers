@@ -73,7 +73,7 @@
             "Model Number": "DS-2CE5AD0T-IRPF(2 Mega Pixel 2.8MM LENS)",
             "Specification": "Turbo HD 2MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
             "Price": "1450",
-            "UPIOffer": "14.5",
+            "UPIOffer": "0",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/CCTV_1.jpg"]
@@ -85,7 +85,7 @@
             "Model Number": "DS-2CE1AD0T-IRPF(2 Mega Pixel 3.8 MM  Lens)",
             "Specification": "Turbo HD 2MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
             "Price": "1550",
-            "UPIOffer": "15.5",
+            "UPIOffer": "0",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41tBxoTJzBL._AC_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5113KJZA65L._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51U-4x7p97L._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51ZRHViJLDL._SL1280_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51eXALDtZwL._SL1500_.jpg"]
@@ -426,7 +426,7 @@
             "Catogory Type": "Desktop Machine",
             "Model Number": "V530 Slim Tower 10TYS00900",
             "Specification": "Core I3 8th Gen/4 GB DDR 4 2400 Ram / 1 TB HDD/ NO ODD/DOS /19.5 LED Monitor",
-            "Price": "3100",
+            "Price": "31000",
             "UPIOffer": "31",
             "Shiping": "free",
             "Availblity": "available",

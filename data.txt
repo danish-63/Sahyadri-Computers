@@ -1058,7 +1058,7 @@
             "UPIOffer": "61.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_2",
@@ -1070,7 +1070,7 @@
             "UPIOffer": "63.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_3",
@@ -1082,7 +1082,7 @@
             "UPIOffer": "63.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_4",
@@ -1094,7 +1094,7 @@
             "UPIOffer": "64",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_5",
@@ -1106,7 +1106,7 @@
             "UPIOffer": "64",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_6",
@@ -1118,7 +1118,7 @@
             "UPIOffer": "64",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_7",
@@ -1130,7 +1130,7 @@
             "UPIOffer": "64",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_8",
@@ -1142,7 +1142,7 @@
             "UPIOffer": "75.8",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_9",
@@ -1154,7 +1154,7 @@
             "UPIOffer": "75.7",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_10",
@@ -1166,7 +1166,7 @@
             "UPIOffer": "83.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_11",
@@ -1178,7 +1178,7 @@
             "UPIOffer": "83.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_12",
@@ -1190,7 +1190,7 @@
             "UPIOffer": "83.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_13",
@@ -1202,7 +1202,7 @@
             "UPIOffer": "83.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_14",
@@ -1214,7 +1214,7 @@
             "UPIOffer": "83.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_15",
@@ -1226,7 +1226,7 @@
             "UPIOffer": "83.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_16",
@@ -1238,7 +1238,7 @@
             "UPIOffer": "83.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_17",
@@ -1250,7 +1250,7 @@
             "UPIOffer": "83.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_18",
@@ -1262,7 +1262,7 @@
             "UPIOffer": "83.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_19",
@@ -1274,7 +1274,7 @@
             "UPIOffer": "83.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_20",
@@ -1286,7 +1286,7 @@
             "UPIOffer": "89.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_21",
@@ -1298,7 +1298,7 @@
             "UPIOffer": "93.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_22",
@@ -1310,7 +1310,7 @@
             "UPIOffer": "93.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_23",
@@ -1322,7 +1322,7 @@
             "UPIOffer": "93.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_24",
@@ -1334,7 +1334,7 @@
             "UPIOffer": "93.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_25",
@@ -1346,7 +1346,7 @@
             "UPIOffer": "93.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_26",
@@ -1358,7 +1358,7 @@
             "UPIOffer": "93.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_27",
@@ -1370,7 +1370,7 @@
             "UPIOffer": "93.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_28",
@@ -1382,7 +1382,7 @@
             "UPIOffer": "93.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_29",
@@ -1394,7 +1394,7 @@
             "UPIOffer": "93",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_30",
@@ -1406,7 +1406,7 @@
             "UPIOffer": "93.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_31",
@@ -1418,7 +1418,7 @@
             "UPIOffer": "96.2",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_32",
@@ -1430,7 +1430,7 @@
             "UPIOffer": "96",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_33",
@@ -1442,7 +1442,7 @@
             "UPIOffer": "95.9",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_34",
@@ -1454,7 +1454,7 @@
             "UPIOffer": "96",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_35",
@@ -1466,7 +1466,7 @@
             "UPIOffer": "96",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_36",
@@ -1478,7 +1478,7 @@
             "UPIOffer": "96",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_37",
@@ -1490,7 +1490,7 @@
             "UPIOffer": "103",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_38",
@@ -1502,7 +1502,7 @@
             "UPIOffer": "101",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_39",
@@ -1514,7 +1514,7 @@
             "UPIOffer": "102",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_40",
@@ -1526,7 +1526,7 @@
             "UPIOffer": "103",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_41",
@@ -1538,7 +1538,7 @@
             "UPIOffer": "102",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_42",
@@ -1550,7 +1550,7 @@
             "UPIOffer": "107.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_43",
@@ -1562,7 +1562,7 @@
             "UPIOffer": "108",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_44",
@@ -1574,7 +1574,7 @@
             "UPIOffer": "118.9",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_45",
@@ -1586,7 +1586,7 @@
             "UPIOffer": "118",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_46",
@@ -1598,7 +1598,7 @@
             "UPIOffer": "128",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_47",
@@ -1610,7 +1610,7 @@
             "UPIOffer": "125",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_48",
@@ -1622,7 +1622,7 @@
             "UPIOffer": "124",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_49",
@@ -1634,7 +1634,7 @@
             "UPIOffer": "123",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_50",
@@ -1646,7 +1646,7 @@
             "UPIOffer": "122.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_51",
@@ -1658,7 +1658,7 @@
             "UPIOffer": "123.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_52",
@@ -1670,7 +1670,7 @@
             "UPIOffer": "128.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_53",
@@ -1682,7 +1682,7 @@
             "UPIOffer": "125.5",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_54",
@@ -1694,7 +1694,7 @@
             "UPIOffer": "138",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_55",
@@ -1706,7 +1706,7 @@
             "UPIOffer": "142",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_56",
@@ -1718,7 +1718,7 @@
             "UPIOffer": "153",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_57",
@@ -1730,7 +1730,7 @@
             "UPIOffer": "196",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_58",
@@ -1742,7 +1742,7 @@
             "UPIOffer": "191",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_59",
@@ -1754,7 +1754,7 @@
             "UPIOffer": "218",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_60",
@@ -1766,7 +1766,7 @@
             "UPIOffer": "227",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_61",
@@ -1778,7 +1778,7 @@
             "UPIOffer": "227",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         },
         {
             "Id": "Rifurbish-Desktops_62",
@@ -1790,7 +1790,7 @@
             "UPIOffer": "410",
             "Shiping": "Free",
             "Availblity": "available",
-            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
+            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
         }
     ],
     "Rifurbish-Laptops": [

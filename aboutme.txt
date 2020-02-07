@@ -2,6 +2,7 @@
     "response": 
         {
             "offers": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/data.txt",
+            "OfferString": "5% OFF on UPI Payment",
             "about-us": "https://medium.com/@mujjtahidah/create-deep-link-android-eb5623952668",
             "myreviews": "https://android.jlelse.eu/deep-linking-in-androd-9c853573fdf4",
             "tipstricks": "https://youtu.be/wpIV8Reks7w",

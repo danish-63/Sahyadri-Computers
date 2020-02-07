@@ -73,7 +73,7 @@
             "Model Number": "DS-2CE5AD0T-IRPF(2 Mega Pixel 2.8MM LENS)",
             "Specification": "Turbo HD 2MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
             "Price": "1450",
-            "UPIOffer": "0",
+            "UPIOffer": "14.5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/CCTV_1.jpg"]
@@ -85,7 +85,7 @@
             "Model Number": "DS-2CE1AD0T-IRPF(2 Mega Pixel 3.8 MM  Lens)",
             "Specification": "Turbo HD 2MP Camera/HD Video Output/HDTVITechnology/3-axis Adjustment",
             "Price": "1550",
-            "UPIOffer": "0",
+            "UPIOffer": "15.5",
             "Shiping": "free",
             "Availblity": "available",
             "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/41tBxoTJzBL._AC_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/5113KJZA65L._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51U-4x7p97L._SL1200_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51ZRHViJLDL._SL1280_.jpg","https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/Images/51eXALDtZwL._SL1500_.jpg"]
@@ -426,7 +426,7 @@
             "Catogory Type": "Desktop Machine",
             "Model Number": "V530 Slim Tower 10TYS00900",
             "Specification": "Core I3 8th Gen/4 GB DDR 4 2400 Ram / 1 TB HDD/ NO ODD/DOS /19.5 LED Monitor",
-            "Price": "31000",
+            "Price": "3100",
             "UPIOffer": "31",
             "Shiping": "free",
             "Availblity": "available",
@@ -1049,15 +1049,16 @@
     ],
     "Rifurbish-Desktops": [
         {
-            "Id": "Rifurbish-Desktops_1",
+            "Id": "_1",
             "Brand": "Lenovo",
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Thinkcenter M58 SFF(QCDTAG00024)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M58 SFF (CORE 2 DUO Processor/2GB DDR3 Ram/250GB HDD/DOS) 1Year Warranty",
-            "UPIOffer": "6150",
-            "Shiping": "61.5",
+            "Price": "6150",
+            "UPIOffer": "61.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_2",
@@ -1065,10 +1066,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Thinkcenter M58 SFF(QCDTAG00025)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M58 SFF (CORE 2 DUO Processor/2GB DDR3 Ram/320GB HDD/DOS) 1Year Warranty",
-            "UPIOffer": "6350",
-            "Shiping": "63.5",
+            "Price": "6350",
+            "UPIOffer": "63.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_3",
@@ -1076,10 +1078,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Dell OPTIPLEX 330 SFF(QCDTAG00101)",
             "Specification": "REFURBISHED DELL OPTIPLEX 330 SFF (CORE 2 DUO Processor /2GB DDR3Or 2 /320GB HDD/DOS) 1Year Warranty",
-            "UPIOffer": "6350",
-            "Shiping": "63.5",
+            "Price": "6350",
+            "UPIOffer": "63.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_4",
@@ -1087,10 +1090,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Dell OPTIPLEX 755 SFF(QCDTAG00107)",
             "Specification": "REFURBISHED DELL OPTIPLEX 755 SFF (CORE 2 DUO/2GB/320GB/DOS) 1Year Warranty",
-            "UPIOffer": "6400",
-            "Shiping": "64",
+            "Price": "6400",
+            "UPIOffer": "64",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_5",
@@ -1098,10 +1102,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "Lenovo LENOVO THINKCENTRE M70E MT(QCDTAG00246)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M70E MT (CORE 2 DUO/2GB/320GB/DOS) 1 Year  Warranty",
-            "UPIOffer": "6400",
-            "Shiping": "64",
+            "Price": "6400",
+            "UPIOffer": "64",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_6",
@@ -1109,10 +1114,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 380 SFF(QCDTAG00270)",
             "Specification": "REFURBISHED DELL OPTIPLEX 380 SFF (CORE 2 DUO/2GB/320GB/DOS) 1 Year  Warranty",
-            "UPIOffer": "6400",
-            "Shiping": "64",
+            "Price": "6400",
+            "UPIOffer": "64",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_7",
@@ -1120,10 +1126,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HCL INFINITI A380 PRO MT(QCDTAG00380)",
             "Specification": "REFURBISHED HCL INFINITI A380 PRO MT (CORE 2 DUO/2GB/250GB/DOS) 1 Year  Warranty",
-            "UPIOffer": "6400",
-            "Shiping": "64",
+            "Price": "6400",
+            "UPIOffer": "64",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_8",
@@ -1131,10 +1138,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M90P MT(QCDTAG00301)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M90P MT (CORE I3 1ST GEN/4GB/320GB/DOS) 1 Year  Warranty",
-            "UPIOffer": "7580",
-            "Shiping": "75.8",
+            "Price": "7580",
+            "UPIOffer": "75.8",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_9",
@@ -1142,10 +1150,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M80 SFF(QCDTAG00314)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M80 SFF (CORE I3 1ST GEN/4GB/320GB/DOS)",
-            "UPIOffer": "7570",
-            "Shiping": "75.7",
+            "Price": "7570",
+            "UPIOffer": "75.7",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_10",
@@ -1153,10 +1162,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 MT(QCDTAG00018)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8100 MT (CORE I5 1ST GEN/4GB/320GB/DOS)",
-            "UPIOffer": "8320",
-            "Shiping": "83.2",
+            "Price": "8320",
+            "UPIOffer": "83.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_11",
@@ -1164,10 +1174,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 SFF(QCDTAG00159)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8100 SFF (CORE I5 1ST GEN/4GB/250GB/DOS)",
-            "UPIOffer": "8320",
-            "Shiping": "83.2",
+            "Price": "8320",
+            "UPIOffer": "83.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_12",
@@ -1175,10 +1186,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M81 SFF(QCDTAG00164)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M81 SFF (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "8320",
-            "Shiping": "83.2",
+            "Price": "8320",
+            "UPIOffer": "83.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_13",
@@ -1186,10 +1198,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M91P SFF(QCDTAG00165)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M91P SFF (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "8320",
-            "Shiping": "83.2",
+            "Price": "8320",
+            "UPIOffer": "83.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_14",
@@ -1197,10 +1210,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M71E MT(QCDTAG001650)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M71E MT (CORE I2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "8320",
-            "Shiping": "83.2",
+            "Price": "8320",
+            "UPIOffer": "83.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_15",
@@ -1208,10 +1222,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E MT(QCDTAG00168)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E MT (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "8320",
-            "Shiping": "83.2",
+            "Price": "8320",
+            "UPIOffer": "83.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_16",
@@ -1219,10 +1234,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ PRO 6200 SFF(QCDTAG00170)",
             "Specification": "REFURBISHED HP COMPAQ PRO 6200 SFF (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "8320",
-            "Shiping": "83.2",
+            "Price": "8320",
+            "UPIOffer": "83.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_17",
@@ -1230,10 +1246,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M71E SFF(QCDTAG00205)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M71E SFF (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "8320",
-            "Shiping": "83.2",
+            "Price": "8320",
+            "UPIOffer": "83.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_18",
@@ -1241,10 +1258,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00211)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E SFF (CORE I3 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "8320",
-            "Shiping": "83.2",
+            "Price": "8320",
+            "UPIOffer": "83.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_19",
@@ -1252,10 +1270,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 SFF(QCDTAG00294)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8100 SFF (CORE I5 1ST GEN/4GB/320GB/DOS)",
-            "UPIOffer": "8320",
-            "Shiping": "83.2",
+            "Price": "8320",
+            "UPIOffer": "83.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_20",
@@ -1263,10 +1282,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8100 SFF(QCDTAG00269)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8100 SFF (CORE I5 1ST GEN/4GB/500GB/DOS)",
-            "UPIOffer": "8950",
-            "Shiping": "89.5",
+            "Price": "8950",
+            "UPIOffer": "89.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_21",
@@ -1274,10 +1294,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M81 SFF(QCDTAG00032)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M81 SFF (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "9350",
-            "Shiping": "93.5",
+            "Price": "9350",
+            "UPIOffer": "93.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_22",
@@ -1285,10 +1306,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8200 MT(QCDTAG00160)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8200 MT (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "9350",
-            "Shiping": "93.5",
+            "Price": "9350",
+            "UPIOffer": "93.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_23",
@@ -1296,10 +1318,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 990 SFF(QCDTAG00191)",
             "Specification": "REFURBISHED DELL OPTIPLEX 990 SFF (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "9350",
-            "Shiping": "93.5",
+            "Price": "9350",
+            "UPIOffer": "93.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_24",
@@ -1307,10 +1330,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "THINKCENTRE M92P SFF(QCDTAG00197)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M92P SFF (CORE I3 3RD GEN/4GB/320GB/DOS)",
-            "UPIOffer": "9350",
-            "Shiping": "93.5",
+            "Price": "9350",
+            "UPIOffer": "93.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_25",
@@ -1318,10 +1342,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00206)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E SFF (CORE I3 3RD GEN/4GB/320GB/DOS)",
-            "UPIOffer": "9350",
-            "Shiping": "93.5",
+            "Price": "9350",
+            "UPIOffer": "93.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_26",
@@ -1329,10 +1354,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ PRO 6200 SFF(QCDTAG00281)",
             "Specification": "REFURBISHED HP COMPAQ PRO 6200 SFF (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "9350",
-            "Shiping": "93.5",
+            "Price": "9350",
+            "UPIOffer": "93.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_27",
@@ -1340,10 +1366,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8200 SFF(QCDTAG00282)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8200 SFF (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "9350",
-            "Shiping": "93.5",
+            "Price": "9350",
+            "UPIOffer": "93.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_28",
@@ -1351,10 +1378,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E MT(QCDTAG00289)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E MT (CORE I3 3RD GEN/4GB/320GB/DOS)",
-            "UPIOffer": "9350",
-            "Shiping": "93.5",
+            "Price": "9350",
+            "UPIOffer": "93.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_29",
@@ -1362,10 +1390,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3010 MT(QCDTAG00290)",
             "Specification": "REFURBISHED DELL OPTIPLEX 3010 MT (CORE I3 3RD GEN/4GB/320GB/DOS)",
-            "UPIOffer": "9300",
-            "Shiping": "93",
+            "Price": "9300",
+            "UPIOffer": "93",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_30",
@@ -1373,10 +1402,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E MT(QCDTAG00304)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E MT (CORE I5 2ND GEN/4GB/320GB/DOS)",
-            "UPIOffer": "9350",
-            "Shiping": "93.5",
+            "Price": "9350",
+            "UPIOffer": "93.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_31",
@@ -1384,10 +1414,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M81 SFF(QCDTAG00052)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M81 SFF (CORE I5 2ND GEN/4GB/500GB/DOS)",
-            "UPIOffer": "9620",
-            "Shiping": "96.2",
+            "Price": "9620",
+            "UPIOffer": "96.2",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_32",
@@ -1395,10 +1426,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PROLIANT SERVER DL385 G6(QCDTAG00156)",
             "Specification": "REFURBISHED HP PROLIANT SERVER DL385 G6 (AMD OPTERON/4GB/NO HDD/NO RISER CARD/DOS)",
-            "UPIOffer": "9600",
-            "Shiping": "96",
+            "Price": "9600",
+            "UPIOffer": "96",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_33",
@@ -1406,10 +1438,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE EDGE 72 SFF(QCDTAG00224)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE EDGE 72 SFF (CORE I3 3RD GEN/4GB/500GB/DOS)",
-            "UPIOffer": "9590",
-            "Shiping": "95.9",
+            "Price": "9590",
+            "UPIOffer": "95.9",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_34",
@@ -1417,10 +1450,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00228)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E SFF (CORE I3 3RD GEN/4GB/500GB/DOS)",
-            "UPIOffer": "9600",
-            "Shiping": "96",
+            "Price": "9600",
+            "UPIOffer": "96",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_35",
@@ -1428,10 +1462,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M92P SFF(QCDTAG00233)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M92P SFF (CORE I3 3RD GEN/4GB/500GB/DOS)",
-            "UPIOffer": "9600",
-            "Shiping": "96",
+            "Price": "9600",
+            "UPIOffer": "96",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_36",
@@ -1439,10 +1474,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M82 SFF(QCDTAG00375)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M82 SFF (CORE I3 3RD GEN/4GB/500GB/DOS)",
-            "UPIOffer": "9600",
-            "Shiping": "96",
+            "Price": "9600",
+            "UPIOffer": "96",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_37",
@@ -1450,10 +1486,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 9010 SFF(QCDTAG00188)",
             "Specification": "REFURBISHED DELL OPTIPLEX 9010 SFF (CORE I5 3RD GEN/4GB/320GB/DOS)",
-            "UPIOffer": "10300",
-            "Shiping": "103",
+            "Price": "10300",
+            "UPIOffer": "103",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_38",
@@ -1461,10 +1498,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M72E SFF(QCDTAG00235)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M72E SFF (CORE I5 3RD GEN/4GB/320GB/DOS)",
-            "UPIOffer": "10100",
-            "Shiping": "101",
+            "Price": "10100",
+            "UPIOffer": "101",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_39",
@@ -1472,10 +1510,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ ELITE 8300 SFF(QCDTAG00283)",
             "Specification": "REFURBISHED HP COMPAQ ELITE 8300 SFF (CORE I5 3RD GEN/4GB/320GB/DOS)",
-            "UPIOffer": "10200",
-            "Shiping": "102",
+            "Price": "10200",
+            "UPIOffer": "102",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_40",
@@ -1483,10 +1522,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP COMPAQ PRO 6300 SFF(QCDTAG00284)",
             "Specification": "REFURBISHED HP COMPAQ PRO 6300 SFF (CORE I5 3RD GEN/4GB/320GB/DOS)",
-            "UPIOffer": "10300",
-            "Shiping": "103",
+            "Price": "10300",
+            "UPIOffer": "103",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_41",
@@ -1494,10 +1534,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "WIPRO WSG68K55W8-0001 MT(QCDTAG00328)",
             "Specification": "REFURBISHED WIPRO WSG68K55W8-0001 MT (CORE I5 3RD GEN/4GB/320GB/DOS)",
-            "UPIOffer": "10200",
-            "Shiping": "102",
+            "Price": "10200",
+            "UPIOffer": "102",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_42",
@@ -1505,10 +1546,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M92P MT(QCDTAG00127)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M92P MT (CORE I5 3RD GEN/4GB/500GB/DOS)",
-            "UPIOffer": "10750",
-            "Shiping": "107.5",
+            "Price": "10750",
+            "UPIOffer": "107.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_43",
@@ -1516,10 +1558,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 7020 SFF(QCDTAG00388)",
             "Specification": "REFURBISHED DELL OPTIPLEX 7020 SFF (CORE I3 4TH GEN/4GB/500GB/DOS)",
-            "UPIOffer": "10800",
-            "Shiping": "108",
+            "Price": "10800",
+            "UPIOffer": "108",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_44",
@@ -1527,10 +1570,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M93P USFF(QCDTAG00158)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M93P USFF (CORE I5 4TH GEN/4GB/320GB/DOS)",
-            "UPIOffer": "11890",
-            "Shiping": "118.9",
+            "Price": "11890",
+            "UPIOffer": "118.9",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_45",
@@ -1538,10 +1582,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M83 SFF(QCDTAG00034)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M83 SFF (CORE I5 4TH GEN/4GB/500GB/DOS)",
-            "UPIOffer": "11800",
-            "Shiping": "118",
+            "Price": "11800",
+            "UPIOffer": "118",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_46",
@@ -1549,10 +1594,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3010 MT(QCDTAG00298)",
             "Specification": "REFURBISHED DELL OPTIPLEX 3010 MT (CORE I3 3RD GEN/4GB/1TB/WIN-10 HOME)",
-            "UPIOffer": "12800",
-            "Shiping": "128",
+            "Price": "12800",
+            "UPIOffer": "128",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_47",
@@ -1560,10 +1606,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PRODESK 600 G1 SFF(QCDTAG00305)",
             "Specification": "REFURBISHED HP PRODESK 600 G1 SFF (CORE I5 4TH GEN/4GB/500GB/DVD/DOS)",
-            "UPIOffer": "12500",
-            "Shiping": "125",
+            "Price": "12500",
+            "UPIOffer": "125",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_48",
@@ -1571,10 +1618,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PRODESK 600 G1 SFF(QCDTAG00317)",
             "Specification": "REFURBISHED HP PRODESK 600 G1 SFF (CORE I5 4TH GEN/4GB/500GB/NO DVD/DOS)",
-            "UPIOffer": "12400",
-            "Shiping": "124",
+            "Price": "12400",
+            "UPIOffer": "124",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_49",
@@ -1582,10 +1630,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP PRODESK 400 G1 SFF(QCDTAG00357)",
             "Specification": "REFURBISHED HP PRODESK 400 G1 SFF (CORE I5 4TH GEN/4GB/500GB/DVD/DOS)",
-            "UPIOffer": "12300",
-            "Shiping": "123",
+            "Price": "12300",
+            "UPIOffer": "123",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_50",
@@ -1593,10 +1642,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3020 SFF(QCDTAG00365)",
             "Specification": "REFURBISHED DELL OPTIPLEX 3020 SFF (CORE I5 4TH GEN/4GB/500GB/DOS)",
-            "UPIOffer": "12250",
-            "Shiping": "122.5",
+            "Price": "12250",
+            "UPIOffer": "122.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_51",
@@ -1604,10 +1654,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 9020 SFF(QCDTAG00194)",
             "Specification": "REFURBISHED DELL OPTIPLEX 9020 SFF (CORE I5 4TH GEN/4GB/320GB/DOS)",
-            "UPIOffer": "12350",
-            "Shiping": "123.5",
+            "Price": "12350",
+            "UPIOffer": "123.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_52",
@@ -1615,10 +1666,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP ELITEDESK 800 G1 SFF(QCDTAG00341)",
             "Specification": "REFURBISHED HP ELITEDESK 800 G1 SFF (CORE I5 4TH GEN/4GB/500GB/DVD/DOS)",
-            "UPIOffer": "12850",
-            "Shiping": "128.5",
+            "Price": "12850",
+            "UPIOffer": "128.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_53",
@@ -1626,10 +1678,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "HP ELITEDESK 800 G1 SFF(QCDTAG00342)",
             "Specification": "REFURBISHED HP ELITEDESK 800 G1 SFF (CORE I5 4TH GEN/4GB/500GB/NO DVD/DOS)",
-            "UPIOffer": "12550",
-            "Shiping": "125.5",
+            "Price": "12550",
+            "UPIOffer": "125.5",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_54",
@@ -1637,10 +1690,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL OPTIPLEX 3020 SFF(QCDTAG00360)",
             "Specification": "REFURBISHED DELL OPTIPLEX 3020 SFF (CORE I5 4TH GEN/8GB/500GB/DOS)",
-            "UPIOffer": "13800",
-            "Shiping": "138",
+            "Price": "13800",
+            "UPIOffer": "138",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_55",
@@ -1648,10 +1702,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "LENOVO THINKCENTRE M92P MT(QCDTAG00193)",
             "Specification": "REFURBISHED LENOVO THINKCENTRE M92P MT (CORE I5 3RD GEN/8GB/1TB/DOS)",
-            "UPIOffer": "14200",
-            "Shiping": "142",
+            "Price": "14200",
+            "UPIOffer": "142",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_56",
@@ -1659,10 +1714,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "APPLE IMAC A1224",
             "Specification": "REFURBISHED APPLE IMAC A1224 (CORE 2 DUO/4GB/320GB/WEBCAM/20''/MAC OS LION)",
-            "UPIOffer": "15300",
-            "Shiping": "153",
+            "Price": "15300",
+            "UPIOffer": "153",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_57",
@@ -1670,10 +1726,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3500 WORKSTATION",
             "Specification": "REFURBISHED DELL PRECISION T3500 WORKSTATION (INTEL XEON W3505/8GB/500GB/1GB GRAPHICS/DOS)",
-            "UPIOffer": "19600",
-            "Shiping": "196",
+            "Price": "19600",
+            "UPIOffer": "196",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_58",
@@ -1681,10 +1738,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3600 WORKSTATION",
             "Specification": "REFURBISHED DELL PRECISION T3600 WORKSTATION (INTEL XEON E5-1603/8GB/500GB/512MB GRAPHICS/DOS)",
-            "UPIOffer": "19100",
-            "Shiping": "191",
+            "Price": "19100",
+            "UPIOffer": "191",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_59",
@@ -1692,10 +1750,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3610 WORKSTATION",
             "Specification": "REFURBISHED DELL PRECISION T3610 WORKSTATION (INTEL XEON E5-1603/8GB/500GB/512MB GRAPHICS/DOS)",
-            "UPIOffer": "21800",
-            "Shiping": "218",
+            "Price": "21800",
+            "UPIOffer": "218",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_60",
@@ -1703,10 +1762,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3600 WORKSTATION",
             "Specification": "REFURBISHED DELL PRECISION T3600 WORKSTATION (INTEL XEON E5-1603/8GB/500GB/1GB GRAPHICS/DOS)",
-            "UPIOffer": "22700",
-            "Shiping": "227",
+            "Price": "22700",
+            "UPIOffer": "227",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_61",
@@ -1714,10 +1774,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "DELL PRECISION T3610 WORKSTATION",
             "Specification": "REFURBISHED DELL PRECISION T3610 WORKSTATION (INTEL XEON E5-1603/8GB/500GB/1GB GRAPHICS/DOS)",
-            "UPIOffer": "22700",
-            "Shiping": "227",
+            "Price": "22700",
+            "UPIOffer": "227",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         },
         {
             "Id": "Rifurbish-Desktops_62",
@@ -1725,10 +1786,11 @@
             "Catogory Type": "Rifurbish Desktops",
             "Model Number": "APPLE IMAC A1311",
             "Specification": "REFURBISHED APPLE IMAC A1311 (CORE I5 2ND GEN/8GB/500GB/WEBCAM/21.5''/MAC OS LION)",
-            "UPIOffer": "41000",
-            "Shiping": "410",
+            "Price": "41000",
+            "UPIOffer": "410",
+            "Shiping": "Free",
             "Availblity": "available",
-            "Image": ["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]
+            "Image": "["https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/icons/refurbished.jpg"]"
         }
     ],
     "Rifurbish-Laptops": [

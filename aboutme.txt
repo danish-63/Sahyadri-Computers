@@ -3,7 +3,7 @@
         {
             "offers": "https://medium.com/@danishaleem63/offer-8c4a2a014e82",
             "offerString": "5% OFF on UPI Payment",
-            "about-us": "https://medium.com/@mujjtahidah/create-deep-link-android-eb5623952668",
+            "about-us": "https://medium.com/@danishaleem63/sahyadri-computers-2b75bc495a84",
             "myreviews": "https://android.jlelse.eu/deep-linking-in-androd-9c853573fdf4",
             "tipstricks": "https://youtu.be/wpIV8Reks7w",
             "email": "salesahyadricomputersol@gmail.com",

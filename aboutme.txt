@@ -1,7 +1,7 @@
 {
     "response": 
         {
-            "offers": "https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/data.txt",
+            "offers": "https://medium.com/@danishaleem63/offer-8c4a2a014e82",
             "offerString": "5% OFF on UPI Payment",
             "about-us": "https://medium.com/@mujjtahidah/create-deep-link-android-eb5623952668",
             "myreviews": "https://android.jlelse.eu/deep-linking-in-androd-9c853573fdf4",
@@ -10,7 +10,7 @@
             "tokenfcm": "9404861939@05051992",
             "devEmail": "danishaleem63@outlook.com",
             "contact": "+919404861939",
-            "upi": "danishaleem63@okicici",
+            "upi": "sahyadricomputersol@ybl",
             "termsConditions": "https://github.com/danish-p/Sahyadri-Computers/raw/master/icons/termsconditions.pdf"
        }
 }

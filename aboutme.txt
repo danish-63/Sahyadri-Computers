@@ -4,7 +4,7 @@
             "offers": "https://medium.com/@danishaleem63/offer-8c4a2a014e82",
             "offerString": "5% OFF on UPI Payment",
             "about-us": "https://medium.com/@danishaleem63/sahyadri-computers-2b75bc495a84",
-            "myreviews": "https://android.jlelse.eu/deep-linking-in-androd-9c853573fdf4",
+            "myreviews": "https://medium.com/@danishaleem63/reviews-unboxing-8bec86d1ad00",
             "tipstricks": "https://www.youtube.com/watch?v=EdnAeqxqdzM",
             "email": "salesahyadricomputersol@gmail.com",
             "tokenfcm": "9404861939@05051992",

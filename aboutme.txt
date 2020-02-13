@@ -10,7 +10,7 @@
             "tokenfcm": "9404861939@05051992",
             "devEmail": "danishaleem63@outlook.com",
             "contact": "+919404861939",
-            "upi": "sahyadricomputersol@ybl",
+            "upi": "9404861939@cnrb",
             "termsConditions": "https://github.com/danish-p/Sahyadri-Computers/raw/master/TermsConditionsa.pdf"
        }
 }

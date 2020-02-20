@@ -789,11 +789,7 @@
             "Brand": "AOC",
             "Catogory Type": "LED Monitro",
             "Model Number": "Aoc 24 LED*E2450swh",
-            "Specification": "Aoc 24 LED*E2450swh 23.6
-
-
-
- TN Panel , VGA , DVI , HDMI , 1920x1080 Resolution, 16:9 AR , 170 /160 Viewing Angel,  2ms Response Time, Wall Mount, TCO.",
+            "Specification": "Aoc 24 LED*E2450swh 23.6 TN Panel , VGA , DVI , HDMI , 1920x1080 Resolution, 16:9 AR , 170 /160 Viewing Angel,  2ms Response Time, Wall Mount, TCO.",
             "Price": "9830",
             "UPIOffer": "98.3",
             "Shiping": "free",

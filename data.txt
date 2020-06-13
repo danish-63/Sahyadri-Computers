@@ -904,11 +904,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_27 1.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_27 2.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_27 3.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_27 4.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_27 5.jpeg"
 ]
         },
         {
@@ -922,11 +922,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_28 1.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_28 2.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_28 3.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_28 4.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_28 5.jpeg"
 ]
         },
         {
@@ -940,11 +940,10 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_29 1.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_29 2.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_29 3.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_29 4.jpeg"
 ]
         },
         {
@@ -958,11 +957,10 @@
             "Shiping": "free",
             "Availblity": "available",
            "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_30 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_30 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_30 3.jpeg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_30 4.jpeg"
 ]
         },
         {
@@ -976,11 +974,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_31 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_31 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_31 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_31 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_31 5.jpg"
 ]
         },
         {
@@ -994,11 +992,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_32 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_32 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_32 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_32 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_32 5.jpg"
 ]
         },
         {
@@ -1012,11 +1010,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_33 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_33 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_33 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_33 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_33 5.jpg"
 ]
         },
         {
@@ -1030,11 +1028,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_34 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_34 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_34 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_34 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_34 5.jpg"
 ]
         },
         {
@@ -1048,11 +1046,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_35 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_35 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_35 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_35 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_35 5.jpg"
 ]
         },
         {
@@ -1066,11 +1064,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_36 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_36 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_36 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_36 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_36 5.jpg"
 ]
         },
         {
@@ -1084,11 +1082,10 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_37 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_37 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_37 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_37 4.jpg"
 ]
         },
         {
@@ -1102,11 +1099,11 @@
             "Shiping": "free",
             "Availblity": "available",
            "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_38 1.jfif",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_38 2.jfif",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_38 3.jfif",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_38 4.jfif",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_38 5.jfif"
 ]
         },
         {
@@ -1120,11 +1117,11 @@
             "Shiping": "free",
             "Availblity": "available",
            "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_39 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_39 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_39 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_39 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_39 5.jpg"
 ]
         },
         {
@@ -1138,11 +1135,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_40 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_40 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_40 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_40 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_40 5.jpg"
 ]
         },
         {
@@ -1156,11 +1153,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_41 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_41 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_41 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_41 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_41 5.jpg"
 ]
         },
         {
@@ -1174,11 +1171,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_42 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_42 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_42 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_42 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_42 5.jpg"
 ]
         },
         {
@@ -1192,11 +1189,9 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_43 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_43 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_43 3.jpg"
 ]
         },
         {
@@ -1210,11 +1205,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 5.jpg"
 ]
         },
         {
@@ -1228,11 +1223,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 5.jpg"
 ]
         },
         {
@@ -1246,11 +1241,11 @@
             "Shiping": "free",
             "Availblity": "available",
            "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_44 5.jpg"
 ]
         },
         {
@@ -1264,11 +1259,11 @@
             "Shiping": "free",
             "Availblity": "available",
             "Image":[
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 1.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 2.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 3.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 4.jpg",
-"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_26 5.jpg"
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_47 1.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_47 2.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_47 3.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_47 4.jpg",
+"https://raw.githubusercontent.com/danish-p/Sahyadri-Computers/master/prod/Laptop_47 5.jpg"
 ]
         }
     ],
